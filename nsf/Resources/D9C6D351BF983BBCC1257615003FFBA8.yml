@@ -1,0 +1,95 @@
+---
+class: 1
+flags: 0x0100
+unid: D9C6D351BF983BBCC1257615003FFBA8
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 955A5DA4601CB03AC1257615003D82DA
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 955A5DA4601CB03AC1257615003D82DA
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:38:51.92+02:00"
+        dst: true
+      - data: "2009-08-17T13:39:03.88+02:00"
+        dst: true
+      - data: "2009-08-17T13:46:16.24+02:00"
+        dst: true
+      - data: "2009-08-17T14:20:19.77+02:00"
+        dst: true
+      - data: "2009-08-17T14:30:19.89+02:00"
+        dst: true
+      - data: "2009-08-17T14:30:36.41+02:00"
+        dst: true
+      - data: "2009-08-18T09:48:54.01+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: RA User Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Main requests"
+      - "Requests\\Main requests"
+      - "Main requests\\Main requests"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:25:07.71+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 7.1.1 Creating requests
+  - name: SubjectNumber
+    type: text
+    data: 7.1.1
+  - name: SubjectText
+    type: text
+    data: Creating requests
+  - name: Subject_disp
+    type: text
+    data: "7.1.1\tCreating requests"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Requests
+      - Main requests
+  - name: levelEntry
+    type: text
+    data: Main requests
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf96AAUAAAhUaGUg
+      IkNyZWF0ZSIgbWVudSBvbiB0b3Agb2YgdGhpcyBzZWN0aW9uIGNvbnRhaW5zIHRoZSBzYW1lIHJlcXVl
+      c3QgdHlwZXMgYXMgdGhlICJDcmVhdGUiIG1lbnUgaW4gdGhlIEhvbWUgc2VjdGlvbi6BAoMEAQCF/wgA
+      AQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAAAIUmVsYXRlZCB0b3BpY3M6AIEC
+      gwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v+FAAAAAAACAAEAAAAdAEwAAAAAAAAAAABDTj1I
+      YWRkb2NrL09VPUR2bHAvTz1JbmZvd2FyZURhdGFiYXNlICdOVEY6IFVNVCBIZWxwIDguNScsIFZpZXcg
+      J0NvbnRlbnRzJywgRG9jdW1lbnQgJzYgVGhlIEhvbWUgc2VjdGlvbicAAACt/wwACwAIAAAAAADdBgAA
+      kf+R/3IAAQBEYXRhYmFzZSAnTlRGOiBVTVQgSGVscCA4LjUnLCBWaWV3ICdDb250ZW50cycsIERvY3Vt
+      ZW50ICc2IFRoZSBIb21lIHNlY3Rpb24nAENOPUhhZGRvY2svT1U9RHZscC9PPUluZm93YXJlAADeBgAA
+      kf/dBgAAhf+F/xQABQAECEhvbWUgc2VjdGlvbtIICQAAAP8A3gYAAIX/rgLeBgAArgCF/wgABQAACIEC
+      gwQBAIX/CAAFAAAI
+remaining: []

@@ -1,0 +1,98 @@
+---
+class: 1
+flags: 0x0100
+unid: 15656AED9C0BCCA3C1257615003108C8
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T10:55:35.12+02:00"
+        dst: true
+      - data: "2009-08-17T10:55:54.18+02:00"
+        dst: true
+      - data: "2009-08-17T20:24:39.13+02:00"
+        dst: true
+      - data: "2012-01-03T13:28:54.95+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Dedicated words\\Unit key"
+      - "Unit key\\Unit key"
+      - "Unit\\Unit key"
+      - "Organization ID\\Unit key"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T13:43:58.05+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Unit key/Organization ID
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Unit key/Organization ID
+  - name: Subject_disp
+    type: text
+    data: Unit key/Organization ID
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Dedicated words
+      - Unit key
+      - Unit
+      - Organization ID
+  - name: levelEntry
+    type: text
+    data: Unit key
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+yAAUAAAhBIHVu
+      aXQga2V5IGlzIGEgc3RyaW5nIHZhbHVlLCB1bmlxdWVseSBkZWZpbmluZyBhIHNpbmdsZSB1bml0IGlu
+      IFVNVC4gVGhlIHVuaXQga2V5IGlzIHVzZWQgdG8gbG9va3VwIHRoZSB1bml0IGRvY3VtZW50IGFuZCB0
+      byBhZGQgc3BlY2lmaWMgZGF0YSBhdHRyaWJ1dGVzIHRvIHRoZSByZXF1ZXN0LoECgwQBAIX/CAAFAAAI
+      gQKDBAEAhf97AAUAAAhUaGUgdW5pdCBrZXkgY2FuIGJlIGEgc2luZ2xlIGtleSBjb2RlIHZhbHVlIC0g
+      d2hpY2ggaXMgcmVjb21tZW5kZWQgLSBvciBhIGNvbmp1bmN0aW9uIG9mIGEgZGVmaW5lZCBsZXZlbCBo
+      aWVyYXJjaHkuAIECgwQBAIX/wwAFAAAIVGhlIG1vc3QgY29udmVuaWVudCBjb25maWd1cmF0aW9uIGlz
+      IHRvIHVzZSBhIHNpbmdsZSB2YWx1ZSBrZXksIGVzcGVjaWFsbHkgaWYgVU1UIGlzIHVzZWQgYXMgYW4g
+      aW50ZWdyYXRpb24gc2VydmljZS4gSXQgaXMgcmVjb21tZW5kZWQgdG8gdXNlIGEga2V5IGNvZGUgdGhh
+      dCBpcyBub3QgdmlzaWJsZSBmb3IgdGhlIHVzZXJzLgCBAoMEAQCF/wgABQAACIECgwQBAIX/gwAFAAAI
+      VGhlIHVuaXQga2V5IGFuZCB0aGUgcG9zc2libGUgaGllcmFyY2h5IGxldmVscyBhcmUgY29uZmlndXJl
+      ZCBpbiB0aGUgIlN5c3RlbSBzZXR0aW5ncyIgLSAiS2V5d29yZHMiIC0gIk9yZyBsZXZlbHMiIHNlY3Rp
+      b24uAIECgwQBAIX/CAAFAAAIgQKC/1oAAgAAAAAAAAAAACQIoiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgBAAAAAAAAAQAAAAQAAACDBAIAhf9PAAUA
+      AAhJZiBhIHNpbmdsZSB2YWx1ZSBzaG91bGQgYmUgdXNlZCwgc2VsZWN0IG9ubHkgb25lICgxKSBoaWVy
+      YXJjaHkgbGV2ZWwuAACBAoMEAgCF/1EABQAACEZvciBleGFtcGxlLCBpZiBVTVQgaXMgY29uZmlndXJl
+      ZCB3aXRoIGEgbGV2ZWwgaGllcmFyY2h5IG9mIHRocmVlIGxldmVsczoAhf8ZAAUBAAhEZXBhcnRtZW50
+      LCBDaXR5IACF/wwABQAACGFuZCCF/w8ABQEACENvdW50cnkAhf8rAAUAAAgsAHRoZSB1bml0IGtleSB3
+      b3VsZCB0eXBpY2FsbHkgYmUAAACF/x4ABQEACFN3ZWRlbiNTdG9ja2hvbG0jU2FsZXOF/wkABQAACC4A
+      gQKDBAEAhf8IAAUAAAiBAoMEAgCF/6oABQAACElmIHNlcGFyYXRlIGNvdW50cnkgZmllbGRzIGFyZSB1
+      c2VkLCB0aGUgdW5pdCBrZXkgd2lsbCBhbHNvIGNvbnRhaW4gdGhlIElTTy12YWx1ZSBvZiB0aGUgY291
+      bnRyeSwgbGlrZSB0aGlzOgAASWYgdGhlIG9yZ2FuaXphdGlvbiBoYXMgdGhyZWUgaGllYXJhcmNoaWNh
+      bCBsZXZlbHM6AIX/EgAFAQAIRGVwYXJ0bWVudIX/CgAFAAAILCCF/wwABQEACENpdHmF/w0ABQAACCBh
+      bmQgAIX/DAAFAQAIQXJlYYX/IAAFAAAIIGFuZCBhIHNlcGFyYXRlIGNvdW50cnkghf8RAAUBAAhTd2Vk
+      ZW4tU0UAhf8iAAUAAAgsAAB0aGUgdW5pdCBrZXkgd291bGQgYmUAAIX/CgAFAQAIU0WF/wkABQAACCMA
+      hf8jAAUBAAhTY2FuZGluYXZpYSNTdG9ja2hvbG0jU2FsZXMAgQKDBAEAhf8IAAUBAAiBAoMEAgCF/64A
+      BQAACElmIG5vIG9yZ2FuaXphdGlvbmFsIGluZm9ybWF0aW9uIGlzIHVzZWQsIHRoZSB1bml0IGtleSBp
+      cyBzaW1wbHkgdGhlIGNlcnRpZmllciBuYW1lLCB3aGljaCBvZiBjb3Vyc2UgYXNzdW1lcyB0aGF0IHRo
+      ZXJlIGlzIG9ubHkgb25lIHVuaXQgZG9jdW1lbnQgZm9yIGVhY2ggY2VydGlmaWVyLgA=
+remaining: []

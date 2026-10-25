@@ -1,0 +1,71 @@
+---
+class: 1
+flags: 0x0100
+unid: 03BA0A58DA87F47EC12577830052C634
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-18T17:04:06.92+02:00"
+        dst: true
+      - data: "2010-08-18T17:04:36.59+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail-in distribution\\UMT Mail-in"
+      - "Id-file distribution\\UMT Mail-in"
+      - "Id-files\\UMT Mail-in"
+      - "UMT Mail-in\\UMT Mail-in"
+  - name: Subject
+    type: text
+    data: 4.3.1 Installing from the web browser
+  - name: SubjectNumber
+    type: text
+    data: 4.3.1
+  - name: SubjectText
+    type: text
+    data: Installing from the web browser
+  - name: Subject_disp
+    type: text
+    data: "4.3.1\tInstalling from the web browser"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Mail-in distribution
+      - Id-file distribution
+      - Id-files
+      - UMT Mail-in
+  - name: levelEntry
+    type: text
+    data: UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKC/1oAAgAAAAAAAAAAACQI
+      oiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgB
+      AAAAAAAAAQAAAAQAAACDBAIAhf9HAAUAAAhPcGVuIHRoZSBkYXRhYmFzZSBmcm9tIGEgYnJvd3NlciBh
+      dCB0aGUgdXNlcidzIGNsaWVudCBtYWNoaW5lLgAAgQKDBAIAhf9FAAUAAAhUaGUgZW5hYmxlZCBkb2N1
+      bWVudHMgd2lsbCBhcHBlYXIgdW5kZXIgIlBlcnNvbnMgdG8gaW5zdGFsbCIAAIECgwQCAIX/LwAFAAAI
+      U2VsZWN0IHRoZSBpZC1maWxlIHlvdSB3YW50IHRvIGluc3RhbGwAAIECgwQCAIX/QQAFAAAIUmlnaHQt
+      Y2xpY2sgb24gdGhlIGlkLWZpbGUgYW5kIGNob29zZSAiU2F2ZSB0YXJnZXQgYXMuLiIAAIECgwQCAIX/
+      GQAFAAAIU2F2ZSB0aGUgaWQtZmlsZQAAgQKDBAIAhf8bAAUAAAhDbG9zZSB0aGUgZG9jdW1lbnQAAIEC
+      gwQBAIX/CAAFAAAI
+remaining: []

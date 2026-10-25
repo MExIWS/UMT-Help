@@ -1,0 +1,79 @@
+---
+class: 1
+flags: 0x0000
+unid: A6896B13C76654DEC125760D006E0DEF
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 330ACE7015129170C1257611006F2264
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 330ACE7015129170C1257611006F2264
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.41+02:00"
+        dst: true
+      - data: "2009-08-09T22:03:27.57+02:00"
+        dst: true
+      - data: "2009-08-09T22:09:46.63+02:00"
+        dst: true
+      - data: "2009-08-09T22:13:59.34+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Setup\\Installing UMT"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:48:23.57+01:00"
+  - name: Subject
+    type: text
+    data: 2.8 The Certification log database
+  - name: SubjectNumber
+    type: text
+    data: "2.8"
+  - name: SubjectText
+    type: text
+    data: The Certification log database
+  - name: Subject_disp
+    type: text
+    data: "2.8\tThe Certification log database"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Setup
+  - name: levelEntry
+    type: text
+    data: Installing UMT
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8bAAUAAAhNYWtl
+      IHN1cmUgdGhhdCB0aGUgAIX/EwAFAQAIY2VydGxvZy5uc2YAhf8YAAUAAAggZXhpc3RzIG9uIGV2ZXJ5
+      hf9zAAUAAAggcHJvY2VzcyBzZXJ2ZXIgaW4gdGhlIGRvbWFpbi4gVGhpcyBkYXRhYmFzZSBpcyB2aXRh
+      bCBmb3IgdGhlIHJlbmFtZSwgcmVjZXJ0aWZ5IGFuZCBtb3ZlIHByb2Nlc3NlcyB0byB3b3JrLgCBAoME
+      AQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAQAIUmVsYXRlZCB0b3Bp
+      Y3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAA
+      AAAAAK3/DAALAAgAAAAAAN0GAACR/5H/CQABAAAAAADeBgAAkf/dBgAAhf+F/xYABQAECFByb2Nlc3Mg
+      c2VydmVy0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

@@ -1,0 +1,73 @@
+---
+class: 1
+flags: 0x0100
+unid: 4795F57A84CB90D3C125798F00399434
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-24T11:28:54.92+01:00"
+      - data: "2012-01-24T11:32:59.31+01:00"
+      - data: "2012-01-24T11:35:34.31+01:00"
+      - data: "2012-01-24T11:36:17.21+01:00"
+      - data: "2012-01-24T15:47:29.95+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Recertify user request"
+      - "Recertify user\\Recertify user request"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 4.8 Recertify user request
+  - name: SubjectNumber
+    type: text
+    data: "4.8"
+  - name: SubjectText
+    type: text
+    data: Recertify user request
+  - name: Subject_disp
+    type: text
+    data: "4.8\tRecertify user request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Recertify user
+  - name: levelEntry
+    type: text
+    data: Recertify user request
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/8AAUAAAhUaGUg
+      IlJlY2VydGlmeSB1c2VyIiByZXF1ZXN0IGlzIHVzZWQgdG8gY2hhbmdlIHRoZSBleHBpcmF0aW9uIGRh
+      dGUgb24gdGhlIElEIGZpbGUgb2YgYSB1c2VyIGFjY291bnQuIFJlY2VydGlmaWNhdGlvbiBjYW4gYWxz
+      byBiZSBwZXJmb3JtZWQgYXV0b21hdGljYWxseSBieSBhbiBVTVQgYWdlbnQsIHdoaWNoIHNlYXJjaGVz
+      IHRoZSBEb21pbm8gRGlyZWN0b3J5IGZvciB1c2VyIGFjY291bnRzIHdpdGggZXhwaXJpbmcgZGF0ZXMu
+      gQKDBAEAhf8IAAUAAAiBAoMEAQCF/4cABQAACE5vcm1hbGx5LCB0aGUgcmVjZXJ0aWZpY2F0aW9uIGlz
+      IGhhbmRsZWQgYnkgdGhlIGFnZW50LCBidXQgZnJvbSB0aW1lIHRvIHRpbWUgaXQgY291bGQgYmUgdXNl
+      ZnVsIHRvIHVwZGF0ZSBzaW5nbGUgdXNlciBhY2NvdW50cy4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/1kA
+      BQAACEFmdGVyIHRoZSByZWNlcnRpZmljYXRpb24sIHRoZSB1c2VyIElEIGZpbGUgaXMgdXBkYXRlZCBi
+      eSB0aGUgVU1UIElEIHNlcnZlciB0YXNrLgCBAoMEAQCF/wgABQAACA==
+remaining: []

@@ -1,0 +1,66 @@
+---
+class: 1
+flags: 0x0000
+unid: 19275FF74F4E98DDC125797A0051EB72
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-03T15:54:46.90+01:00"
+      - data: "2012-01-03T15:55:18.83+01:00"
+      - data: "2012-01-03T15:55:27.79+01:00"
+      - data: "2012-01-03T15:57:47.61+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Effectivedate\\Effectivedate"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T14:33:05.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Effectivedate
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Effectivedate
+  - name: Subject_disp
+    type: text
+    data: Effectivedate
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data: Effectivedate
+  - name: levelEntry
+    type: text
+    data: Effectivedate
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/AAAUAAAhUaGUg
+      ZWZmZWN0aXZlZGF0ZSBpcyBhIERhdGUvVGltZSB2YWx1ZSB0aGUgZGV0ZXJtaW5lcyB3aGVuIHRoZSBy
+      ZXF1ZXN0IHNob3VsZCBiZSBwcm9jZXNzZWQuIFRoZSBlZmZlY3RpdmVkYXRlIGNhbm5vdCBiZSBlYXJs
+      aWVyIHRoYW4gdG9kYXlzIGRhdGUgYnV0IGNhbiBiZSBzZXQgdG8gYmUgcnVuIGluIHRoZSBmdXR1cmUu
+      gQKDBAEAhf8IAAUAAAiBAoMEAQCF/xoABQEACEludGVncmF0aW9uIG9wdGlvboECgwQBAIX/mAAFAAAI
+      SWYgdGhlIGludGVncmF0aW9uIG9wdGlvbiBpcyB1c2VkLCB0aGUgZWZmZWN0aXZlZGF0ZSBpcyBhbiBv
+      cHRpb25hbCB2YWx1ZS4gSWYgbm90IHNldCBieSB0aGUgZXh0ZXJuYWwgc291cmNlLCBpdCB3aWxsIGJl
+      IHNldCB0byBydW4gaW1tZWRpYXRlbHkugQKDBAEAhf8IAAUAAAg=
+remaining: []

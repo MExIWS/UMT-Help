@@ -1,0 +1,61 @@
+---
+class: 1
+flags: 0x0000
+unid: FCFA037917F5960AC12576100070DC87
+items:
+  - name: $Revisions
+    type: time
+    data: "2009-08-12T22:32:44.93+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Installing UMT Mail-in"
+      - "UMT Mailin\\Installing UMT Mail-in"
+  - name: Subject
+    type: text
+    data: 2.1 Installing the UMT Mailin database
+  - name: SubjectNumber
+    type: text
+    data: "2.1"
+  - name: SubjectText
+    type: text
+    data: Installing the UMT Mailin database
+  - name: Subject_disp
+    type: text
+    data: "2.1\tInstalling the UMT Mailin database"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - UMT Mailin
+  - name: levelEntry
+    type: text
+    data: Installing UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/CAAUAAAhJbnN0
+      YWxsIHRoZSBkYXRhYmFzZSwgcG9zc2libHkgaW4gdGhlIG1haWxpbi1kaXJlY3Rvcnkgb2YgYSBtYWls
+      IHNlcnZlci4gQ29uc2lkZXIgd2hpY2ggc2VydmVyIHRoYXQgc2hvdWxkIGhvbGQgdGhlIFVNVCBNYWls
+      LWluIGRhdGFiYXNlcywgc2luY2UgdGhhdCBzZXJ2ZXIgbXVzdCBoYXZlIHRoZSBlbmNyeXB0aW9uIGtl
+      eSCF/xIABQEACFVNVCBNYWlsaW6F/zoABQAACCBpbiBvcmRlciBmb3IgdGhlIFVNVCBNYWlsLWluIGFw
+      cGxpY2F0aW9uIHRvIHdvcmsugQKDBAEAhf8IAAUAAAg=
+remaining: []

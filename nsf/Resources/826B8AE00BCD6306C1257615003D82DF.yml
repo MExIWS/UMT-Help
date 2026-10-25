@@ -1,0 +1,102 @@
+---
+class: 1
+flags: 0x0100
+unid: 826B8AE00BCD6306C1257615003D82DF
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: CDB5F4479D9A5F99C1257611006DB798
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: CDB5F4479D9A5F99C1257611006DB798
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 1F927430B95C689FC1257615003C813A
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 1F927430B95C689FC1257615003C813A
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: EE57792ADD50C552C125760D006D8BE9
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: EE57792ADD50C552C125760D006D8BE9
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:11:52.09+02:00"
+        dst: true
+      - data: "2009-08-17T13:14:07.69+02:00"
+        dst: true
+      - data: "2009-08-17T13:14:21.68+02:00"
+        dst: true
+      - data: "2009-08-17T13:14:40.67+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: RA User Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Overview\\Overview"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-25T09:51:29.85+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 2. Overview
+  - name: SubjectNumber
+    type: text
+    data: "2."
+  - name: SubjectText
+    type: text
+    data: Overview
+  - name: Subject_disp
+    type: text
+    data: "2.\tOverview"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Overview
+  - name: levelEntry
+    type: text
+    data: Overview
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+AAAUAAAhVTVQg
+      aGFuZGxlcyBOb3RlcyB1c2VyIGFkbWluaXN0cmF0aXZlIHJvdXRpbmVzIHN1Y2ggYXMgY3JlYXRpbmcg
+      YSBuZXcgdXNlciBhY2NvdW50LCByZW5hbWluZyBhIHVzZXIsIHJlbW92aW5nIHVzZXJzIGV0Yy6BAoME
+      AQCF/wgABQAACIECgwQBAIX/nQAFAAAIVGhlIHByaW1hcnkgdGFyZ2V0IHVzZXJzIGZvciB0aGUgVU1U
+      IGFwcGxpY2F0aW9uIGFyZSBwZXJzb25zIHdobyBhcmUgcmVzcG9uc2libGUgZm9yIG9yZGVyaW5nIERv
+      bWlubyB1c2VyIGFjY291bnRzLiBJbiBVTVQsIHRoZXNlIHBlcnNvbnMgYXJlIGNhbGxlZCAAhf8gAAUB
+      AAhSZWdpc3RyYXRpb24gQXV0aG9yaXRpZXOF/w0ABQAACCwgUkEuAIECgwQBAIX/HwAFAAAIT3RoZXIg
+      dXNlcnMgb2YgVU1UIGFyZSAAhf8bAAUBAAhVc2VyIEFkbWluaXN0cmF0b3JzAIX/DQAFAAAIIGFuZCAA
+      hf8aAAUBAAhVTVQgQWRtaW5pc3RyYXRvcnOF/wkABQAACC4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/wgA
+      BQAACMn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAAAIUmVsYXRlZCB0b3BpY3M6AIEC
+      gwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAK3/
+      DAALAAgAAAAAAN0GAACR/5H/CQABAAAAAADeBgAAkf/dBgAAhf+F/w4ABQAECFRoZSBSQdIICQAAAP8A
+      3gYAAIX/rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v8cAAAA
+      AAACAAEAAAAAAAAAAAAAAAAAAAACAK3/DAALAAgAAAAAAN0GAACR/5H/CQADAAAAAADeBgAAkf/dBgAA
+      hf+F/x4ABQAECFRoZSBVc2VyIEFkbWluaXN0cmF0b3LSCAkAAAD/AN4GAACF/64C3gYAAK4Ahf8IAAUA
+      AAiBAoMEAQCF/wgABQAACN0GAACt/37/DAAgAAgAAAAAAPb/HAAAAAAAAgABAAAAAAAAAAAAAAAAAAAA
+      BACt/wwACwAIAAAAAADdBgAAkf+R/wkABQAAAAAA3gYAAJH/3QYAAIX/hf8dAAUABAhUaGUgVU1UIEFk
+      bWluaXN0cmF0b3IA0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

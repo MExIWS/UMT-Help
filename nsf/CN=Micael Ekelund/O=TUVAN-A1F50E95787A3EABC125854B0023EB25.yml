@@ -1,0 +1,41 @@
+---
+class: 34816
+flags: 0x0000
+unid: A1F50E95787A3EABC125854B0023EB25
+items:
+  - name: $ReplClassMasks
+    type: text
+    data: "30719"
+  - name: $ReplFields
+    type: text
+    data:
+      - ""
+    nonsummary: true
+  - name: $ReplFormula
+    type: text
+    data: ""
+  - name: $ReplLocalFolder
+    type: text
+    data:
+      - ""
+    nonsummary: true
+  - name: $ReplPrivateFolder
+    type: text
+    data:
+      - ""
+    nonsummary: true
+  - name: $ReplSrcServers
+    type: text
+    data: "-"
+  - name: $ReplVersion
+    type: text
+    data: "2"
+  - name: $ReplView
+    type: text
+    data:
+      - ""
+    nonsummary: true
+  - name: $TITLE
+    type: text
+    data: CN=Micael Ekelund/O=TUVAN
+remaining: []

@@ -1,0 +1,77 @@
+---
+class: 1
+flags: 0x0100
+unid: E90170F9E11BAF16C125797A004A461F
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-03T14:31:16.15+01:00"
+      - data: "2012-01-03T14:31:22.87+01:00"
+      - data: "2012-01-03T14:32:01.06+01:00"
+      - data: "2012-01-03T14:32:11.98+01:00"
+      - data: "2012-01-03T14:35:02.91+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Notes name\\The Notes name"
+      - "Common name\\The Notes name"
+      - "Firstname\\The Notes name"
+      - "Middleinitial\\The Notes name"
+      - "Lastname\\The Notes name"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:35:24.53+01:00"
+  - name: Subject
+    type: text
+    data: The Notes name
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: The Notes name
+  - name: Subject_disp
+    type: text
+    data: The Notes name
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Notes name
+      - Common name
+      - Firstname
+      - Middleinitial
+      - Lastname
+  - name: levelEntry
+    type: text
+    data: The Notes name
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/sQAFAAAIAFRoZSBOb3RlcyBuYW1lIGlz
+      IHRoZSBuYW1lIHRoYXQgaXMgdXNlZCBpbnRlcm5hbGx5IHdpdGhpbiB0aGUgSUJNIERvbWlubyBlbnZp
+      cm9ubWVudCBhbmQgaXMgYSBjb25qdW5jdGlvbiBvZiB0aGUgY29tbW9uIG5hbWUgYW5kIHRoZSBjZXJ0
+      aWZpZXIgdGhhdCB0aGUgdXNlciBiZWxvbmdzIHRvLgCBAoMEAQCF/0EABQAACFRoZSBOb3RlcyBuYW1l
+      IGlzIG1vc3Qgb2Z0ZW4gbm90IGtub3duIG91dHNpZGUgb2YgRG9taW5vLgCBAoMEAQCF/wgABQAACIEC
+      gwQBAIX/cAAFAAAISWYgdGhlIHVuaXF1ZSBJRCBvcHRpb24gaXMgbm90IHVzZWQgd2l0aGluIFVNVCwg
+      dGhlIE5vdGVzIG5hbWUgaXMgdXNlZCBhcyB0aGUgaWRlbnRpZmllciBpbiBsb29rdXBzIGV0Yy6BAoME
+      AQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAAAIUmVsYXRlZCB0b3Bp
+      Y3M6AIECgwQBAIX/CAAFAAAI
+remaining: []

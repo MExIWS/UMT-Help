@@ -1,0 +1,67 @@
+---
+class: 1
+flags: 0x0000
+unid: 0196EAB1C75A74F7C12576100070DC85
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T22:32:44.89+02:00"
+        dst: true
+      - data: "2009-08-17T20:26:09.73+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Installing UMT Mail-in"
+      - "UMT Mailin\\Installing UMT Mail-in"
+      - "Mailin document\\Installing UMT Mail-in"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:55:55.99+01:00"
+  - name: Subject
+    type: text
+    data: 2.3 Creating the Mailin document
+  - name: SubjectNumber
+    type: text
+    data: "2.3"
+  - name: SubjectText
+    type: text
+    data: Creating the Mailin document
+  - name: Subject_disp
+    type: text
+    data: "2.3\tCreating the Mailin document"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - UMT Mailin
+      - Mailin document
+  - name: levelEntry
+    type: text
+    data: Installing UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8PAAUAAAhJbiB0
+      aGUgAIX/GAAFAQAIRG9taW5vIERpcmVjdG9yeYX/YQAFAAAILCBjcmVhdGUgb25lIG1haWwtaW4gZG9j
+      dW1lbnQgZm9yIGVhY2ggVU1UIE1haWwtaW4gZGF0YWJhc2UgdXNlZCB3aXRoaW4gdGhlIG9yZ2FuaXph
+      dGlvbi4AgQKDBAEAhf8IAAUAAAg=
+remaining: []

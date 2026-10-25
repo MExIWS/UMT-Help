@@ -1,0 +1,1619 @@
+---
+class: 4
+flags: 0x0000
+unid: 5E5BDF6D980E033D852566E40069EAD2
+items:
+  - name: $$ScriptName
+    type: text
+    data: SearchIntro
+    signed: true
+    nonsummary: true
+  - name: $DesignerVersion
+    type: text
+    data: "6.5"
+    signed: true
+  - name: $Flags
+    type: text
+    data: C34WQ
+  - name: $FrameInfo
+    type: text
+    data:
+      - Main
+      - Topic
+    signed: true
+  - name: $TITLE
+    type: text
+    data:
+      - Lotus Notes and Domino Help - How to Search
+      - SearchIntro
+  - name: $ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 15
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 8
+        FontID: 0x00000000
+        HeightSpc: 2
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000001
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AQBOfA==
+        title: Categori_ze
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AgACCg==
+        title: _Edit Document
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AwADCg==
+        title: Send Docu_ment
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BAAECg==
+        title: Forward This Page
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BQA9fA==
+        title: _Move To Folder...
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BgA+fA==
+        title: _Remove From Folder
+      - type: 0xffbe
+        Flags: 0x0041419d
+        IconIndex: 0
+        ShareId: 1
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:66
+          
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim s As New NotesSession
+          	Dim ws As New NotesUIWorkspace
+          	Dim db As NotesDatabase
+          	Set db = s.CurrentDatabase
+          	Dim view As NotesView
+          	Dim doc As NotesDocument
+          	Set view = db.GetView("(Help)")
+          	Set doc = view.GetFirstDocument
+          	While Not (doc Is Nothing)
+          		Dim item As NotesItem
+          		Set item = doc.GetFirstItem("AppSpecID")
+          		If item.Text = "using_help" Then
+          			Dim unid As String
+          			unid = doc.UniversalID
+          			Set doc = db.GetDocumentByUNID(unid$)
+          			Call ws.SetTargetFrame("Topic")
+          			Call ws.EditDocument(False, doc, True,,False)
+          		Else
+          		End If
+          		Set doc = view.GetNextDocument(doc)
+          	Wend
+          End Sub
+        title: Get Help on Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 2
+        Type: 1
+        data: "@Command([OpenHelpDocument];[ClientHelp];\"(Help)\";\"IntroClientHelp\")"
+        data_opaque: |
+          SAAAADoAAgC9GwAAAAAAAAIAvQAAAAAAAAABAAYAKEhlbHApAQAPAEludHJvQ2xpZW50SGVscADtBAMA
+          BwAMAAUACTBTMEUA
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_client\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQAMAGhlbHA2X2NsaWVudEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Notes Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 3
+        Type: 1
+        data: "@Command([OpenHelpDocument];[DesignerHelp];\"(Help)\";\"IntroDesignerHelp\")"
+        data_opaque: |
+          SgAAADwAAgC9GwAAAAAAAAIAvgAAAAAAAAABAAYAKEhlbHApAQARAEludHJvRGVzaWduZXJIZWxwAO0E
+          AwAHAAwABQAJMFMwRQA=
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_designer\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQAOAGhlbHA2X2Rlc2lnbmVyRwIDAAcADAAFAAkwUzBFAA==
+        title: Open Domino Designer Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 4
+        Type: 1
+        data: "@Command([OpenHelpDocument];[AdminHelp];\"(Help)\";\"IntroAdminHelp\")"
+        data_opaque: |
+          RgAAADgAAgC9GwAAAAAAAAIAvwAAAAAAAAABAAYAKEhlbHApAQAOAEludHJvQWRtaW5IZWxw7QQDAAcA
+          DAAFAAkwUzBFAA==
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Domino Administration Help
+  - name: $BODY
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0000
+        Flags2: 0x0094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 0
+        RightMargin: 6211
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+      - type: 0x00a6
+        FONTID: 167772161
+        Flags: 0x00000003
+        PABID: 1
+        StyleName: Basic
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8494
+        JustifyMode: 1
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 2
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 1
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1440
+          - 13
+          - 1440
+          - 13
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 2
+      - type: 0xff85
+        FontID: 0x9000101
+        data: HOW TO SEARCH
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8494
+        JustifyMode: 1
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 3
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 720
+          - 1440
+          - 2160
+          - 2880
+          - 3600
+          - 4320
+          - 5040
+          - 5760
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 8
+        data:
+          - 1440
+          - 13
+          - 1440
+          - 13
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0x9000001
+      - type: 0x00dd
+        Signature: 0x0099
+        Version: 1
+      - type: 0x0099
+        opaque: mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==
+      - type: 0x007d
+        opaque: fQAcAAAAAQCAAC0AAAAAAAAAAAAAAAAAAAAAAA==
+      - type: 0xfff6
+        opaque: 9v80AAAAAAADABMAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAEluZm9XYXJlLXNtYWxsLmdpZg==
+      - type: 0x00de
+        Signature: 0x0099
+        Version: 1
+      - type: 0xff85
+        FontID: 0x9000001
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 4
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 720
+          - 1440
+          - 2160
+          - 2880
+          - 3600
+          - 4320
+          - 5040
+          - 5760
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 8
+        data:
+          - 1440
+          - 13
+          - 1440
+          - 13
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "To perform a full-text search on all the topics that are in this database and that contain a specific word or phrase, enter a search query. "
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0x9000001
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0900
+        Flags2: 0x8094
+        JustifyMode: 2
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 5
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1440
+          - 13
+          - 1440
+          - 13
+          - 11745
+          - 92
+          - 0x00000001
+          - 0x00000004
+      - type: 0xffbb
+        PABID: 0x0005
+        Reserverd: m2EUADUB4Mg=
+        data: "@Subset(@DbName;1)=\"\""
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0x9000101
+        data: Note
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "  If this copy of Help is on a server, make sure you can see a green circle and the word \"Indexed\" in the Search bar on the left. If not, ask the server administrator to make sure all the Help databases on the server have full-text indexes. A full-text index makes searching faster and lists the topics that contain more occurrences of your search entry first."
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8495
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 6
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 2
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 6
+      - type: 0xff85
+        FontID: 0x9000101
+        data: To enter a query
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8095
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 7
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 2160
+          - 2880
+          - 4320
+          - 5760
+          - 7200
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 5
+        data:
+          - 1440
+          - 10
+          - 1440
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 7
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Click the box in the left frame, and enter a query that includes one or more of the following:"
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 2220
+        Flags: 0x0500
+        Flags2: 0x8095
+        JustifyMode: 0
+        LeftMargin: 2220
+        LineSpacing: 0
+        PABID: 8
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 1320
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 1
+        data:
+          - 2220
+          - 10
+          - 2220
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 8
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "A single word -- for example, reply"
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "A phrase enclosed in double quotation marks (\") -- for example,"
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x90b0101
+        data: " "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x800080
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "\"reply with history\""
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 2220
+        Flags: 0x0500
+        Flags2: 0x8095
+        JustifyMode: 0
+        LeftMargin: 2220
+        LineSpacing: 0
+        PABID: 9
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 1440
+          - 2160
+          - 3600
+          - 5040
+          - 6480
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 5
+        data:
+          - 2220
+          - 10
+          - 2220
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 9
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Multiple words or phrases separated by operators
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 9
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "A word that contains one or more wildcard characters -- for example, enter ?ing to find king, sing, and ring"
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8095
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 10
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 2
+        RightMargin: 0
+        Tab:
+          - 1440
+          - 2160
+          - 3600
+          - 5040
+          - 6480
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 5
+        data:
+          - 1440
+          - 10
+          - 1440
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 10
+      - type: 0xff85
+        FontID: 0x9000101
+        data: To clear search results and enter a new query
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8095
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 11
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 1440
+          - 2160
+          - 3600
+          - 5040
+          - 6480
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 5
+        data:
+          - 1440
+          - 10
+          - 1440
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 11
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Click Clear and then enter a new query.
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 10
+      - type: 0xff85
+        FontID: 0x9000101
+        data: To search the results of a query
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1800
+        Flags: 0x1100
+        Flags2: 0x8095
+        JustifyMode: 0
+        LeftMargin: 1800
+        LineSpacing: 0
+        PABID: 12
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 1020
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 1
+        data:
+          - 1800
+          - 10
+          - 1800
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 12
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Click the triangle at the right side of the Search bar.
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1800
+        Flags: 0x1100
+        Flags2: 0x8095
+        JustifyMode: 0
+        LeftMargin: 1800
+        LineSpacing: 0
+        PABID: 13
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 1440
+          - 2160
+          - 3600
+          - 5040
+          - 6480
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 5
+        data:
+          - 1800
+          - 10
+          - 1800
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 13
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Select \"Search in results.\""
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Enter a new query, overwriting the previous query."
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 10
+      - type: 0xff85
+        FontID: 0x9000101
+        data: To search only topic titles
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Use Edit - Find/Replace to search only the topic titles for a word or phrase.
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Click Contents, and then choose View - Expand All."
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Choose Edit - Find/Replace, and then enter the word or phrase you want to find."
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Click \"Find Next.\""
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x8100
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 14
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 720
+          - 1440
+          - 2160
+          - 2880
+          - 3600
+          - 4320
+          - 5040
+          - 5760
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 8
+        data:
+          - 1440
+          - 13
+          - 1440
+          - 13
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 14
+      - type: 0xff85
+        FontID: 0x9000101
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 14
+      - type: 0xff85
+        FontID: 0x9000101
+        data: To rebuild the index for the Help database
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "If you see a message instructing you to rebuild the full-text index, do the following:"
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Choose File - Properties, and then click the magnifying glass tab."
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Click \"Delete Index,\" and then click \"Create Index.\""
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x8100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 15
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 1440
+          - 2160
+          - 3600
+          - 5040
+          - 6480
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 5
+        data:
+          - 1440
+          - 10
+          - 1440
+          - 10
+          - 9120
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 15
+      - type: 0xff85
+        FontID: 0x9000001
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 15
+      - type: 0xff85
+        FontID: 0x9000101
+        data: How to type entries
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 2160
+        Flags: 0x8500
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 2160
+        LineSpacing: 0
+        PABID: 16
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 720
+          - 1440
+          - 2160
+          - 2880
+          - 3600
+          - 4320
+          - 5040
+          - 5760
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 8
+        data:
+          - 2160
+          - 16
+          - 2160
+          - 16
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 16
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Separate multiple words by spaces
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Don't include any quotes or operators"
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x8100
+        Flags2: 0x8794
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 17
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 17
+      - type: 0xff85
+        FontID: 0x9000001
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x8100
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 18
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 18
+      - type: 0xff85
+        FontID: 0x9000101
+        data: To search
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1800
+        Flags: 0x9100
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 1800
+        LineSpacing: 0
+        PABID: 19
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1800
+          - 16
+          - 1800
+          - 16
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Click the box in the left frame and type a word or phrase.
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0x9000001
+        data: "Select a search option from the drop-down list, for example, This exact phrase, Any of these words (AND), or All of these words (OR)."
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Click Search.
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1800
+        Flags: 0x8100
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 1800
+        LineSpacing: 0
+        PABID: 20
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1800
+          - 0
+          - 1800
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 20
+      - type: 0xff85
+        FontID: 0x9000001
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 18
+      - type: 0xff85
+        FontID: 0x9000101
+        data: To search again
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Click Search Again
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Type a word or phrase.
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Select a search option from the drop-down list.
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0x9000001
+        data: Click Search.
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa040101
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x0000ff
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x9040501
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x0000ff
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x9040501
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x0000ff
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00dd
+        Signature: 0xff73
+        Version: 1
+      - type: 0xff73
+        opaque: c/8aAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xfff6
+        opaque: 9v8uAAAAAAADACEADAAAAAAAAAAAAAAAAAAAAAAAAAAAAFdlYnN0eWxlLmNzcw==
+      - type: 0x00de
+        Signature: 0xff73
+        Version: 1
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x9040501
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x0000ff
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZBcmlhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: $HTMLCode
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: 8v8eABIAAQAAAAAAEgAAABAAAQAFAFRvcGljAAMAX/8QAAIADwAHAAAAAAAAAA==
+  - name: $INFO
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: hhgBAIAAAAAAgAAAAQABAP///wAAAAAA
+  - name: $V5ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 15
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 8
+        FontID: 0x00000000
+        HeightSpc: 2
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000001
+      - type: 0xff79
+        BackColor:
+          Flags: 0x0001
+          rgb: 0xc0c0c0
+        BtnBorderDisplay: 0
+        BtnTextJustify: 0
+        BtnWidthStyle: 0
+        ButtonColor:
+          Flags: 0x0001
+          rgb: 0xc0c0c0
+        FontColor:
+          Flags: 0x0001
+          rgb: 0x000000
+        LineColor:
+          Flags: 0x0001
+          rgb: 0x000000
+        Spare:
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+        barFontID: 0x00000000
+        barHeight:
+          Flags: 0x0000
+          Length:
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+          Reserved: 0
+          Units: 0
+        dwFlags: 0x00000003
+        wAppletHeight: 31
+        wBarBackgroundRepeat: 0
+        wBtnInternalMargin: 0
+        wBtnWidthAbsolute: 0
+        wSpare: 0x0000
+        wThemeSetting: 0
+      - type: 0xfffc
+        BorderFlags: 0
+        BorderStyle: 0
+        BorderWidthBottom: 1
+        BorderWidthLeft: 0
+        BorderWidthRight: 0
+        BorderWidthTop: 0
+        Color:
+          Flags: 0x0001
+          rgb: 0x000000
+        DropShadowWidth: 0
+        Flags: 0x00000000
+        InnerWidthBottom: 0
+        InnerWidthLeft: 0
+        InnerWidthRight: 0
+        InnerWidthTop: 0
+        OuterWidthBottom: 0
+        OuterWidthLeft: 0
+        OuterWidthRight: 0
+        OuterWidthTop: 0
+        dwSpare: 0x00000000
+        wSpares:
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AQBOfA==
+        title: Categori_ze
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AgACCg==
+        title: _Edit Document
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AwADCg==
+        title: Send Docu_ment
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BAAECg==
+        title: Forward This Page
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BQA9fA==
+        title: _Move To Folder...
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BgA+fA==
+        title: _Remove From Folder
+      - type: 0xffbe
+        Flags: 0x0041419d
+        IconIndex: 0
+        ShareId: 1
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:66
+          
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim s As New NotesSession
+          	Dim ws As New NotesUIWorkspace
+          	Dim db As NotesDatabase
+          	Set db = s.CurrentDatabase
+          	Dim view As NotesView
+          	Dim doc As NotesDocument
+          	Set view = db.GetView("(Help)")
+          	Set doc = view.GetFirstDocument
+          	While Not (doc Is Nothing)
+          		Dim item As NotesItem
+          		Set item = doc.GetFirstItem("AppSpecID")
+          		If item.Text = "using_help" Then
+          			Dim unid As String
+          			unid = doc.UniversalID
+          			Set doc = db.GetDocumentByUNID(unid$)
+          			Call ws.SetTargetFrame("Topic")
+          			Call ws.EditDocument(False, doc, True,,False)
+          		Else
+          		End If
+          		Set doc = view.GetNextDocument(doc)
+          	Wend
+          End Sub
+        title: Get Help on Help
+      - type: 0xfff2
+        opaque: 8v8RAAUAAAAAAAAAVG9waWM=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 2
+        Type: 1
+        data: "@Command([OpenHelpDocument];[ClientHelp];\"(Help)\";\"IntroClientHelp\")"
+        data_opaque: |
+          SAAAADoAAgC9GwAAAAAAAAIAvQAAAAAAAAABAAYAKEhlbHApAQAPAEludHJvQ2xpZW50SGVscADtBAMA
+          BwAMAAUACTBTMEUA
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_client\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQAMAGhlbHA2X2NsaWVudEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Notes Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 3
+        Type: 1
+        data: "@Command([OpenHelpDocument];[DesignerHelp];\"(Help)\";\"IntroDesignerHelp\")"
+        data_opaque: |
+          SgAAADwAAgC9GwAAAAAAAAIAvgAAAAAAAAABAAYAKEhlbHApAQARAEludHJvRGVzaWduZXJIZWxwAO0E
+          AwAHAAwABQAJMFMwRQA=
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_designer\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQAOAGhlbHA2X2Rlc2lnbmVyRwIDAAcADAAFAAkwUzBFAA==
+        title: Open Domino Designer Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 4
+        Type: 1
+        data: "@Command([OpenHelpDocument];[AdminHelp];\"(Help)\";\"IntroAdminHelp\")"
+        data_opaque: |
+          RgAAADgAAgC9GwAAAAAAAAIAvwAAAAAAAAABAAYAKEhlbHApAQAOAEludHJvQWRtaW5IZWxw7QQDAAcA
+          DAAFAAkwUzBFAA==
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Domino Administration Help
+remaining: []

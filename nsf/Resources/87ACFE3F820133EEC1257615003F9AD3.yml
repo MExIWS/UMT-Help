@@ -1,0 +1,83 @@
+---
+class: 1
+flags: 0x0100
+unid: 87ACFE3F820133EEC1257615003F9AD3
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:34:44.03+02:00"
+        dst: true
+      - data: "2009-08-17T13:35:03.36+02:00"
+        dst: true
+      - data: "2009-08-17T13:44:56.80+02:00"
+        dst: true
+      - data: "2009-08-17T14:08:22.95+02:00"
+        dst: true
+      - data: "2009-08-17T14:10:34.19+02:00"
+        dst: true
+      - data: "2009-08-17T14:11:11.71+02:00"
+        dst: true
+      - data: "2009-08-17T14:14:31.58+02:00"
+        dst: true
+      - data: "2009-08-17T14:15:16.46+02:00"
+        dst: true
+      - data: "2009-08-17T14:15:22.70+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: RA User Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Change home server\\Change home server"
+      - "Admin requests\\Change home server"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:33:39.02+01:00"
+  - name: Subject
+    type: text
+    data: 6.2.2 Change home server request
+  - name: SubjectNumber
+    type: text
+    data: 6.2.2
+  - name: SubjectText
+    type: text
+    data: Change home server request
+  - name: Subject_disp
+    type: text
+    data: "6.2.2\tChange home server request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Change home server
+      - Admin requests
+  - name: levelEntry
+    type: text
+    data: Change home server
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/FAAUAAAhUaGUg
+      Q2hhbmdlIGhvbWUgc2VydmVyIHJlcXVlc3QgaXMgbm9ybWFsbHkgbm90IHVzZWQgdmVyeSBvZnRlbiwg
+      YnV0IGl0IGNvdWxkIGJlIHVzZWZ1bCBpZiBvbmUgb3IgbW9yZSB1c2VycyBuZWVkIHRvIGhhdmUgbmV3
+      IG1haWwgZmlsZXMgY3JlYXRlZCBvbiBhIG5ldyBzZXJ2ZXIuIE5vdGUgdGhhdCB0aGlzIHJlcXVlc3Qg
+      ZG9lcyAAhf8LAAUEAAhub3QAhf8zAAUAAAggY3JlYXRlIGEgcmVwbGljYSBvZiBhbiBleGlzdGluZyBt
+      YWlsIGZpbGUuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf9NAAUAAAhTZWxlY3QgdGhlIHVzZXIgYW5kIHRo
+      ZW4gc2VsZWN0IHRoZSBwcm9wZXIgbWFpbCBzZXJ2ZXIgZm9yIHRoaXMgdXNlci4AgQKDBAEAhf8IAAUA
+      AAg=
+remaining: []

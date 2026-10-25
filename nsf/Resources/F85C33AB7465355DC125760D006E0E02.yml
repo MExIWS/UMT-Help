@@ -1,0 +1,66 @@
+---
+class: 1
+flags: 0x0000
+unid: F85C33AB7465355DC125760D006E0E02
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.79+02:00"
+        dst: true
+      - data: "2009-08-09T22:02:45.93+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT administrators guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Setup\\Installing UMT"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-16T14:28:15.65+01:00"
+  - name: Subject
+    type: text
+    data: "2.2 Managing the ACL:s"
+  - name: SubjectNumber
+    type: text
+    data: "2.2"
+  - name: SubjectText
+    type: text
+    data: "Managing the ACL:s"
+  - name: Subject_disp
+    type: text
+    data: "2.2\tManaging the ACL:s"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Setup
+  - name: levelEntry
+    type: text
+    data: Installing UMT
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9VAAUAAAhJbiB0
+      aGlzIGNoYXB0ZXIgd2UgZXhwbGFpbiBhbGwgVU1UIHVzZXIgdHlwZXMgYW5kIHRoZWlyIHJvbGVzIGlu
+      IG1vcmUgZGV0YWlsLgCBAoMEAQCF/wgABQAACIECgv9aAAIAAAAAAAAAAAAkCKIjJAgAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGBQAAAABUhGgBAABoAQAAAAAAAAEAAAAEAAAA
+      gwQCAIX/WQAFAAAIRmlyc3Qgd2UgZXhhbWluZSBhbGwgdXNlciB0eXBlcyBhbmQgdGhlaXIgY29ycmVz
+      cG9uZGluZyByb2xlIGluIHRoZSBvcmdhbml6YXRpb24uAIECgwQCAIX/NgAFAAAIVGhlbiB3ZSBicm93
+      c2UgdGhyb3VnaCBhbGwgVU1UIGRhdGFiYXNlIEFDTDpzLoECgv9aAAMAAAAAAAAAAAC8BqIjvAYAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGAQAAAABUhAAAAAAAAAAAAAAAAAEA
+      AAAEAAAAgwQDAIX/CAAFAAAI
+remaining: []

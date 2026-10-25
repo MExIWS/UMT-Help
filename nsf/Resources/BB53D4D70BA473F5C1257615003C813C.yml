@@ -1,0 +1,94 @@
+---
+class: 1
+flags: 0x0000
+unid: BB53D4D70BA473F5C1257615003C813C
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:00:52.60+02:00"
+        dst: true
+      - data: "2009-08-17T13:08:22.48+02:00"
+        dst: true
+      - data: "2009-08-17T15:25:42.85+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: User Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "External source\\External source requests"
+      - "External requests\\External source requests"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-25T13:04:39.99+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 2.5.1 Monitoring external requests
+  - name: SubjectNumber
+    type: text
+    data: 2.5.1
+  - name: SubjectText
+    type: text
+    data: Monitoring external requests
+  - name: Subject_disp
+    type: text
+    data: "2.5.1\tMonitoring external requests"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - External source
+      - External requests
+  - name: levelEntry
+    type: text
+    data: External source requests
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf96AAUAAAhFeHRl
+      cm5hbCByZXF1ZXN0cyB3aXRoIHRoZSBwcm9wZXIga2V5d29yZHMgKHNlZSByZXF1aXJlZCBmaWVsZHMg
+      aW4gdGhlICJFeHRlcm5hbCByZXF1ZXN0cyBpbnB1dCIpIGFycml2ZSBpbnRvIHRoZSCF/x4ABQEACEV4
+      dGVybmFsIFJlcXVlc3RzIHZpZXeF/xAABQAACCB3aXRoIGEgmQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AQAAAH0AHAAAAAEAEQAPAGcAAAABAAAAAAAAAAAAAAB8AHIAAABnAGgAR0lGODdhEQAPAMIAAPz+/AQC
+      BMTCxOT6/KT6/ISChAAAAAAAACwAAAAAEQAPAAADNAi63P4wShHCqgIGUVahD/d8TgeZTIVtqtUEBECw
+      8ewEwwBYuO6mOhtO9kthAJSKZMlsRhIAOz+F/x0ABQAACCBzaWduIGluIGZyb250IG9mIGl0LgCBAoME
+      AQCF/0IABQAACElmIHNvbWUgZGF0YSBpcyBpbmNvcnJlY3QsIHRoZSByZXF1ZXN0IHdpbGwgZW5kIHVw
+      IHdpdGggYSCZABwAAADSAKUAAAAAAAAAAAAAAAAAAQABAAAAnwAWAAAACABYASMBwwClAJIBAAABAJsA
+      nAEAAJIBkgEBAAkAAAPJAAAAAABtAAAAAAAEAAAAAwEIAAUAAAALAgAAAAAFAAAADAIMAA4AAwAAAB4A
+      OwAAAEELhgDuAAsADQAAAAAACwANAAAAAAAoAAAADQAAAAsAAAABAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAP///wAPwAAAH+C8AD/w2do/8N3eP/Dh4j/w5eY/8OnqP/Dt7h/g8fIPwPX2AAD5+m0A
+      AABBC8YAiAALAA0AAAAAAAsADQAAAAAAKAAAAA0AAAALAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAD///8AgICAAAAAgAAAAP8AwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAARESAAAhEQABESNERAIRBSESNEREQCEAQRMRVBUUAQ9xE0UUFRQBAEETFBQVUQEOARMRER
+      ERAQAREjREREMhD/ERI0REMhEAERESMzMhEQUxERERERERABBAAAACcB//8DAAAAAACVACYAAAAAAAAA
+      AAAAAAEAAAAAAAAADgALAAgAAQAIAAEABgAAAJYAiQAAAAAAAAAAAAAACwB3AM4AxAABA8QCAQPEAMMA
+      AgMCxAECAgPDAMIAAgMCxgECAgPCAMIAAQLIAAEEwgDCAAYCAAEAAQDCBQIABMIAwgAKAgEFAAEABQAB
+      BMIAwgABAsIABwUBAAUAAQTCAMIAAgMCxgECBAPCAMMAAgMCxAECBAPDAM4AAJcAGAAAAP////gAAIAA
+      AICAgAAAAMDAwIX/XQAFAAAIIHNpZ24uIEEgc21hbGwgbG9nIG1lc3NhZ2UgYXBwZWFycyBvbiB0b3Ag
+      b2YgdGhlIHJlcXVlc3QsIHRlbGxpbmcgd2hhdCB0aGUgZXJyb3IgaXMuIACBAoMEAQCF/wgABQAACIEC
+      gwQBAIX/uwAFAAAIU2luY2UgYW4gZXJyb3IgaW5kaWNhdGVzIHRoYXQgc29tZXRoaW5nIGlzIHdyb25n
+      IGluIHRoZSBzb3VyY2UgZGF0YSwgZXh0ZXJuYWwgVU1UIHJlcXVlc3QgY2FuIG5ldmVyIGJlIGNoYW5n
+      ZWQuIENvcnJlY3QgdGhlIGVycm9yIGF0IHRoZSBzb3VyY2UsIGFuZCBpbXBvcnQgYSBuZXcgcmVxdWVz
+      dCBpbnN0ZWFkLiAAgQKDBAEAhf8IAAUAAAiBAoMEAQCF/30ABQAACElmIHRoZSBlcnJvciBjYW4gYmUg
+      Y29ycmVjdGVkIGl0IGlzIHBvc3NpYmxlIHRvIGVuYWJsZSB0aGUgcmVxdWVzdCB0aHJvdWdoIHRoZSAi
+      UmV0cnkiIGJ1dHRvbiBpbiB0aGUgIkV4dGVybmFsIiB2aWV3LgCBAoMEAQCF/wgABQAACIECgwQBAIX/
+      TgAFAAAIQ29ycmVjdCBleHRlcm5hbCByZXF1ZXN0cyBkaXNhcHBlYXJzIGZyb20gdGhpcyB2aWV3IGFu
+      ZCBlbmQgdXAgaW4gdGhlIIX/GQAFAQAITmV3IFJlcXVlc3RzIHZpZXcAhf8JAAUAAAguAIECgwQBAIX/
+      CAAFAAAI
+remaining: []

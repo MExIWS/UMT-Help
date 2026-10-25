@@ -1,0 +1,85 @@
+---
+class: 1
+flags: 0x0000
+unid: E9247074FAFFC663C12576100070DC8E
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 8A3CA6C3DD0C84ABC125760D006E0DFC
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 8A3CA6C3DD0C84ABC125760D006E0DFC
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T22:32:45.07+02:00"
+        dst: true
+      - data: "2009-08-17T11:40:28.13+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Setup\\Installing UMT Mail-in"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:54:47.00+01:00"
+  - name: Subject
+    type: text
+    data: 1.1 The UMT Mailin database
+  - name: SubjectNumber
+    type: text
+    data: "1.1"
+  - name: SubjectText
+    type: text
+    data: The UMT Mailin database
+  - name: Subject_disp
+    type: text
+    data: "1.1\tThe UMT Mailin database"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Setup
+  - name: levelEntry
+    type: text
+    data: Installing UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9cAAUAAAhUaGUg
+      VU1UIE1haWwtaW4gZGF0YWJhc2Ugc2hvdWxkIGJlIHVzZWQgdG9nZXRoZXIgd2l0aCB0aGUgaWQtZmls
+      ZSBkaXN0cmlidXRpb24gdHlwZSCF/yYABQEACERpc3RyaWJ1dGUgdG8gTWFpbC1pbiBkYXRhYmFzZYX/
+      SwAFAAAILiBUaGUgc2V0dGluZyBjYW4gYmUgZm91bmQgaW4gdGhlIFVNVCBNYWluIENvbmZpZ3VyYXRp
+      b24gdW5kZXIgdGhlIACF/zkABQEACElkLWZpbGUgc2VjdXJpdHkgLSBJZC1maWxlL3Bhc3N3b3JkIGRp
+      c3RyaWJ1dGlvbiAAhf8MAAUAAAh0YWIugQKDBAEAhf8IAAUAAAiBAoMEAQCF/8AABQAACEFsbCBkb2N1
+      bWVudHMgc2VudCB0byBVTVQgTWFpbC1pbiBhcmUgZW5jcnlwdGVkIGF0IGFycml2YWwsIHdpdGggYSBz
+      cGVjaWFsIGVuY3J5cHRpb24ga2V5LiBUaGUgaW5mb3JtYXRpb24gaW4gdGhlc2UgZG9jdW1lbnRzIGlz
+      IHZpc2libGUgb25seSB0byBwZW9wbGUgd2hvIHBvc3Nlc3MgdGhpcyBlbmNyeXB0aW9uIGtleS6BAoME
+      AQCF/wgABQAACIECgwQBAIX/fQAFAAAIVU1UIE1haWwtaW4gaGFzIGEgbG90IG9mIGNvbnZlbmllbnQg
+      ZnVuY3Rpb25zIHRvIG1ha2UgaWQtZmlsZSBhbmQgcGFzc3dvcmQgZGlzdHJpYnV0aW9uIGZvciBsYXJn
+      ZSBvcmdhbml6YXRpb25zIGVhc3kuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf9XAAUAAAhUaGlzIGNoYXB0
+      ZXIgZXhwbGFpbmVzIGluc3RhbGxpbmcsIG1hbmFnaW5nIGFuZCB1c2luZyB0aGUgVU1UIE1haWwtaW4g
+      ZGF0YWJhc2UuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf8IAAEAAArJ/xAABAAAAGQAHAD/////hf8IAAUA
+      AAiBAoMEAQCF/xcABQEACFJlbGF0ZWQgdG9waWNzOgCBAoMEAQCF/wgABQAACN0GAACt/37/DAAgAAgA
+      AAAAAPb/HAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAACt/wwACwAIAAAAAADdBgAAkf+R/wkAAQAAAAAA
+      3gYAAJH/3QYAAIX/hf8xAAUABAhVTVQgTWFpbiBDb25maWd1cmF0aW9uIC0gSWQtZmlsZSBzZWN1cml0
+      eQDSCAkAAAD/AN4GAACF/64C3gYAAK4Ahf8IAAUAAAiBAoMEAQCF/wgABQAACA==
+remaining: []

@@ -1,0 +1,70 @@
+---
+class: 1
+flags: 0x0000
+unid: 5C05C44FAAE03A23C125760D006E0DFF
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.73+02:00"
+        dst: true
+      - data: "2009-08-09T22:03:12.75+02:00"
+        dst: true
+      - data: "2009-08-09T22:09:18.59+02:00"
+        dst: true
+      - data: "2009-08-09T22:10:39.60+02:00"
+        dst: true
+      - data: "2009-08-09T22:12:08.72+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Admin process\\AdminP database"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:47:44.71+01:00"
+  - name: Subject
+    type: text
+    data: 2.5 The adminP database
+  - name: SubjectNumber
+    type: text
+    data: "2.5"
+  - name: SubjectText
+    type: text
+    data: The adminP database
+  - name: Subject_disp
+    type: text
+    data: "2.5\tThe adminP database"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Admin process
+  - name: levelEntry
+    type: text
+    data: AdminP database
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAQAIgQKDBAEAhf9LAAUAAAhUaGUg
+      VU1UIGFwcGxpY2F0aW9uIHdvcmtzIHZlcnkgY2xvc2VseSB0byB0aGUgRG9taW5vIEFkbWluIFByb2Nl
+      c3MuAIECgwQBAIX/UAAFAAAITWFrZSBzdXJlIHRoYXQgdGhlIGFkbWluUC1kYXRhYmFzZSByZXNpZGVz
+      IG9uIGFsbCBzZXJ2ZXJzIGluIHRoZSBkb21haW4ugQKDBAEAhf8IAAUAAAiBAoMEAQCF/2MABQAACFRo
+      ZSBmaWxlIG5hbWUgb2YgdGhlIGFkbWluUCBkYXRhYmFzZSBpcyBjb25maWd1cmFibGUgaW4gVU1UIENv
+      bmZpZ3VyYXRpb24sIGJ1dCBkZWZhdWx0cyB0byAAhf8TAAUBAAhhZG1pbjQubnNmLgCBAoMEAQCF/wgA
+      BQEACA==
+remaining: []

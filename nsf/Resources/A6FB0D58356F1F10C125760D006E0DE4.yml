@@ -1,0 +1,68 @@
+---
+class: 1
+flags: 0x0000
+unid: A6FB0D58356F1F10C125760D006E0DE4
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.19+02:00"
+        dst: true
+      - data: "2009-08-09T22:03:37.24+02:00"
+        dst: true
+      - data: "2009-08-09T22:10:25.26+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Setup\\Installing UMT"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T11:20:01.39+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 3. UMT Main Configuration
+  - name: SubjectNumber
+    type: text
+    data: "3."
+  - name: SubjectText
+    type: text
+    data: UMT Main Configuration
+  - name: Subject_disp
+    type: text
+    data: "3.\tUMT Main Configuration"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Setup
+  - name: levelEntry
+    type: text
+    data: Installing UMT
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+zAAUAAAhUaGUg
+      VU1UIE1haW4gQ29uZmlndXJhdGlvbiBjb250YWlucyBnbG9iYWwgc2V0dGluZ3MgZm9yIHRoZSBVTVQg
+      YXBwbGljYXRpb24uIFNldHRpbmcgdGhlc2UgdmFsdWVzIG1ha2VzIGEgZ3JlYXQgaW1wYWN0IG9uIHRo
+      ZSBiZWhhdm91ciBvZiBVTVQgYW5kIHNob3VsZCBiZSBtYWRlIHdpdGggY2FyZS4AgQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/8QABQAACFRoZSBVTVQgTWFpbiBDb25maWd1cmF0aW9uIGlzIGEgZmFpcmx5IGxhcmdl
+      IGRvY3VtZW50IGFuZCBpdCBpcyBzcGxpdCBpbnRvIHRhYnMuIFRoZSBmb2xsb3dpbmcgc2VjdGlvbnMg
+      ZXhwbGFpbiB0aGUgc2V0dGluZ3MgYW5kIGhvdyB0byB3b3JrIHRoZSBNYWluIENvbmZpZ3VyYXRpb24g
+      dGhyb3VnaCBpbiBhIHByb3BlciB3YXkugQKDBAEAhf8IAAUAAAg=
+remaining: []

@@ -1,0 +1,108 @@
+---
+class: 1
+flags: 0x0000
+unid: B26EDB9B51B97C2BC125760D006E0E03
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: C0F8751BA57DE0E2C1257611006EB900
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: C0F8751BA57DE0E2C1257611006EB900
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 73E821D8DFA76EB9C1257611006E9CA8
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 73E821D8DFA76EB9C1257611006E9CA8
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.81+02:00"
+        dst: true
+      - data: "2009-08-09T22:04:57.53+02:00"
+        dst: true
+      - data: "2009-08-09T22:16:04.41+02:00"
+        dst: true
+      - data: "2009-08-09T22:22:52.75+02:00"
+        dst: true
+      - data: "2009-08-17T11:39:23.56+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Server tasks"
+      - "Server tasks\\Server tasks"
+      - "Scheduling\\Server tasks"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-20T17:36:01.27+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 7. Scheduling the server tasks
+  - name: SubjectNumber
+    type: text
+    data: "7."
+  - name: SubjectText
+    type: text
+    data: Scheduling the server tasks
+  - name: Subject_disp
+    type: text
+    data: "7.\tScheduling the server tasks"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Server tasks
+      - Scheduling
+  - name: levelEntry
+    type: text
+    data: Server tasks
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9hAAUAAAhUd28g
+      c2VydmVyIHRhc2tzIGFyZSBpbmNsdWRlZCBpbiBVTVQ7IHRoZSBVTVRBZG1pbiBzZXJ2ZXIgdGFzayBh
+      bmQgdGhlIFVNVElEIHNlcnZlciB0YXNrLgCBAoMEAQCF/wgABQAACIECgwQBAIX/EAAFAQAIVU1UQWRt
+      aW6BAoMEAQCF/7MABQAACFRoZSBVTVRBZG1pbiBzZXJ2ZXIgdGFzayBpcyBzY2hlZHVsZWQgaW4gdGhl
+      IEdsb2JhbCBDb25maWd1cmF0aW9uIGRvY3VtZW50IChTeXN0ZW0gLSBTeXN0ZW0gcHJvY2Vzc2VzKS4g
+      Tm9ybWFsbHkgdGhlIHNlcnZlciB0YXNrIHNob3VsZCBiZSBzY2hlZHVsZWQgdG8gcnVuIGVhY2ggNSBt
+      aW51dGVzLgCBAoMEAQCF/5IABQAACEl0IGlzIHJlY29tbWVuZGVkIHRvIGNyZWF0ZSBhIHByb2dyYW0g
+      ZG9jdW1lbnQgZm9yIHRoaXMgc2VydmVyIHRhc2ssIG9yIHRvIGFkZCBpdCBpbnRvIHRoZSBub3Rlcy5p
+      bmkgZmlsZSBvZiB0aGUgc2VydmVyIG9uIHdoaWNoIFVNVCBydW5zLoECgwQBAIX/CAAFAAAIgQKDBAEA
+      hf8NAAUBAAhVTVRJRACBAoMEAQCF/5EABQAACFRoZSBVTVRJRCBzZXJ2ZXIgdGFzayBzaG91bGQgYmUg
+      c2NoZWR1bGVkIHRocm91Z2ggYSBwcm9ncmFtIGRvY3VtZW50LiBJdCBpcyByZWNvbW1lbmRlZCB0byBy
+      dW4gdGhlIFVNVElEIHNlcnZlciB0YXNrIGF0IGxlYXN0IG9uY2UgYSBkYXkuAIECgwQBAIX/CAAFAAAI
+      gQKDBAEAhf/IAAUAAAhCb3RoIHNlcnZlciB0YXNrcyBjYW4gYmUgbG9hZGVkIGVpdGhlciBieSBhZGRp
+      bmcgdGhlIHNlcnZlciBuYW1lIGFuZCB0aGUgVU1UIE1haW4gcGF0aCBhcyBwYXJhbWV0ZXJzLCBvciB0
+      aGV5IGNhbiB1c2UgcGFyYW1ldGVycyBpbiB0aGUgbm90ZXMuaW5pIGZpbGUuIFJlYWQgbW9yZSBpbiB0
+      aGUgIlJlbGF0ZWQgdG9waWNzIiBiZWxvdy6BAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgA
+      BQAACIECgwQBAIX/FwAFAQAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAA
+      CAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAK3/DAALAAgAAAAAAN0GAACR/5H/CQABAAAA
+      AADeBgAAkf/dBgAAhf+F/xAABQAECFVNVEFkbWlu0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAI
+      gQKDBAEAhf8IAAUAAAjdBgAArf9+/wwAIAAIAAAAAAD2/xwAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAIA
+      rf8MAAsACAAAAAAA3QYAAJH/kf8JAAMAAAAAAN4GAACR/90GAACF/4X/DQAFAAQIVU1USUQA0ggJAAAA
+      /wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

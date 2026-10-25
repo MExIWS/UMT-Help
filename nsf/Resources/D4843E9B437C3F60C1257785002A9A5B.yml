@@ -1,0 +1,91 @@
+---
+class: 1
+flags: 0x0000
+unid: D4843E9B437C3F60C1257785002A9A5B
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-20T09:45:20.27+02:00"
+        dst: true
+      - data: "2010-08-20T09:45:38.17+02:00"
+        dst: true
+      - data: "2010-08-20T09:45:52.15+02:00"
+        dst: true
+      - data: "2010-08-20T09:46:17.86+02:00"
+        dst: true
+      - data: "2010-08-20T10:46:48.00+02:00"
+        dst: true
+      - data: "2010-08-20T10:47:39.28+02:00"
+        dst: true
+      - data: "2010-08-20T11:05:31.64+02:00"
+        dst: true
+      - data: "2010-08-20T11:06:17.71+02:00"
+        dst: true
+      - data: "2010-08-20T15:53:08.79+02:00"
+        dst: true
+      - data: "2010-08-20T16:04:30.31+02:00"
+        dst: true
+      - data: "2010-08-20T16:04:34.74+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Upgrade"
+      - "Upgrade\\Upgrade"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-20T17:36:01.27+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 8. Upgrading from earlier releases
+  - name: SubjectNumber
+    type: text
+    data: "8."
+  - name: SubjectText
+    type: text
+    data: Upgrading from earlier releases
+  - name: Subject_disp
+    type: text
+    data: "8.\tUpgrading from earlier releases"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Upgrade
+  - name: levelEntry
+    type: text
+    data: Upgrade
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9jAAUAAAhEZXBl
+      bmRpbmcgb24gd2hpY2ggcmVsZWFzZSB5b3UgYXJlIHVwZ3JhZGluZyBmcm9tLCB0aGUgdXBncmFkZSBj
+      YW4gYmUgbW9yZSBvciBsZXNzIGNvbXBsZXguAIECgwQBAIX/CAAFAAAIgQKDBAEAhf8MAQUAAAhFYWNo
+      IHRpbWUgVU1UIGlzIHVwZ3JhZGVkLCBpdCBpcyBtb3N0IGltcG9ydGFudCB0aGF0IGFsbCBjb25maWd1
+      cmF0aW9uIGRvY3VtZW50cyBhcmUgcmUtc2F2ZWQsIGluY2x1ZGluZyBhbGwgdW5pdCBkb2N1bWVudHMu
+      IElmIFVNVCBLZXl3b3JkcyBjb250YWlucyBtYW55IHVuaXQgZG9jdW1lbnRzLCBpdCBpcyByZWNvbW1l
+      bmRlZCB0byB1c2UgdGhlIG5ldyBhdXRvbWF0ZWQgdXBncmFkZSB0YXNrIHByb3ZpZGVkIGluIHRoaXMg
+      cmVsZWFzZSBvZiBVTVQuIIECgwQBAIX/CAAFAAAIgQKDBAEAhf9QAAUAAAhUaGUgYXV0b21hdGVkIHVw
+      Z3JhZGUgaXMgZXhwbGFpbmVkIGluIG1vcmUgZGV0YWlsIGxhdGVyIGluIHRoaXMgY2hhcHRlci6BAoME
+      AQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAQAIUmVsYXRlZCB0b3Bp
+      Y3M6AIECgwQBAIX/CAAFAAAI
+remaining: []

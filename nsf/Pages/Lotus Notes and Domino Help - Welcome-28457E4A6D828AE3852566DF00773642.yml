@@ -1,0 +1,938 @@
+---
+class: 4
+flags: 0x0000
+unid: 28457E4A6D828AE3852566DF00773642
+items:
+  - name: $$ScriptName
+    type: text
+    data: ContentsIntro
+    signed: true
+    nonsummary: true
+  - name: $DesignerVersion
+    type: text
+    data: "6.5"
+    signed: true
+  - name: $Flags
+    type: text
+    data: C34WQ
+  - name: $FrameInfo
+    type: text
+    data:
+      - Main
+      - Topic
+    signed: true
+  - name: $TITLE
+    type: text
+    data:
+      - Lotus Notes and Domino Help - Welcome
+      - ContentsIntro
+  - name: $WINDOWTITLE
+    type: formula
+    data: "\"\""
+    opaque: DAAAAAoAAQAAAAMA
+    signed: true
+    nonsummary: true
+  - name: $ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 15
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 8
+        FontID: 0x00000000
+        HeightSpc: 2
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000001
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AQBOfA==
+        title: Categori_ze
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AgACCg==
+        title: _Edit Document
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AwADCg==
+        title: Send Docu_ment
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BAAECg==
+        title: Forward This Page
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BQA9fA==
+        title: _Move To Folder...
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BgA+fA==
+        title: _Remove From Folder
+      - type: 0xffbe
+        Flags: 0x0041419d
+        IconIndex: 0
+        ShareId: 1
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:66
+          
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim s As New NotesSession
+          	Dim ws As New NotesUIWorkspace
+          	Dim db As NotesDatabase
+          	Set db = s.CurrentDatabase
+          	Dim view As NotesView
+          	Dim doc As NotesDocument
+          	Set view = db.GetView("(Help)")
+          	Set doc = view.GetFirstDocument
+          	While Not (doc Is Nothing)
+          		Dim item As NotesItem
+          		Set item = doc.GetFirstItem("AppSpecID")
+          		If item.Text = "using_help" Then
+          			Dim unid As String
+          			unid = doc.UniversalID
+          			Set doc = db.GetDocumentByUNID(unid$)
+          			Call ws.SetTargetFrame("Topic")
+          			Call ws.EditDocument(False, doc, True,,False)
+          		Else
+          		End If
+          		Set doc = view.GetNextDocument(doc)
+          	Wend
+          End Sub
+        title: Get Help on Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 2
+        Type: 1
+        data: "@Command([OpenHelpDocument];[ClientHelp];\"(Help)\";\"IntroClientHelp\")"
+        data_opaque: |
+          SAAAADoAAgC9GwAAAAAAAAIAvQAAAAAAAAABAAYAKEhlbHApAQAPAEludHJvQ2xpZW50SGVscADtBAMA
+          BwAMAAUACTBTMEUA
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_client\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQAMAGhlbHA2X2NsaWVudEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Notes Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 3
+        Type: 1
+        data: "@Command([OpenHelpDocument];[DesignerHelp];\"(Help)\";\"IntroDesignerHelp\")"
+        data_opaque: |
+          SgAAADwAAgC9GwAAAAAAAAIAvgAAAAAAAAABAAYAKEhlbHApAQARAEludHJvRGVzaWduZXJIZWxwAO0E
+          AwAHAAwABQAJMFMwRQA=
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_designer\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQAOAGhlbHA2X2Rlc2lnbmVyRwIDAAcADAAFAAkwUzBFAA==
+        title: Open Domino Designer Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 4
+        Type: 1
+        data: "@Command([OpenHelpDocument];[AdminHelp];\"(Help)\";\"IntroAdminHelp\")"
+        data_opaque: |
+          RgAAADgAAgC9GwAAAAAAAAIAvwAAAAAAAAABAAYAKEhlbHApAQAOAEludHJvQWRtaW5IZWxw7QQDAAcA
+          DAAFAAkwUzBFAA==
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Domino Administration Help
+  - name: $BODY
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 1
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 1
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0x9000101
+        data: USING HELP
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 2
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 2
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0099
+        opaque: mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==
+      - type: 0x0095
+        opaque: lQAmAAAAAAAAAAAAAAABAAAAAAAAAAECsgAIAAEACAAMAAABCAA=
+      - type: 0x0096
+        opaque: |
+          lgB5AQAAAAAAAAAAAAAPAGcBQBcAxGQDKCIbw2ECJBhAJwDFZEAXAMJkAiU2x2ECGzpAJwDEZEAWAMdk
+          Ayg9G8phATtAJwDEZEAWAMVkAjo7zGECGxhAJwDEZEAWAMJkAxguJM5hAURAJwDFZEAWAAIvIkACAQEs
+          QCcAxmRAFQDFZAMYJSTKYQMNERLFYQEzQCcAxmRAFQDDZAMzIhvKYQUVJmIgX8RhAT1AJwDHZEAVAANk
+          JSzKYQMNJw7CYgIrXcRhAhsYQCcAx2RAFADGZAMoPRvKYQIVEcRiAh5ZxWEBOkAoAEAUAMRkAjo2y2EC
+          Eg7EYgEZwjDFYQE2QCgAAWRAFAAEZCguJMphAw0REMZiAzc4EsRhAhsoQCgAAWRAEwDHZAIvIsthAhIO
+          ymIBJsVhAS5AKADCZEATAMRkAxhEJMphAw0REMViAhkxxWIBDcRhASRAKADDZEATAMJkAjMiy2ECEibH
+          YgIgN8ViARHFYQEvQCgAw2Q=
+      - type: 0x0096
+        opaque: |
+          lgA8AgAAAAAAAAAAAAAPACoCQBIAx2QDGCUsymEDDScOyGICPB7FYgEOxWEBIkAoAMRkQBIAxWQDKD0b
+          ymECFTTJYgU4QStiGcRiARXEYQIbGEAoAMRkQBIAw2QCJTbLYQISDsliAzE3OMJiAjw4w2IBJsVhAURA
+          KADFZEASAAMoLiTKYQIVEctiAjw1wmIDMWIxw2ICEA3EYQE2QCgAxmRAEQDGZAI6O8thAhIOy2IHMRw8
+          GWI4MMViASfFYQEzQCgAxmRAEQDDZAMYRCTKYQMNERDMYgM3QTHCYsI5xWIBDsVhAS5AKADHZEARAANk
+          LyLLYQISJs1iAxlBMstiARXEYQIkGEAoAMdkQBAAxmQDGCUsymEDDScQzmIFORc1HjfJYgERxWEBOkAp
+          AEAQAMRkAygiG8phAhU0QAICBTAyHjUyyWIBEMVhATtAKQABZEAQAMJkAiU2y2ECJw5AAgLCYgIgQcIc
+          ARnJYgESxGECGyhAKQABZEAPAMdkAyg9G8phAhURQAICxGIBPMIXAh4ZyWIBJsVhAS5AKQDCZEAPAMVk
+          Ajo7y2ECEg5AAgLEYgI5NcIBATfLYgENxGEBLEApAMNkQA8AwmQDGC4kymEDDREQQAICxGICGTLCAQIX
+          OMtiASfFYQEvQCkAw2RADwACLyLLYQISJkACAsZiAiAXwgECHDHLYgEOxWEBIkApAMRkQA4AxWQDGCUk
+          ymEDDREQQAICx2ICIBfCAQEezWIBFcRhAhsYQCkAxGQ=
+      - type: 0x0096
+        opaque: |
+          lgDfAgAAAAAAAAAAAAAPAM0CQA4Aw2QDMyIbymECFSZAAwIDYjgXwgEBK81iATTFYQElQCkAxWRADgAD
+          ZCUsymEDDScOQAMCA2IrMsIBAhcgzWICEA3EYQE2QCkAxmRADQDGZAMoPRvKYQIVEUADAsJiAjE1wwEB
+          Qc9iARLFYQEoQCkAxmRADQDEZAI6NsthAhIOQAMCwmIDMStBwwECHhnOYgEOxWEBLkApAMdkQA0ABGQo
+          LiTKYQMNERBAAwLDYgM8NRfDAQE8QAICARXEYQIkGEApAMdkQAwAx2QCLyLLYQISDkADAsRiAyAcF8MB
+          Ahc5QAICARHFYQEvQCoAQAwAxGQDGEQkymEDDREQQAMCxWIDNzwywwECNSBAAgIBEMVhATtAAwDDZAJR
+          S0AmAMRkQAwAwmQCMyLLYQISJkADAsZiBBkeNzLDAQIwGUACAgJiEsRhAhsoQAIAx2QGGilPHR8aQCYA
+          xGRACwDHZAMYJSzKYQMNJw5AAwLHYgMgHDXEAQE8QAICwmIBJsVhAURAAgDFZANQTlLDAAIdUEAmAMVk
+          QAsAxWQDKD0bymECFTRABAIDYjkXxQEBN0ACAsNiAQ3EYQEsQAIAw2QDIUofxQACHSFAJgDGZEALAMNk
+          AiU2y2ECEg5ABALCYgErxQECFzlAAgLDYgEnxWEBL0ACAANRI0nIAAFLQCYAx2RACwADKC4kymECFRFA
+          BALEYgEwxQECNSBAAgLDYgEOxWEBPc1kBBopTx3KAAEpQCcAQAoAxmQCOjvLYQISDkAEAsRiAjEyxQEC
+          HBlAAgLEYgEVxGECGxjKZANQTlLNAAFVQCcAAWRACgDDZAMYRCTKYQMNERBABALFYgI3F8QBAjUeQAIC
+          xWIBNMVhATrIZAMhSh/PAAEjQCcAwmRACgADZC8iy2ECEiZABALGYgI4HMYBAStAAgLFYgEQxWEBNsZk
+          A1EjSUACAwIAUkAnAMNk
+      - type: 0x0096
+        opaque: |
+          lgDrAgAAAAAAAAAAAAAPANkCQAkAxmQDGCUsymEDDREQQAQCxmICGR7GAQIXOUACAsZiARLFYQEowmQE
+          GilPHUACA8MAAh8aQCcAw2RACQDEZAMoIhvKYQIVNEAFAgI3F8YBAjUgQAICxmIBDsVhBC5QTlJAAgPG
+          AAIdGkAnAMRkQAkAwmQCJTbLYQInDkAFAgIZQccBAhwZQAICx2IBDcRhAkUfQAMDAh0hQCcAxWRACADH
+          ZAMoPRvKYQIVEUAFAsJiAjgXxwEBHkADAgERxWEBRkADAwIAS0AnAMZkQAgAxWQCOjvLYQISDkAFAsNi
+          ATfIAQErQAMCARDFYQFTQAMDAgApQCcAx2RACADCZAMYLiTKYQMNERBABQLDYgIZHscBAhc4QAMCAmIV
+          xGECKi1AAwMBTkAoAEAIAAIvIsthAhIOQAUCxWICIBzHAQIcMUADAgJiJsVhAVRAAwMBI0AoAAFkQAcA
+          xWQDGCUkymEDDREQQAUCxmICORfHAQIeGUADAgNiEA3EYQFCQAMDAU9AKADCZEAHAMNkAzMiG8phAhUm
+          QAYCATDIAQE3QAMCw2IBJ8VhAUBAAgPHAAIfGkAoAMJkQAcAA2QlLMphAw0nDkAGAgIxHMcBAhc5QAMC
+          w2IBDsVhAUxAAgPHAAJJGkAoAMNkQAYAxmQDKD0bymECFRFABgLCYgI4F8cBAhwgQAMCxGIBFcRhAkUt
+          QAIDxgACHSFAKADEZEAGAMRkAjo2y2ECEg5ABgLDYgE8yAECQRlAAwLEYgERxWEBTUACA8cAASFAKADF
+          ZEAGAARkKC4kymECDRFABgLEYgIZMsgBATxAAwLFYgEQxWEBQkACA8cAASlAKADGZEAFAMdkAi8iy2EC
+          Eg5ABgLFYgI4F8cBAhc5QAMCxmIBEsRhAipIQAIDxgABTkAoAMdkQAUAxGQDGEQkymEDDREQQAYCxmIB
+          MMgBAhwgQAMCxmIBJsVhAUdAAgPGAAEjQCkA
+      - type: 0x0096
+        opaque: |
+          lgDhAgAAAAAAAAAAAAAPAM8CQAUAwmQCMyLLYQISJkAGAsdiAjEcyAECQRlAAwLHYgENxGEBRUACA8YA
+          ASNAKQABZEAEAMdkAxglLMphAw0nDkAHAgI5F8gBATxABAIBEcVhAUZAAgPFAAIfGkApAAFkQAQAxWQD
+          KD0bymECFTRABwLCYgEwyAECFzlABAIBDsVhAUNAAgPFAAIfGkApAMJkQAQAw2QCJTbLYQISDkAHAsJi
+          AjEcyAECHCBABAICYhXEYQIqLUACA8QAAh0hQCkAw2RABAADKC4kymECFRFABwLEYgI4F8gBAjIZQAQC
+          AmI0xWEBP0ACA8QAAh0hQCkAxGRAAwDGZAI6O8thAhIOQAcCxWIBPMkBATBABALCYgIQDcRhAUJAAgPF
+          AAEpQCkAxWRAAwDDZAMYRCTKYQMNERBABwLFYgIZMsgBAhcrQAQCw2IBJ8VhAUBAAgPEAAEpQCkAxmRA
+          AwADZC8iy2ECEiZABwLHYgIgF8gBAhcgQAQCw2IBDsVhAUdAAgPEAAEjQCkAx2RAAgDGZAMYJSzKYQMN
+          ERBACAIBK8kBAhwZQAQCxGIBFcRhAkUtQAIDwwABI0AqAEACAMRkAygiG8phAhU0QAgCwmIBHskBAh4Z
+          QAQCxGIBEcVhAU1AAgPDAAEfQCoAAWRAAgDCZAIlNsthAicOQAgCwmICGRzJAQE8QAQCxWIBEMVhAVNA
+          AgPDAAIfGkAqAAFkz2QDKD0bymECFRFACALEYgIgF8kBAStABALGYgESxGECKkhAAgPCAAIdUEAqAMJk
+          zWQCOjvLYQISDkAIAsViAisXyAECFyBABALGYgEmxWEBR0ACA8IAAh0hQCoAw2TKZAMYLiTKYQMNERBA
+          CALGYgE3yQECHDFABALHYgENxGEBPkACA8MAAVFAKgDEZMhkAi8iy2ECEg5ACQIBHskBAjIZQAQCx2IB
+          J8VhAUZAAgPCAAEpQCoAxWQ=
+      - type: 0x0096
+        opaque: |
+          lgC2AwAAAAAAAAAAAAAPAKQDxWQDGCUkymEDDREQQAkCAhkyyQEBHkAFAgEOxWEBTEACA8IAAUpAKgDG
+          ZMNkAzMiG8phAhUmQAkCwmICIBzJAQE3QAUCAmIVxGECKi1AAgMCACNAKgDHZANkJSzKYQMNJw5ACQLD
+          YgIrF8kBAStABQICYjTFYQE/QAIDAgAfQCsAAS/KYQIVEUAJAsViATDJAQIXIEAFAgNiEA3EYQFCQAID
+          AwAfGkArAAJkJcZhAw0SDkAJAsViAhkcyQECNSBABQLCYgESxWEBSEACAwIdGkArAAFkwmQBLsVhAg0Q
+          QAkCxWICMRzJAQIcGUAFAsJiAQ7FYQFHQAIDAh0hQCsAwmTDZAEixWECDRBACQLDYgIgF8kBAkEZQAUC
+          w2IBFcRhAkUtQAIDAUtAKwDDZMRkATbFYQEVQAkCwmIBK8oBAR5ABQLEYgERxWEBRkACAwEpQCsAxGTE
+          ZAIYLMVhARJACQIBHsoBATdABQLEYgEQxWEBU0ACAwFVQCsAxWTFZAIYJMVhARFACALFYgIxHMkBAhc5
+          QAUCxWIBFcRhAiotzwABI0ArAMZkxmQCMxvFYQERQAgCw2ICKxfJAQI1IEAFAsViASbFYQFUzwABUkAr
+          AMdkx2QBM8ZhASZACAICGR7KAQIyGUAFAsZiAQ3EYQE+zwACHxpAKwDHZMhkASXGYQEOQAcCxmICIDXK
+          AQEwQAUCx2IBJ8VhAUDOAAIdGslkygIBBsVkAQZAAgQBB0ACAAEHyQIBBsVkAQNABAQBB8lkBAUWAg/D
+          BAELQAIFAQnEBAMCFAzIZAEDyQIBA0ACAAEUywJAAgABBsoCAQXMZAEWzgIBFkACAMNkAQdABAQCAwXJ
+          ZAEDQAQEwgIBZMlkAUTGYQEQQAcCxGIBN8oBAhcrQAUCx2IBDsVhAUzOAAIdIcpkymMBA8VkAQNAAgUC
+          YwPPZAEEyWMBA8VkAQJABAUBBMdkAgwTQAQFAggCxmQBFsljARPPZAEGzGMBDM9kAQ/JYwEIzGQCBgnO
+          YwIJBUACAMJkAQRABAUEYwkCBcdkAQJABAXCYwFkymQBIsVhAg0QQAcCA2IZQcoBAjUgQAYCARXEYQIq
+          Lc4AASHLZMpjAQPFZAEDQAIFA2MIBc5kAQTJYwEDxWQBAkAEBQEExmQBB0AEBcRjAgsFxWQBCMljAQXO
+          ZAEHzGMBFM9kAQjJYwEUzGQBCkACBQECQAIAwmQBBEAEBcNjAgsFxmQBAkAEBcJjAWQ=
+      - type: 0x0096
+        opaque: |
+          lgBzCQAAAAAAAAAAAAAPAGEJy2QBO8VhARVABwICIDXKAQIyGUAGAgE0xWEBTc4AASnMZMpjAQPFZAED
+          QAIFwmMBD85kAQTJYwEDxWQBAkAEBQEExWQBA0AEBcZjAQTFZAEPyWMBB85kARPMYwEEzmQBDMpjAQbL
+          ZAEGQAIFA2MJBUACAAJkBEAEBcRjAQTGZAECQAQFwmMBZMtkAhgsxWEBEkAGAsZiASvLAQEwQAYCAmIQ
+          xWEBQs4AAU7NZMpjAQPFZAEDQAIFw2MBA81kAQTJYwEDxWQBAkAEBQEExWQBCEAEBcdjAQfEZAEMyWMB
+          E85kAQnNYwEFzWQBD8ljARPMZAEKQAIFwmMBAkACAAJkBEAEBcVjAQzFZAECQAQFwmMBZMxkAhgsxWEB
+          J0AGAsRiATDKAQIXK0AGAsJiARLFYQFIzQABI85kymMBA8VkAQNAAgXDYwIIBcxkAQTJYwEDxWQBAkAE
+          BQEExGQBDEAFBQETxWQBCMljAQXMZAEDzmMBB81kAQjJYwEHy2QBBkACBcNjAQlAAgACZARABAXFYwEP
+          xWQBAkAEBcJjAWTNZAIzG8VhARFABgLCYgEeygECNSBABgLCYgEOxWEBR80AAU/PZMpjAQPFZAEDQAIF
+          xGMBD8xkAQTJYwEDxWQBAkAEBQEExGQBAkAFBQFjxWQBFMljAQfMZAEPzmMBCsxkAQzJYwIJBctkAQpA
+          AgXEYwEHQAIAAQRABAXFYwEExWQBAkAEBcJjAWTOZAJWKsVhATRABgIBHsoBAhwZQAYCw2IBDcRhAUXN
+          AAIfGs9kymMBA8VkAQNAAgXFYwEDy2QBBMljAQPFZAECQAQFAQTEZAETQAUFAmMDxGQBBsljARPMZAEL
+          zmMBCcxkAQ/JYwEKy2QBBkACBcVjAQhAAgABBEAEBcVjAQjFZAECQAQFwmMBZMtkBVFKSQA/xmEBDkAF
+          AsZiAR7KAQEeQAYCxGIBEcVhAUbMAAJJGkACAMpjAQPFZAEDQAIFxWMCCAXKZAEPyWMBA8VkAQLJYwEK
+          QAIExgIBB8RkAQTOY80EzmMBFsVkAQTJYwEGymQBBkACBQEMy2QBCMljAQPLZAEKyWMDCQMWymMBB89k
+          AQRABAXGY8VkAQLJY0ADBAICZMdkBBopIx3FAAE/xmEBDkAFAsRiATDKAQErQAYCxGIBDsVhAUPMAAId
+          IUACAAFkymMBA8VkAQPJYwIDAstjAQ/KZAECyWMBA8VkAQLJYwEDQAMAw2TLYwICBkACAANkFgvKYwEC
+          xWQBB8ljARTKZAEHQAIFAQLKZAEMyWMBCMtkAQbKYwECwmQBE8ljAQjPZAEEyWNAAgADZAUKymPFZAEC
+          yWNAAwDCZMdkAR/JAAFDxWECDRBABQLCYgE5yQECFzlABgLFYgEVxGECKi3LAAIdIUACAMJkymMBA8Vk
+          AQPJYwMDZAvLYwEDyWQBAsljAQPFZAECyWMBA0ADAMNkymMBAkACAMRkAgUIyWMBAsVkAQXJYwELymQB
+          E8djAgkEx2MBC8pkAQrJYwECy2QBCsljAgkFwmQBA8pjAQfOZAEEyWNAAgDDZMpjxWQBAsljQAMAwmTH
+          ZAIaH8kAAUPFYQENQAUCA2IZF8gBAhcgQAYCxWIBJsVhAVTMAAEpQAIAw2TKYwEDxWQBA8ljAwJkDMtj
+          AggFyGQBAsljAQPFZAECyWMBA0ADAMNkymMBBUACAMVkAQ/JYwECxmQBE8ljAQbJZAEJx2MCEwLIYwEF
+          yWQBCcljAQbKZAEGymMBAsRkAQTJYwEIzmQBBMljQAIAw2QBBMljxWQBAsljQAMAwmTJZAEjyQABPsVh
+          ARJABQIBMsgBAhwZQAYCxWICEA3EYQFCzAABKUACAMRkymMBA8VkAQPJYwECwmQBAstjAQ/IZAECyWMB
+          A8VkAQLJYwEDQAMAwmQBBsljAQtAAgDGZAEDyWMBBMZkARbJYwEUyGQBA8hjAhQDyGMBB8hkARbJYwEL
+          y2QBCsljAgkFxGQBA8pjAQfNZAEEyWNAAgDDZAEEyWPFZAECyWNAAwDCZMpkASPIAAItPsVhARJABALG
+          YgEeyAECHBlABgLGYgEnxWEBQMsAASNAAgDFZMpjAQPFZAEDyWMBAsNkAQvLYwEDx2QBAsljAQPFZAEC
+          yWMBA0ADAMJkAQPJYwEEQAIAxmQBA8ljAQTHZAEJyGMBC8hkAQ/IYwIMZMhjAQrIZAEKyWMBB8pkAQbK
+          YwEPxmQBBMljAQjNZAEEyWNAAgDDZAEEyWPFZAECQAQFAQTCZMtkAUrIAAJIKsVhARFABALEYgEeyAEB
+          HkAGAsdiAQ7FYQFMywABI0ACAMZkymMBA8VkAQPJYwECw2QBDMtjAggFxmQBAsljAQPFZAECyWMBC0AC
+          BsUEAQfEZAEDyWMBCkACAMdkyWMBBMdkAQrJYwEGx2QBC8djAQnCZAETx2MBCchkAQnJYwEFymQBCspj
+          AQbGZAEDymMBB8xkAQTJY0ACAMNkAQjIYwEJxWQBAkAEBQEEwmTMZAEpyAACQCrFYQERQAQCwmIBHsgB
+          AR5ABwIBFcRhAkUtygACHxpAAgDGZMpjAQPFZAEDyWMBAsRkAQLLYwEPxmQBAsljAQPFZAECQAMFx2MB
+          AsRkAQPJYwECQAIAx2TJYwEEx2QBA8ljARTGZAEGyGMBCsJkARTIYwEMxmQBFsljAQrKZAEGymMBCshk
+          AQjJYwEIzGQBBMljQAIAwmQBA8ljAQTFZAECQAQFAQTCZM1kASnIAAFNxmEBDkADAsdiAhkcyAEBHkAH
+          AgERxWEBTcoAAh8aQAIAx2TKYwEDxWQBA8ljAQLFZAELy2MBA8VkAQLJYwEDxWQBAkADBcdjAQLEZAED
+          yWMBAkACAMdkyWMBBMhkAQjIYwELxmQBB8hjAQfCZAEMyGMBD8ZkAQrJYwEWymQBCspjAQbIZAEHymMB
+          B8tkAQTJY80DxAICCgnJYwEKxWQBAkAEBQEEwmTOZAJLHccAAT/GYQEOQAMCxGIDKzg1yAEBHkAHAgEQ
+          xWEBQsoAAh0hQAMAymMBA8VkAQPJYwECxWQBDMtjAggFxGQBAsljAQPFZAECQAMFx2MBAsRkAQPJYwEC
+          QAIAx2TJYwEEyGQBD8ljAQbFZAETyGMBBsNkAQnHYwELxmQBCchjAQnKZAEGymMBCspkAQjJYwEIy2QB
+          BEAEBcVjAQPFZAECQAQFAQTCZA==
+      - type: 0x0096
+        opaque: |
+          lgBvCQAAAAAAAAAAAAAPAF0Jz2QCIR3HAAFMxWECDRBAAwLCYgIrHMkBAR5ABwICYhLEYQIqSMkAAh0h
+          QAMAAWTKYwEDxWQBA8ljAQLGZAECy2MBD8RkAQLJYwEDxWQBAkADBcdjAQLEZAEDyWMBAkACAMdkyWMB
+          BMhkAQzJYwEUxWQBCcdjAQjEZAETyGMBBsRkARbJYwEPymQBCspjAQbKZAEHymMBB8pkAQRABAXEYwEK
+          xmQBAkAEBQEEwmRAAgACIUnHAAFDxWECDRBAAwIBK8oBATBABwICYibFYQFHygABKUADAMJkymMBA8Vk
+          AQPJYwECx2QBC8tjAQPDZAECyWMBA8VkAQJAAwXHYwECxGQBA8ljAQJAAgDHZMljAQTJZAELyGMBC8Rk
+          AQPIYwEKxGQBFMhjAQfEZAEKyWMBDMlkAQbKYwEKzGQBCMljAQjKZAEEQAQFw2MBD8dkAQJABAUBBMJk
+          QAIAA2QaH8cAAULFYQESQAICx2IBK8oBAStABwLCYgENxGEBPsoAASlAAwDDZMpjAQPFZAEDyWMBAsdk
+          AQzLYwIIBcJkAQLJYwEDxWQBAkADBcdjAQLEZAEDyWMBE0ACAMZkAQXJYwEEyWQBFMljAQbDZAEPyGMB
+          B8RkAQbIYwETw2QCBQnIYwELymQBCspjARPMAgEEymMBB8lkAQRABAUDYwsDyGQBAsljQAIHxwMBDMJk
+          QAIAwmQCGh/GAAItPsVhARJAAgLFYgEwyQECFzhABwLCYgEnxWEBRskAAUpAAwDEZMpjAQPFZAEDyWMB
+          AshkAQLLYwEPwmQBAsljAQPFZAECQAMFx2MBAsRkAQXJYwEEQAIAxmQBA8ljAQTJZAEGyWMBD8NkAQvI
+          YwEGxWQBCMdjAQnDZAEHyWMBFMlkAQZABAXDYwEIyWQBBEAEBcNjAgoFxmQBAsljQAMAwmRAAgDDZAIa
+          I8YAAi0qxWEBEUACAsNiAR7JAQIcIEAHAsJiAQ7FYQFDyQABI0ADAMVkymMBA8VkAQPJYwECyWQBC8tj
+          AwNkAsljAQPFZAECyWMBA0ADAMNkyWMCCQVAAgDFZAEUyWMBAspkAQTIYwEIwmQBBshjAQjGZAEKyGMB
+          A8JkARPJYwEFyWQBCkAEBcRjAQfIZAEEQAQFxGMBBMZkAQLJY0ADAMJkQAIAxWQBI8YAAkAqxWEBEUAC
+          AgIZHMkBAkEZQAcCw2IBFcRhAiotyAABH0ADAMZkymMBA8VkAQPJYwECyWQBDMtjAwgFAsljAQPFZAEC
+          yWMBA0ADAMNkymMBCkACAMRkAgUJyWMBAspkAQfJYwMMZBTIYwEPxmQBB8hjAw9kBcljARPJZAEGQAQF
+          xWMBCMhkAQRABAXFYwEMxWQBAsljQAMAwmRAAgDGZAFKxgABRsZhAQ7OYgIZHMkBATxABwLEYgE0xWEB
+          P8gAAh8aQAMAxmTKYwEDxWQBA8ljAQLKZAECy2PCCsljAQPFZAECyWMBA0ADAMNky2MDBBYGz2QDAxQJ
+          ymMBAspkAQXJYwMPZBPIYwEWxmQBBshjAwtkB8ljAQfJZAEKQAQFxmMBB8dkAQRABAXFYwECxWQBAslj
+          QAMAwmRAAgDHZAEpxgABP8ZhAQ7MYgIZHMgBAhc4QAcCxGICEA3EYQFCyAACHVBAAwDHZMpjAQPFZAED
+          yWMBAstkAQtAAgXFYwEDxWQBAsljAQNAAwDDZAEEQAUFAmMWy2QBE0ACBcNjAQXHZAEIQAIFwmMBCclk
+          AQZABAXHYwEIx2QBBMljz2QEBQMCCcljAQLFZAECyWNAAwYCBAxAAwABKcYAAUfFYQINEMtiATDIAQIc
+          MUAHAsViASfFYQFAxwACHSFABADKYwEDxWQBA8ljAQLLZAEMQAIFxWMBA8VkAQLJYwEDQAMAw2QBE0AF
+          BQJjDMtkARZAAgXCYwELyGQBD0ACBcJjAQrJZAEKQAUFAQfGZAEEyWNAAgDCZAEUyWMBBMVkAQJABAXC
+          YwEDQAMAA2RLHcUAAUPFYQINEMliATjIAQEwQAcCxmIBDsVhAUfIAAFRQAQAAWTKYwEDxWQBA8ljAQLM
+          ZAECQAIFxGMBA8VkAQLJYwEDQAMAw2QBFEAFBQFjzWQBCUACBQJjD8hkARZAAgXCYwEMyGQBBkAFBQJj
+          CMZkAQTJY0ACAMJkAQbJYwEExWQBAkAEBcJjAQNAAwDCZAIhHcUAAVPFYQEVyWIBHsYBAhc5QAcCx2IB
+          FcRhAkUtxwABKUAEAMJkymMBA8VkAQPJYwECzWQBC0ACBcNjAQPFZAECyWMBA0ADAMNkAQxABQUBE81k
+          AQpAAgUCYxbIZAEFQAIFAmMIyWQBCspjAQdAAgDEZAEKymMBB8VkAQTJY0ACAMNkyWMBBMVkAQJABAXC
+          YwEDQAMAw2QCIUnEAAItPsVhARLIYgEyxQECHDFABwLHYgERxWEBRscAAVVABADDZMpjAQPFZAEDyWMB
+          As1kAgwJQAIFwmMBA8VkAQLJYwEDQAMAxGQBBEAEBcdjAQPNZAEDQAIFAmMFyWQBC0ACBQECyGQBBspj
+          AQhAAgDFZAEDymMBCMVkAQTJY0ACAMNkyWMBBMVkAQJABAXCYwEDQAMAxGQCGh/EAAItRcVhASfHYgEy
+          xAEBMEAIAgEQxWEBU8cAASNABADEZMpjAQPFZAEDyWMBAs5kARRAAgXCYwEDxWQBAsljAQNAAwDEZAIM
+          CUAEBcVjAQrPZAEIz2MBC8pkAQ9AAgUBBshkAQrKYwECQAIAxmQBBMpjAQfEZAEEyWNAAgDDZAELyGMB
+          BMVkAQJABAXCYwEDQAMAxWQCGh/EAAJAKsVhARHGYgEgwjICNzFACAICYhLEYQIqSMYAAVJABADFZMpj
+          AQPFZAEDyWMBAs9kAQRAAgUCYwPFZAECyWMBA0ADAMVkAgwJQAQFw2MCEwXPZAEPz2MBD8pkARbPYwEE
+          yGQBBspjAgkFQAIAxmQBA8pjAQjEZAEEyWNAAgDDZAEEyGMBBMVkAQJABAXCYwEDQAMAxmQCGiPEAAFA
+          xmEBJkAJAsJiASbFYQFUxgACHxpABADFZMpjAQPFZAEDyWMBAs9kAgYJQAIFAQPFZAECyWMBA0ADAMZk
+          AwUKCUADBcdjAgsHQAIAAmQGz2MBA8pkAQXPYwEHyGQBE8pjAQJAAwABBMpjAQfDZAEEyWNAAgDDZAEE
+          yGMBBMVkAQJABAXCYwED
+      - type: 0x0096
+        opaque: |
+          lgA6BwAAAAAAAAAAAAAPACgHQAQAASPEAAE/xmEBDkAJAgJiDcRhAT7GAAIdGkAEAMZkygMBBcVkAQXJ
+          AwEGQAIAAQxAAgcBBcVkAQbJAwEFQAQAA2QMB8ICARNAAgbFBAEPwgICAwZAAgDEZM8DzGQBDM4DAQXI
+          ZMsDAQVAAwABBsoDAQzDZAEMyQNAAgDDZAEMyAMBDMVkAQZABAfCAwEFQAQAAmRKxAABP8ZhARBACALH
+          YgEnxWEBRsUAAh0hQBAAw2QBBsUCAQNADQDEZAEHxQJAEADCZEAEAMJkASnEAAFDxWECDRBACALFYgEO
+          xWEBTMYAAUtAEADEZAEPxWMBB0ANAMNkAQXFYwEIQBAAwmRABADDZAEpxAABQ8VhAQ1ACALFYgEVxGEC
+          Ki3FAAEpQBAAxWQBCMVjAQVADQDDZAEHxWMBD0AQAMJkQAQAxGQCSx3CAAItPsVhARJACALDYgE0xWEB
+          P8UAAVVAEADFZAEMxWMBE0AIAMVkAQzFBAEPQAQAARPFYwEMQBAAwmRABADFZAIhHcIAAi0+xWEBEkAI
+          AgNiEA3EYQFCxQABI0AQAMZkAQ/FYwEHQAgAxWQBFMVjARRAAwDHZAEFxWMBCEAQAMNkQAQAxmQCIUnC
+          AAJAKsVhARFACAIBEsVhAUjEAAFPQBAAx2QBCMVjAQVACADFZAELxWMBBkAVAAFkQAQAx2QCGh/CAAJA
+          KsVhATRABwLGYgEOxWEBR8QAAh8aQAYAAgYWwgIBD8YEARPCAgEDQAMAxmQCBgPEAsMEAQ/DAgIDBUAD
+          AMJkAQzFYwELQAIAx2QBDMUDAQXIZAEMxQMBBUACAMVkAQXCAwEWxWMBCMgDAQxAAgDHZAEMxQNAAwDD
+          ZAIGA8QCwwQBD8MCAhYFQAMAwmQBBcUDBgVkBQcCE8MEAw8CDEADAMZkAgMUwgIBE8YEBQ8CBwZkQAUA
+          AhofwgABP8ZhAQ5ABwLFYgENxGEBRcQAAkkaQAUAx2QCDATPYwILBkADAMJkAgcIz2MBD0ADAAJkD8Vj
+          ARRAAgDHZAELxWMBBshkAQnFY0ACAMZkARRAAgUCYxRAAgDGZAEFxWMBCUADAANkBwjPYwIKBUADAAEU
+          xWMCAw/KYwITBUADAMJkAgIJz2MBFEAFAANkGiPCAAE/xmEBDkAHAsNiARHFYQFGwwACHSFABQDHZAEH
+          QAIFwmMBCkADAAIFC0ACBcJjAQJAAwABCMVjAQZAAgDGZAEGxWMBC8hkARbFYwETQAIAxmQBC0ACBQJj
+          BkACAMZkAQfFYwEKQAIAx2QCBQRAAgXCYwEPQAMAAQvEYwIJC8xjAQJAAwACBQtAAgXCY0AFAMNkASPC
+          AAFMxWECDRBABwICYhDFYQFTxAABIUAFAMdkAgYJQAIFwmMBBEADAAELQAIFw2MBBEACAMdkAQzFYwEL
+          QAIAx2QBFMVjARTIZAEKxWMBB0ACAMVkAQZAAgUCYwhAAgDHZAETxWMBFkACAMdkARNAAgXDYwEEQAIA
+          x2QBBkACBcNjAQlAAwABD0ACBcNjQAUAxGQBSsIAAUPFYQINEEAHAgEVxGECKi3DAAEpQAYAAQrFYwMT
+          FgzDZAMFAwjFYwECQAIAx2QBFMhjAQnCBAEIyGMBBEACAMdkAQLFYwEUQAIAx2QBC8VjAQbIZAEJxWMB
+          BUACAMVkARRAAgUCYw9AAgDHZAEJxGMBCUACAMdkAQfIYwEJwgQBCMhjAQRAAgDHZAEUyGMBCMIEAQvI
+          Y0ACAMdkAQbFYwQJFAMFw2QCDALGY0AFAMVkASnCAAE+xWEBEkAGAsdiASbFYQFUwwABTkAGAAEFxmMB
+          BsdkAQzFAwEGQAIAx2QBCMVjAgsDxmQCAwnFYwEKQAIAx2QBC8VjAQZAAgDGZAEGxWMBC8hkARbFYwET
+          QAMAAmQLxWMBDEADAMdkARbFYwEKQAIAx2QBCMVjAgsWxmQCAwnFYwETQAIAx2QBC8VjAwkUBcRkAgUT
+          xWMBCEACAMdkAQ/FYwEKx2QBBcYDQAUAxmQEKQAtPsVhARJABgLGYgENxGEBPsMAASNABgACZAPIYwEI
+          yAQCFAZAAwABFsVjAggFyGQBBMVjAQdAAgDGZAEGxWMBC0ACAMdkARTFYwECyGQBD8VjAQdAAwABBsVj
+          AQhABAABCsVjARZAAgDGZAEDxWMCCQXIZAEExWMBFEACAMZkAQbGYwEDx2QBFsVjARNAAgDHZAEEyGPI
+          BAIKFsJkQAUAx2QESx1IKsVhARFABgLEYgEnxWEBQMIAAU9ABgDCZAEDQAIFwmMCCQZAAgDHZAEKxWMB
+          B8lkAQnFYwEGQAIAxmQBFMVjARRAAgDHZAELxWMBDMhkAQjFYwEFQAMAAQfFYwEPQAQAAQnEYwEJQAIA
+          x2QBCsVjAQLJZAEIxWMBDEACAMZkAQfFYwEKyGQBD8VjAQdAAgDHZAEEQAIFwmMCCmQ=
+      - type: 0x0096
+        opaque: |
+          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
+          xmQCGCzFYQESQAMCxmIBFcRhAiQYQDIAxmQ=
+      - type: 0x0096
+        opaque: |
+          lgCUAQAAAAAAAAAAAAAPAIIBQAcAx2QCGCTFYQEnQAMCxGIBEcVhATpAMgDHZEAIAAIzG8VhARFAAwLC
+          YgEQxWEBO0AzAEAIAANkMxvFYQEmQAMCAmISxGECGyhAMwBACADCZAElxmEBDkACAsdiASbFYQEuQDMA
+          AWRACADDZAElxmEBDkACAsZiAQ3EYQEsQDMAwmRACADEZAEixWECDRBAAgLEYgEnxWEBL0AzAMJkQAgA
+          xWQBIsVhAQ1AAgLDYgEOxWEBIkAzAMNkQAgAxWQCGCzFYQESQAICwmIBFcRhAhsYQDMAw2RACADGZAIY
+          LMVhARJAAgIBNMVhASVAMwDEZEAIAMdkAjMbxWEBEc5iAhANxGEBNkAzAMVkQAkAAjMbxWEBNM1iARLF
+          YQEoQDMAxWRACQACZDrGYQEOy2IBDsVhAS5AMwDGZEAJAMJkASXGYQEOymIBFcRhAiQYQDMAxmRACQDD
+          ZAE9xWECDRDIYgERxWEBL0AzAMdkQAkAxGQBIsVhAg0QxmIBEMVhATtANAA=
+      - type: 0x0096
+        opaque: |
+          lgAAAQAAAAAAAAAAAAANAO4AQAkAxWQBLMVhARLGYgESxGECGyhANABACQDFZAIYLMVhARLEYgEmxWEB
+          REA0AAFkQAkAxmQCGBvFYQERw2IBDcRhASxANADCZEAJAMdkAjMbxWEDEWInxWEBL0A0AMJkQAoAAS/G
+          YQE0xWEBPUA0AMNkQAoAAmQlymECGxhANADDZEAKAMJkAS7JYQE6QDQAxGRACgDDZAEix2EBNkA0AMVk
+          QAoAxGQBNsZhAShANADFZEAKAMRkAhgsxGEBLkA0AMZkQAoAxWQCGCTCYQEkQDQAx2RACgDGZAQzG2Ev
+          QDQAx2RACgDHZAIzO0A1AA==
+      - type: 0x0097
+        opaque: |
+          lwAGAwAAsbbY////gICAwMDAQEBA8PDw4ODgoKCgICAgEBAQYGBgMDAw0NDQDD2SDECYcHBwDECZDD+W
+          DD6UUFBQkJCQDD6TsLCw7/P48fT5G0yg+vv9G0mY0dvstrvao7fZwMTfOWSs8fL4Z4a6ztHnKlWfpLfW
+          DECXDD+V4efy4uTwFkSVZ4i/OmKmpq7Thp7Iw8/klKvSKlimws/l0tvrDD+X4OfySW6tdpTGSHCzV3y5
+          tMPdWHq0haDMd5LBKlOec4i9kp/Ks8PfNVuiSWqrlavPIEyZh5fGXnm0nKbPu7/d09bp7O31VHGwfZDB
+          3d/uyc3k9vb65+jzxcjiP2KnaIG42Nvsw83j2NzsyNLmlKrPOmClzdboboW70drqtbzaV3mzyc7lDD2R
+          DEGaAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGcYAGBnGABMjxgAAOD9f8z5EgADAAAAKPoSAPCI
+          +ncgFvV3/////2SU9neEnfZ3BwAAADgAAAA4jxgAAAAAAAhgGAC4SAEAAAAUAHT5EgAAAAAAdPoSAPCI
+          +neIHPV3/////zeQ9Xch7+d3AAAUAAAAAAAt7+d3AHnUdwAAQAABAAAAII0YAADg/X9JAE4AAAAAAAAA
+          AAAsAQAAOI8YAET6EgAAAAAAsP8SAAlI6XeYEOl3/////y3v53dcV0MAOI8YAAB51HcAAEAAIAAAAECk
+          5x2PfcEBbFMfiuv6wwGgh/4dj33BAQAAAADRGQAAJAAAACABAABJbmZvV2FyZS1sYXIAAAAAaWYAAGhU
+          FAAAABQA1PgSAAT7EgA0+xIA8Ij6d3gc9Xf/////Oor1d9Sm53cAABQACAAUAOWm53cAedR3AAAAAAAA
+          AAAAAAAAAAAAAETaRACiVBQAzOQWAKZUFAB2hkgA/////2hUFACe2kQAolQUAHPQRABoVBQA
+      - type: 0x0098
+        opaque: |
+          mADGAAAAZGRkZGRkZGQGAK2+BwCtvggArb4JAK2+YWFhYWFhYWEMAK2+DQCtvg4Arb4PAK2+YmJiYmJi
+          YmISAK2+EwCtvhQArb4VAK2+AAAAAAAAAAD+/wAA+v/d3S4W3d3IYgQAAgICAgICAgIeAK2+ADX+//r/
+          3d0uFt3dY2NjY2NjY2MuFt3dgFwAAHwgAAAAAAAABAQEBAQEBAQ9R3J1dnJvcwAA/v/6/93dAwMDAwMD
+          AwMAAAAAAAAAAAAAAAAAAAAA
+      - type: 0xff85
+        FontID: 0xe000105
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 3
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 3
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xe000105
+      - type: 0x00dd
+        Signature: 0xffad
+        Version: 0
+      - type: 0xffa9
+        opaque: qf8wAAEAGAAEACQAJAAAABYAAQAAAJwAIgIBAAEALgAiAgMABwAMAAUACTBTMEUA
+      - type: 0xff85
+        FontID: 0xe000001
+      - type: 0x00aa
+        opaque: qgI=
+      - type: 0x00de
+        Signature: 0x00ae
+        Version: 0
+      - type: 0xff85
+        FontID: 0x9000001
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8494
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 4
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 720
+          - 1440
+          - 2160
+          - 2880
+          - 3600
+          - 4320
+          - 5040
+          - 5760
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 8
+        data:
+          - 1440
+          - 10
+          - 1440
+          - 10
+          - 0
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x90d0001
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x008080
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00dd
+        Signature: 0xff73
+        Version: 1
+      - type: 0xff73
+        opaque: c/8aAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xfff6
+        opaque: 9v8uAAAAAAADACEADAAAAAAAAAAAAAAAAAAAAAAAAAAAAFdlYnN0eWxlLmNzcw==
+      - type: 0x00de
+        Signature: 0xff73
+        Version: 1
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x90d0001
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x008080
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: $HTMLCode
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: 8v8eABIAAQAAAAAAEgAAABAAAQAFAFRvcGljAAMAX/8QAAIADwAHAAAAAAAAAA==
+  - name: $INFO
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: hhgBAIAAAAAAgAAAAQABAP///wAAAAAA
+  - name: $V5ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 15
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 8
+        FontID: 0x00000000
+        HeightSpc: 2
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000001
+      - type: 0xff79
+        BackColor:
+          Flags: 0x0001
+          rgb: 0xc0c0c0
+        BtnBorderDisplay: 0
+        BtnTextJustify: 0
+        BtnWidthStyle: 0
+        ButtonColor:
+          Flags: 0x0001
+          rgb: 0xc0c0c0
+        FontColor:
+          Flags: 0x0001
+          rgb: 0x000000
+        LineColor:
+          Flags: 0x0001
+          rgb: 0x000000
+        Spare:
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+        barFontID: 0x00000000
+        barHeight:
+          Flags: 0x0000
+          Length:
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+          Reserved: 0
+          Units: 0
+        dwFlags: 0x00000003
+        wAppletHeight: 31
+        wBarBackgroundRepeat: 0
+        wBtnInternalMargin: 0
+        wBtnWidthAbsolute: 0
+        wSpare: 0x0000
+        wThemeSetting: 0
+      - type: 0xfffc
+        BorderFlags: 0
+        BorderStyle: 0
+        BorderWidthBottom: 1
+        BorderWidthLeft: 0
+        BorderWidthRight: 0
+        BorderWidthTop: 0
+        Color:
+          Flags: 0x0001
+          rgb: 0x000000
+        DropShadowWidth: 0
+        Flags: 0x00000000
+        InnerWidthBottom: 0
+        InnerWidthLeft: 0
+        InnerWidthRight: 0
+        InnerWidthTop: 0
+        OuterWidthBottom: 0
+        OuterWidthLeft: 0
+        OuterWidthRight: 0
+        OuterWidthTop: 0
+        dwSpare: 0x00000000
+        wSpares:
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AQBOfA==
+        title: Categori_ze
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AgACCg==
+        title: _Edit Document
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AwADCg==
+        title: Send Docu_ment
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BAAECg==
+        title: Forward This Page
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BQA9fA==
+        title: _Move To Folder...
+      - type: 0xffbe
+        Flags: 0x0000019c
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: BgA+fA==
+        title: _Remove From Folder
+      - type: 0xffbe
+        Flags: 0x0041419d
+        IconIndex: 0
+        ShareId: 1
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:66
+          
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim s As New NotesSession
+          	Dim ws As New NotesUIWorkspace
+          	Dim db As NotesDatabase
+          	Set db = s.CurrentDatabase
+          	Dim view As NotesView
+          	Dim doc As NotesDocument
+          	Set view = db.GetView("(Help)")
+          	Set doc = view.GetFirstDocument
+          	While Not (doc Is Nothing)
+          		Dim item As NotesItem
+          		Set item = doc.GetFirstItem("AppSpecID")
+          		If item.Text = "using_help" Then
+          			Dim unid As String
+          			unid = doc.UniversalID
+          			Set doc = db.GetDocumentByUNID(unid$)
+          			Call ws.SetTargetFrame("Topic")
+          			Call ws.EditDocument(False, doc, True,,False)
+          		Else
+          		End If
+          		Set doc = view.GetNextDocument(doc)
+          	Wend
+          End Sub
+        title: Get Help on Help
+      - type: 0xfff2
+        opaque: 8v8RAAUAAAAAAAAAVG9waWM=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 2
+        Type: 1
+        data: "@Command([OpenHelpDocument];[ClientHelp];\"(Help)\";\"IntroClientHelp\")"
+        data_opaque: |
+          SAAAADoAAgC9GwAAAAAAAAIAvQAAAAAAAAABAAYAKEhlbHApAQAPAEludHJvQ2xpZW50SGVscADtBAMA
+          BwAMAAUACTBTMEUA
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_client\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQAMAGhlbHA2X2NsaWVudEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Notes Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 3
+        Type: 1
+        data: "@Command([OpenHelpDocument];[DesignerHelp];\"(Help)\";\"IntroDesignerHelp\")"
+        data_opaque: |
+          SgAAADwAAgC9GwAAAAAAAAIAvgAAAAAAAAABAAYAKEhlbHApAQARAEludHJvRGVzaWduZXJIZWxwAO0E
+          AwAHAAwABQAJMFMwRQA=
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_designer\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQAOAGhlbHA2X2Rlc2lnbmVyRwIDAAcADAAFAAkwUzBFAA==
+        title: Open Domino Designer Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 4
+        Type: 1
+        data: "@Command([OpenHelpDocument];[AdminHelp];\"(Help)\";\"IntroAdminHelp\")"
+        data_opaque: |
+          RgAAADgAAgC9GwAAAAAAAAIAvwAAAAAAAAABAAYAKEhlbHApAQAOAEludHJvQWRtaW5IZWxw7QQDAAcA
+          DAAFAAkwUzBFAA==
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Domino Administration Help
+remaining: []

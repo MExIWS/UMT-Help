@@ -1,0 +1,87 @@
+---
+class: 1
+flags: 0x0100
+unid: 2264DAD99953D8BBC1257611006E09CC
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: CDB5F4479D9A5F99C1257611006DB798
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: CDB5F4479D9A5F99C1257611006DB798
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-13T22:01:54.68+02:00"
+        dst: true
+      - data: "2009-08-13T22:03:08.80+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: RA User Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\The RA Deputy"
+      - "RA\\The RA Deputy"
+      - "Registration Authority\\The RA Deputy"
+      - "RA Deputy\\The RA Deputy"
+      - "Assigning an RA Deputy\\The RA Deputy"
+  - name: Subject
+    type: text
+    data: The RA Deputy
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: The RA Deputy
+  - name: Subject_disp
+    type: text
+    data: The RA Deputy
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Using
+      - RA
+      - Registration Authority
+      - RA Deputy
+      - Assigning an RA Deputy
+  - name: levelEntry
+    type: text
+    data: The RA Deputy
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8MAAUAAAhUaGUg
+      hf8RAAUBAAhSQSBEZXB1dHkAhf/DAAUAAAggaXMgYSBwZXJzb24gd2l0aGluIGEgdW5pdCwgd2hvIGFu
+      IFJBIGhhcyBhc3NpZ25lZCB0byBvcmRlciBNYWluIHJlcXVlc3RzIGluIFVNVC4gVGhlIFJBIERlcHV0
+      eSBoYXMgdGhlIHNhbWUgcmlnaHRzIGFzIHRoZSBSQSwgYXNzdW1pbmcgdGhhdCBoZSBvciBzaGUgaGFz
+      IGFjY2VzcyB0byBVTVQgdGhyb3VnaCB0aGUgQUNMOnMuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf8eAAUB
+      AAhBc3NpZ25pbmcgYW4gUkEgRGVwdXR5hf87AAUAAAggaXMgZG9uZSBieSBhbiBSQSBvZiBhIHVuaXQg
+      b3IgYnkgYW4gYWRtaW5pc3RyYXRvci4AgQKDBAEAhf+qAAUAAAhBbiBSQSBvcGVucyB0aGUgVU1UIEtl
+      eXdvcmRzIGRhdGFiYXNlIGFuZCBlbnRlcnMgdGhlIHVuaXQgZG9jdW1lbnQuIENsaWNrIGVkaXQgYW5k
+      IGFkZCB0aGUgbmFtZSBvZiB0aGUgUkEgRGVwdXR5IGluIHRoZSAiUkEgRGVwdXR5IiBmaWVsZC4gQ2xp
+      Y2sgIlNhdmUgYW5kIENsb3NlIi6BAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIEC
+      gwQBAIX/FwAFAQAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA
+      9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAK3/DAALAAgAAAAAAN0GAACR/5H/CQABAAAAAADeBgAA
+      kf/dBgAAhf+F/woABQAECFJB0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAI
+remaining: []

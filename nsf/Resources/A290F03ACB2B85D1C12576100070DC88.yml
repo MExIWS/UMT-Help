@@ -1,0 +1,70 @@
+---
+class: 1
+flags: 0x0100
+unid: A290F03ACB2B85D1C12576100070DC88
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T22:32:44.95+02:00"
+        dst: true
+      - data: "2010-08-18T16:58:55.73+02:00"
+        dst: true
+      - data: "2010-08-18T17:14:19.58+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail-in distribution\\UMT Mail-in"
+      - "Id-file distribution\\UMT Mail-in"
+      - "Id-files\\UMT Mail-in"
+      - "UMT Mail-in\\UMT Mail-in"
+  - name: Subject
+    type: text
+    data: 4.3 The Installer
+  - name: SubjectNumber
+    type: text
+    data: "4.3"
+  - name: SubjectText
+    type: text
+    data: The Installer
+  - name: Subject_disp
+    type: text
+    data: "4.3\tThe Installer"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Mail-in distribution
+      - Id-file distribution
+      - Id-files
+      - UMT Mail-in
+  - name: levelEntry
+    type: text
+    data: UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CQAFAQAIAACF/4MABQAACFRoZSBpbnN0
+      YWxsZXIgY2FuIHNlZSBvbmx5IHRoZSBkb2N1bWVudHMgZm9yIHdoaWNoIGhlIGlzIGEgbmFtZWQgaW5z
+      dGFsbGVyLiBUaGUgaW5zdGFsbGVyIGRvZXMgbm90IG5lZWQgdGhlIGVuY3J5cHRpb24ga2V5LgCBAoME
+      AQCF/wgABQAACIECgwQBAIX/eAAFAAAIVGhlIHdlYiBlbmFibGVkIGRvY3VtZW50cyBhcmUgZGlzYWJs
+      ZWQgYWdhaW4gYWZ0ZXIgYSBzcGVjaWZpZWQgYW1vdW50IG9mIHRpbWUsIG9yIG1hbnVhbGx5IGJ5IHRo
+      ZSBhZG1pbmlzdHJhdG9yLoECgwQBAIX/CAAFAAAI
+remaining: []

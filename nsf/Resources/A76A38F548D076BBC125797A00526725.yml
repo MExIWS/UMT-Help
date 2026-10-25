@@ -1,0 +1,98 @@
+---
+class: 1
+flags: 0x0100
+unid: A76A38F548D076BBC125797A00526725
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 39D4F27C526C7B2EC125760D006DD114
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 39D4F27C526C7B2EC125760D006DD114
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-03T16:00:03.57+01:00"
+      - data: "2012-01-03T16:00:13.02+01:00"
+      - data: "2012-01-03T16:00:47.06+01:00"
+      - data: "2012-01-03T16:04:59.16+01:00"
+      - data: "2012-01-03T16:06:51.09+01:00"
+      - data: "2012-01-03T16:07:15.44+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Named colleague\\Named colleague"
+      - "Distribution\\Named colleague"
+      - "Certificate receiver\\Named colleague"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-10T13:07:23.55+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Named colleague/Certificate receiver
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Named colleague/Certificate receiver
+  - name: Subject_disp
+    type: text
+    data: Named colleague/Certificate receiver
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Named colleague
+      - Distribution
+      - Certificate receiver
+  - name: levelEntry
+    type: text
+    data: Named colleague
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+8AAUAAAhJRCBm
+      aWxlIGFuZC9vciBwYXNzd29yZCBkaXN0cmlidXRpb24gY2FuIGJlIGRvbmUgaW4gZGlmZmVyZW50IHdh
+      eXMsIHdoaWNoIGlzIGNvbmZpZ3VyZWQgaW4gdGhlIFN5c3RlbSBzZXR0aW5ncyAtIFNlY3VyaXR5IC0g
+      SWQtZmlsZS9QYXNzd29yZCBkaXN0cmlidXRpb24gYW5kIGluIHRoZSB1bml0IGRvY3VtZW50cy6BAoME
+      AQCF/wgABQAACIECgwQBAIX/egEFAAAIVGhlIG5hbWVkIGNvbGxlYWd1ZSBvciB0aGUgQ2VydGlmaWNh
+      dGUgcmVjZWl2ZXIgaXMgb25lIG9yIHR3byBwZXJzb25zIHdpdGhpbiB0aGUgb3JnYW5pemF0aW9uIHRo
+      YXQgaXMgYXBwb2ludGVkIHRvIHJlY2VpdmUgbG9naW4gaW5mb3JtYXRpb24gd2hlbiBhIG5ldyBhY2Nv
+      dW50IGlzIGNyZWF0ZWQuIFRoZSBuYW1lZCBjb2xsZWFndWUgcmVjZWl2ZXMgZWl0aGVyIHRoZSBJRCBm
+      aWxlIGFuZCB0aGUgZnVsbCBwYXNzd29yZCBvciwgaWYgdGhlcmUgYXJlIHR3byBuYW1lZCBjb2xsZWFn
+      dWVzLCBlaXRoZXIgdGhlIElEIGZpbGUgYW5kIHRoZSBmaXJzdCBoYWxmIG9mIHRoZSBwYXNzd29yZCBv
+      ciB0aGUgc2Vjb25kIGhhbGYgb2YgdGhlIHBhc3N3b3JkLoECgwQBAIX/CAAFAAAIgQKDBAEAhf8aAAUB
+      AAhJbnRlZ3JhdGlvbiBvcHRpb26BAoMEAQCF/94ABQAACElmIHRoZSBpbnRlZ3JhdGlvbiBvcHRpb24g
+      aXMgdXNlZCwgdGhlIG5hbWVzIG9mIHRoZSBuYW1lZCBjb2xsZWFndWVzIGNhbiBiZSBzZW50IGFzIG9w
+      dGlvbmFsIGF0dHJpYnV0ZXMuIElmIHRoZXkgYXJlIG5vdCwgdGhlIG5hbWVkIGNvbGxlYWd1ZXMgd2ls
+      bCBiZSBzZWxlY3RlZCBmcm9tIHRoZSB1bml0IGRvY3VtZW50LCB3aGljaCBpcyB0aGUgZGVmYXVsdCBi
+      ZWhhdmlvci6BAoMEAQCF/wgABQAACMn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAQAI
+      UmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v9tAAAAAAACAAEA
+      AAAAAFEAAAAAAAAAAABEYXRhYmFzZSAnTlRGOiBVTVQgSGVscCA4LjUuNScsIFZpZXcgJ0luZGV4Jywg
+      RG9jdW1lbnQgJzMuMyBJZC1maWxlIGRpc3RyaWJ1dGlvbicAAACt/wwACwAIAAAAAADdBgAAkf+R/1oA
+      AQBEYXRhYmFzZSAnTlRGOiBVTVQgSGVscCA4LjUuNScsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQgJzMu
+      MyBJZC1maWxlIGRpc3RyaWJ1dGlvbicAAADeBgAAkf/dBgAAhf+F/xQABQAECERpc3RyaWJ1dGlvbtII
+      CQAAAP8A3gYAAIX/rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

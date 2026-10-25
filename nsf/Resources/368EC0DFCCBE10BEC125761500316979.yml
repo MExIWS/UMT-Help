@@ -1,0 +1,96 @@
+---
+class: 1
+flags: 0x0100
+unid: 368EC0DFCCBE10BEC125761500316979
+items:
+  - name: $Revisions
+    type: time
+    data: "2009-08-17T10:59:42.65+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Dedicated words\\Unit hierarchy"
+      - "Units\\Unit hierarchy"
+      - "Unit key\\Unit hierarchy"
+      - "Unit hierarchy\\Unit hierarchy"
+      - "Hierarchy\\Unit hierarchy"
+      - "Additional unit level\\Unit hierarchy"
+      - "Unit configuration\\Unit hierarchy"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T13:43:58.05+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Unit hierarchy
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Unit hierarchy
+  - name: Subject_disp
+    type: text
+    data: Unit hierarchy
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Dedicated words
+      - Units
+      - Unit key
+      - Unit hierarchy
+      - Hierarchy
+      - Additional unit level
+      - Unit configuration
+  - name: levelEntry
+    type: text
+    data: Unit hierarchy
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+tAAUAAAhUaGUg
+      dW5pdCBoaWVyYXJjaHkgaXMgdXNlZCB0b2dldGhlciB3aXRoIHRoZSB1bml0IGFkZGl0aW9uYWwgbGV2
+      ZWwuIFdoZW4gdXNpbmcgdGhlIGFkZGl0aW9uYWwgdW5pdCBsZXZlbCwgb25lIG9yIG1vcmUgdW5pdHMg
+      ZW5kIHVwIHdpdGggdGhlIHNhbWUgdW5pdCBrZXksIGFuZCBlaXRoZXIAgQKC/1oAAgAAAAAAAAAAACQI
+      oiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgB
+      AAAAAAAAAQAAAAQAAACDBAIAhf+OAAUAAAh3aXRoIGRpZmZlcmVudCB1bml0IGFkZGl0aW9uYWwgbGV2
+      ZWxzLCBmb3IgZXhhbXBsZSBvbmUgdW5pdCB3aXRoIGRpZmZlcmVudCBjZXJ0aWZpY2F0ZXMgKHNhbGVz
+      L2NvbXBhbnkgYW5kIHNhbGVzX2NvbnN1bHRhbnRzL2NvbXBhbnkpAIECgwQCAIX/EwEFAAAIb25lIG9m
+      IHRoZSB1bml0cyBpcyBjb25zaWRlcmVkIHRvIGJlICJzdXBlcmlvciIgYW5kIGRvZXMgbm90IGhhdmUg
+      YW4gYWRkaXRpb25hbCBsZXZlbDsgdGhlIG90aGVycyBkbywgZm9yIGV4YW1wbGUgaWYgdGhlIHNhbWUg
+      dW5pdCBoYXMgYSBudW1iZXIgb2YgY2VydGlmaWVycyBidXQgb25seSBvbmUgY2VydGlmaWVycyBzaG91
+      ZCBiZSB1c2VkIGZvciBuZXcgdXNlcnMuAFRoaXMgd2F5LCBhIGhpZXJhcmNoeSBjYW4gYmUgYnVpbHQg
+      d2l0aGluIHRoZSBzYW1lIHVuaXQuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf8pAAUAAAhBbiBleGFtcGxl
+      IG9mIHRoZSB1bml0IGhpZXJhcmNoeToAgQKDBAEAhf8IAAUAAAiBAoMEAQCF/+EABQAACFVuaXQgMTog
+      dW5pdEtleSA9IFN3ZWRlbiNTdG9ja2hvbG0jU2FsZXMAVGhlIHVuaXQgY29udGFpbnMgdGhyZWUgZGlm
+      ZmVyZW50IGNlcnRpZmllcnMsIGJ1dCBvbmx5IG9uZSBzaG91bGQgYmUgdXNlZCBmb3IgY3JlYXRpbmcg
+      bmV3IHVzZXJzLiBJbiB0aGlzIGNhc2UsIHRoZSB1bml0IGtleSB0b2dldGhlciB3aXRoIHRoZSBhZGRp
+      dGlvbmFsIGxldmVsIGxvb2tzIGxpa2UgdGhpcy4AgQKDBAIAhf9cAAUAAAhVbml0IDEgd2l0aCB0aGUg
+      Y2VydGlmaWVyIHRoYXQgc2hvdWxkIGJlIHVzZWQgZm9yIG5ldyB1c2VyczoAU3dlZGVuI1N0b2NraG9s
+      bSNTYWxlcwCBAoMEAgCF/3UABQAACFVuaXQgMSB3aXRoIGFub3RoZXIgY2VydGlmaWVyLCBjYWxsZWQg
+      b2xkX2NlcnQxL2NvbXBhbnk6AFN3ZWRlbiNTdG9ja2hvbG0jU2FsZXMsIGFkZGl0aW9uYWwgbGV2ZWw6
+      IG9sZF9jZXJ0MQAAgQKDBAIAhf91AAUAAAhVbml0IDEgd2l0aCBhbm90aGVyIGNlcnRpZmllciwgY2Fs
+      bGVkIG9sZF9jZXJ0Mi9jb21wYW55OgBTd2VkZW4jU3RvY2tob2xtI1NhbGVzLCBhZGRpdGlvbmFsIGxl
+      dmVsOiBvbGRfY2VydDIAAIECgwQBAIX/nwAFAAAIQSBoaWVyYXJjaHkgaXMgYnVpbHQsIGFuZCBieSB1
+      c2luZyB0aGUgIlVzZSB1bml0IGhpZXJhcmNoeSIgc2V0dGluZywgb25seSB0aGUgdW5pdHMgd2l0aG91
+      dCB0aGUgYWRkaXRpb25hbCBsZXZlbCBhcmUgdmlzaWJsZSBpbiB0aGUgIk5ldyB1c2VyIiB3aXphcmQu
+      AAA=
+remaining: []

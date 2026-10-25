@@ -1,0 +1,78 @@
+---
+class: 1
+flags: 0x0000
+unid: D2BE2C8E5E8A2922C125798F0052244E
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-24T15:57:12.46+01:00"
+      - data: "2012-01-24T15:57:31.29+01:00"
+      - data: "2012-01-24T15:57:56.80+01:00"
+      - data: "2012-01-24T15:58:42.80+01:00"
+      - data: "2012-01-24T15:58:51.99+01:00"
+      - data: "2012-01-24T16:01:49.75+01:00"
+      - data: "2012-01-24T16:03:48.24+01:00"
+  - name: Book
+    type: text
+    data: UMT Integration service
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Custom script library"
+      - "Integration\\Custom script library"
+      - "Custom script library\\Custom script library"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 3 Custom script library
+  - name: SubjectNumber
+    type: text
+    data: "3"
+  - name: SubjectText
+    type: text
+    data: Custom script library
+  - name: Subject_disp
+    type: text
+    data: "3\tCustom script library"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Integration
+      - Custom script library
+  - name: levelEntry
+    type: text
+    data: Custom script library
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+dAQUAAAhJbiBv
+      cmRlciBmb3Igb3JnYW5pemF0aW9ucyB1c2luZyB0aGUgSW50ZWdyYXRpb24gc2VydmljZSB3aXRoaW4g
+      VU1UIHRvIGJlIGFibGUgdG8gY3VzdG9taXplIHRoZSBpbnRlZ3JhdGlvbiBpbnB1dCwgYSBjdXN0b20g
+      c2NyaXB0IGxpYnJhcnkgaGFzIGJlZW4gYWRkZWQgdG8gdGhlIFVNVCBXZWIgc2VydmljZS4gVGhlICJX
+      U19VTVRBY3Rpb25zIiBzY3JpcHQgbGlicmFyeSBjb250YWlucyBhIG51bWJlciBvZiBlbXB0eSBmdW5j
+      dGlvbnMgdGhhdCBhcmUgY2FsbGVkIGZyb20gd2l0aGluIHRoZSBVTVQgV2ViIHNlcnZpY2UuIEVhY2gg
+      cmVxdWVzdCB0eXBlIGhhcyB0d28gZGlmZmVyZW50IGZ1bmN0aW9uLCB0aGUgInByZXByb2Nlc3Nkb194
+      eCIgYW5kIHRoZSAicG9zdHByb2Nlc3Nkb194eCIgZnVuY3Rpb25zLiAAgQKDBAEAhf8IAAUAAAiBAoME
+      AQCF/54ABQAACElmIHlvdXIgb3JnYW5pemF0aW9uIHJlcXVpcmVzIGFkZGl0aW9uYWwgZnVuY3Rpb25h
+      bGl0eSBmb3IgYSByZXF1ZXN0IG9yIGlmIGFueSBhdHRyaWJ1dGUgbmVlZHMgdG8gYmUgcHJvY2Vzc2Vk
+      IGJlZm9yZSBVTVQsIHRoZSBjb2RlIGNhbiBiZSBhZGRlZCBoZXJlLoECgwQBAIX/CAAFAAAI
+remaining: []

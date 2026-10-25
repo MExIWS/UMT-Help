@@ -1,0 +1,87 @@
+---
+class: 1
+flags: 0x0100
+unid: 4A0F1309DC125D9EC125797A0049E324
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-03T14:27:02.76+01:00"
+      - data: "2012-01-03T14:27:12.76+01:00"
+      - data: "2012-01-03T14:27:24.22+01:00"
+      - data: "2012-01-03T14:30:20.83+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Password\\Password"
+      - "Password recovery\\Password"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-25T10:42:51.12+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Password
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Password
+  - name: Subject_disp
+    type: text
+    data: Password
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Password
+      - Password recovery
+  - name: levelEntry
+    type: text
+    data: Password
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYIANACoAVwCEALEA7gELATgBYAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+1AAUAAAhUaGUg
+      cGFzc3dvcmQgY2FuIGJlIG1hbmFnZWQgYnkgVU1UIG9yIGJlIGVudGVyZWQgbWFudWFsbHkgaW5zaWRl
+      IHRoZSBmb3JtLiBJZiB0aGUgaW50ZWdyYXRpb24gb3B0aW9uIGlzIHVzZWQsIFVNVCBjYW4gdHJlYXQg
+      dGhlIHJlcXVlc3RzIGRpZmZlcmVudGx5IGRlcGVuZGluZyBvbiB0aGUgc291cmNlLgCBAoMEAQCF/1UA
+      BQAACFRoaXMgaXMgY29uZmlndXJlZCBpbiBTeXN0ZW0gc2V0dGluZ3MgLSBTZWN1cml0eSAtIFBhc3N3
+      b3JkIHNldHRpbmdzIHNlY3Rpb24uAIECgv9aAAIAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQCAIX/
+      CAABAAAKyf8QAAQAAABkABwA/////4X/CAAFAAAIgQKDBAIAhf8XAAUAAAhSZWxhdGVkIHRvcGljczoA
+      3QYAAK3/fv8MACAACAAAAAAA9v9ZAAAAAAACAAEAAAAAAD0AAAAAAAAAAABEYXRhYmFzZSAnVU1UIEhl
+      bHAgNi41IDA0MDgxOCcsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQgJ1VuaXQnAAAArf8MAAsACAAAAAAA
+      3QYAAJH/kf9GAAEARGF0YWJhc2UgJ1VNVCBIZWxwIDYuNSAwNDA4MTgnLCBWaWV3ICdJbmRleCcsIERv
+      Y3VtZW50ICdVbml0JwAAAN4GAACR/90GAACF/4X/CAAFAAQI0ggBAAAA/wDeBgAAhf+uAt4GAACuAN0G
+      AACF/4X/CAAFAAQI0ggBAAAA/wDeBgAAhf+BAoMEAgDdBgAAhf+F/wgABQAECNIIAQAAAP8A3gYAAIX/
+remaining: []

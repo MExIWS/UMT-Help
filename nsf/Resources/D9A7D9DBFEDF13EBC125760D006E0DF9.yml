@@ -1,0 +1,67 @@
+---
+class: 1
+flags: 0x0000
+unid: D9A7D9DBFEDF13EBC125760D006E0DF9
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.61+02:00"
+        dst: true
+      - data: "2009-08-09T22:04:13.34+02:00"
+        dst: true
+      - data: "2009-08-09T22:10:17.46+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Setup\\Installing UMT"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:53:53.53+01:00"
+  - name: Subject
+    type: text
+    data: 4. Other configuration
+  - name: SubjectNumber
+    type: text
+    data: "4."
+  - name: SubjectText
+    type: text
+    data: Other configuration
+  - name: Subject_disp
+    type: text
+    data: "4.\tOther configuration"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Setup
+  - name: levelEntry
+    type: text
+    data: Installing UMT
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+zAAUAAAhXaGVu
+      IHRoZSBVTVQgTWFpbiBDb25maWd1cmF0aW9uIGlzIGZpbmlzaGVkLCBhIG51bWJlciBvZiBvdGhlciBj
+      b25maWd1cmF0aW9ucyBoYXZlIHRvIGJlIG1hZGUgYmVmb3JlIHN0YXJ0aW5nIHRvIHVzZSBVTVQuIFRo
+      ZXkgYXJlIGFsbCBleHBsYWluZWQgaW4gZGV0YWlsIGluIHRoaXMgc2VjdGlvbjoAgQKDBAEAhf8IAAUA
+      AAiBAoL/WgACAAAAAAAAAAAAJAiiIyQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAhgUAAAAAVIRoAQAAaAEAAAAAAAABAAAABAAAAIMEAgCF/yEABQAACEFDTCBwcm9maWxlIGNv
+      bmZpZ3VyYXRpb24AgQKDBAIAhf8aAAUAAAhVbml0IGNvbmZpZ3VyYXRpb26BAoMEAgCF/xkABQAACExl
+      dHRlciB0ZW1wbGF0ZXMAAA==
+remaining: []

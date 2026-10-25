@@ -1,0 +1,236 @@
+---
+class: 4
+flags: 0x0000
+unid: DA1D5684DC05BE73C1256E140053B79E
+items:
+  - name: $$ScriptName
+    type: text
+    data: Main
+    signed: true
+    nonsummary: true
+  - name: $DesignerVersion
+    type: text
+    data: "7"
+    signed: true
+  - name: $Flags
+    type: text
+    data: C34WQ
+  - name: $TITLE
+    type: text
+    data: Main
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-10T12:42:09.57+02:00"
+    dst: true
+    signed: true
+  - name: $BODY
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 3
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 2
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 2
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0099
+        opaque: mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==
+      - type: 0x007d
+        opaque: fQAcAAAAAQAAAVoA0QwAAAEAAAAAAAAAAAAAAA==
+      - type: 0x007c
+        opaque: |
+          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
+      - type: 0xff85
+        FontID: 0xe000105
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0xff85
+        FontID: 0xe000105
+      - type: 0x00dd
+        Signature: 0xffad
+        Version: 0
+      - type: 0xffa9
+        opaque: qf8oAAEAGAAEABwAHAAAAA4AAQAAAJwAIgIDAAcADAAFAAkwUzBFAA==
+      - type: 0xff85
+        FontID: 0xe000005
+      - type: 0x00aa
+        opaque: qgI=
+      - type: 0x00de
+        Signature: 0x00ae
+        Version: 0
+      - type: 0xff85
+        FontID: 0xe000105
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: $HTMLCode
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: X/8QAAIADwAHAAAAAAAAAA==
+  - name: $INFO
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+remaining: []

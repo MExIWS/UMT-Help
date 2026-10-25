@@ -1,0 +1,102 @@
+---
+class: 1
+flags: 0x0000
+unid: 22BB0C227F80C3ACC125761500458322
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: EB948B5FF1568918C12576150054C6CC
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: EB948B5FF1568918C12576150054C6CC
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T14:39:15.54+02:00"
+        dst: true
+      - data: "2009-08-17T14:39:47.72+02:00"
+        dst: true
+      - data: "2009-08-17T14:40:05.35+02:00"
+        dst: true
+      - data: "2009-08-17T14:44:11.91+02:00"
+        dst: true
+      - data: "2009-08-17T17:25:11.24+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Approving"
+      - "Requests\\Approving"
+      - "Approver\\Approving"
+      - "Approving requests\\Approving"
+      - "Accepting request\\Approving"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:58:06.96+01:00"
+  - name: Subject
+    type: text
+    data: Approving requests
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Approving requests
+  - name: Subject_disp
+    type: text
+    data: Approving requests
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Requests
+      - Approver
+      - Approving requests
+      - Accepting request
+  - name: levelEntry
+    type: text
+    data: Approving
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+sAAUAAAhBcHBy
+      b3ZpbmcgVU1UIHJlcXVlc3Qgc2hvdWxkIGJlIGRvbmUgYnkgYSBwZXJzb24gd2l0aCBhIGRlZXAga25v
+      d2xlZGdlIGluIHRoZSBvcmdhbml6YXRpb24sIG1vc3Qgb2Z0ZW4gYSBEb21pbm8gQWRtaW5pc3RyYXRv
+      ciB3aXRoIHRoZSAiR2xvYmFsQWNjZXB0b3IiIHJvbGUgaW4gVU1ULoECgwQBAIX/CAAFAAAIgQKDBAEA
+      hf+hAAUAAAhVTVQgY2FuIGJlIGNvbmZpZ3VyZWQgdG8gYXV0b21hdGljYWxseSBhcHByb3ZlIGFsbCBy
+      ZXF1ZXN0cyBvciBmb3JjZSByZXF1ZXN0IGFwcHJvdmFsLCB0aGlzIGlzIGRlY2lkZWQgb24gdGhlIHVu
+      aXQgbGV2ZWwgdGhyb3VnaCB0aGUgdW5pdCBjb25maWd1cmF0aW9uLiAAgQKDBAEAhf8IAAUAAAiBAoME
+      AQCF/5MABQAACEZvciBzb21lIHJlcXVlc3RzLCB0aGVyZSBpcyBhIHBvc3NpYmlsaXR5IHRvIGZvcmNl
+      IGFwcHJvdmFsIG9uIGEgZ2xvYmFsIGxldmVsLiBJbiB0aGlzIGNhc2UsIHRoaXMgc2V0dGluZyBvdmVy
+      cmlkZXMgdGhlIHVuaXQgbGV2ZWwgc2V0dGluZy4AgQKC/1oAAgAAAAAAAAAAACQIoiMkCAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgBAAAAAAAAAQAAAAQA
+      AACDBAIAhf8IAAUAAAiBAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/
+      FwAFAAAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v+JAAAA
+      AAACAAEAAAAdAFAAAAAAAAAAAABDTj1IYWRkb2NrL09VPUR2bHAvTz1JbmZvd2FyZURhdGFiYXNlICdO
+      VEY6IFVNVCBIZWxwIDguNScsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQgJ0F1dG8gYXBwcm92YWwgb2Yg
+      cmVxdWVzdHMnAAAArf8MAAsACAAAAAAA3QYAAJH/kf92AAEARGF0YWJhc2UgJ05URjogVU1UIEhlbHAg
+      OC41JywgVmlldyAnSW5kZXgnLCBEb2N1bWVudCAnQXV0byBhcHByb3ZhbCBvZiByZXF1ZXN0cycAQ049
+      SGFkZG9jay9PVT1EdmxwL089SW5mb3dhcmUAAN4GAACR/90GAACF/4X/IQAFAAQIQXV0byBhcHByb3Zh
+      bCBvZiByZXF1ZXN0cwDSCAkAAAD/AN4GAACF/64C3gYAAK4Ahf8IAAUAAAiBAoMEAQCF/wgABQAACA==
+remaining: []

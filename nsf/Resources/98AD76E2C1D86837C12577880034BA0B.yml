@@ -1,0 +1,91 @@
+---
+class: 1
+flags: 0x0100
+unid: 98AD76E2C1D86837C12577880034BA0B
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-23T11:35:54.99+02:00"
+        dst: true
+      - data: "2010-08-23T11:36:36.05+02:00"
+        dst: true
+      - data: "2010-08-23T16:22:32.27+02:00"
+        dst: true
+      - data: "2010-08-23T16:23:20.03+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Change unit"
+      - "Change unit\\Change unit"
+      - "Change certifier\\Change unit"
+      - "Move user\\Change unit"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 4.6 Change unit request
+  - name: SubjectNumber
+    type: text
+    data: "4.6"
+  - name: SubjectText
+    type: text
+    data: Change unit request
+  - name: Subject_disp
+    type: text
+    data: "4.6\tChange unit request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Change unit
+      - Change certifier
+      - Move user
+  - name: levelEntry
+    type: text
+    data: Change unit
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf85AQUAAAhUaGUg
+      IkNoYW5nZSB1bml0IiByZXF1ZXN0IG1vdmVzIGEgdXNlciBhY2NvdW50IGZyb20gb25lIHBsYWNlIHRv
+      IGFub3RoZXIuIFRoaXMgY2FuIGluY2x1ZGUgYSBjZXJ0aWZpY2F0ZSBjaGFuZ2UsIGJ1dCBkb2VzIG5v
+      dCBoYXZlIHRvICh0aGlzIGRlcGVuZHMgb24gdGhlIGNvbmZpZ3VyYXRpb24pLiBBbHNvIGlmIG90aGVy
+      IHNldHRpbmdzIHdpdGhpbiB0aGUgdHdvIHVuaXRzIGRpZmZlciwgc3VjaCBhcyBtYWlsIHNlcnZlciBv
+      ciBpbnRlcm5ldCBhZGRyZXNzLCB0aGVzZSBzZXR0aW5ncyBhcmUgYmVpbmcgY2hhbmdlZCBhcyB3ZWxs
+      LgCBAoMEAQCF/wgABQAACIECgwQBAIX/lwAFAAAISWYgdGhlIHVzZXIgbW92ZXMgZnJvbSBvbmUgdW5p
+      dCB0byBhbm90aGVyIGFuZCB0aGVyZSBhcmUgb3JnYW5pemF0aW9uYWwgaW5mb3JtYXRpb24gaW52b2x2
+      ZWQsIHRoZXNlIHZhbHVlcyBhcmUgY2hhbmdlZCBpbiB0aGUgcGVyc29uIGRvY3VtZW50cy4AgQKDBAEA
+      hf8IAAUAAAiBAoMEAQCF/4QABQAACElmIHRoZSB1c2VyIG1vdmVzIGZyb20gb25lIGNlcnRpZmllciB0
+      byBhbm90aGVyIGEgY2VydGlmaWNhdGUgY2hhbmdlIGlzIGJlaW5nIHBlcmZvcm1lZCB0aHJvdWdoIHRo
+      ZSBhZG1pbiBwcm9jZXNzIChhZG1pblApLiCBAoMEAQCF/wgABQAACIECgwQBAIX/UwEFAAAIQWZ0ZXIg
+      dGhlIGNlcnRpZmljYXRlIGNoYW5nZSwgdGhlIHVzZXLvcyBJRCBmaWxlIGlzIHVwZGF0ZWQgYXV0b21h
+      dGljYWxseSB3aGVuIHRoZSB1c2VyIGxvZ3Mgb24gdG8gYSBzZXJ2ZXIuIFRoZSBJRCBmaWxlIGRvY3Vt
+      ZW50IGhvbGRpbmcgdGhlIElEIGZpbGUgY29weSBpbiB0aGUgVU1UIElEIGRhdGFiYXNlIGlzIGZpcnN0
+      IGNvcGllZCBhbmQgdGhlIG9sZCBJRCBmaWxlIGlzIGtlcHQgZm9yIHRyYWNlIGxvZ2dpbmcuIFRoZSBu
+      ZXcgY29weSB3aWxsIHRoZW4gYmUgdXBkYXRpbmcgdXNpbmcgdGhlIGF1dG9tYXRlZCB1cGRhdGUgcHJv
+      Y2VzcyAoVU1USUQgc2VydmVyIHRhc2spLgCBAoMEAQCF/wgABQAACIECgwQBAIX/kQAFAAAIQ2hhbmdl
+      IHVuaXQgY2FuIGFsc28gaW5jbHVkZSBhIG1haWwgZmlsZSBtb3ZlIGFuZCBtb3ZlIG9mIHRoZSByb2Ft
+      aW5nIGZpbGVzLiBUaGVzZSBtb3ZlcyBjYW4gYmUgZW5hYmxlZCB0byBiZSBmb3JjZWQgYnkgVU1ULCBv
+      ciBvcHRpb25hbC4AgQKDBAEAhf8IAAUAAAg=
+remaining: []

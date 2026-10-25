@@ -1,0 +1,94 @@
+---
+class: 1
+flags: 0x0100
+unid: 817B5B5C9639AF1CC1257615003FD2D7
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:37:07.43+02:00"
+        dst: true
+      - data: "2009-08-17T13:37:25.51+02:00"
+        dst: true
+      - data: "2009-08-17T13:46:26.88+02:00"
+        dst: true
+      - data: "2009-08-17T13:48:32.57+02:00"
+        dst: true
+      - data: "2009-08-17T14:20:14.41+02:00"
+        dst: true
+      - data: "2009-08-17T14:21:17.02+02:00"
+        dst: true
+      - data: "2009-08-17T14:22:28.66+02:00"
+        dst: true
+      - data: "2009-08-17T14:28:40.24+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: RA User Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\New requests"
+      - "Requests\\New requests"
+      - "Main requests\\New requests"
+      - "New requests\\New requests"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:25:07.71+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 7.1 The new requests section
+  - name: SubjectNumber
+    type: text
+    data: "7.1"
+  - name: SubjectText
+    type: text
+    data: The new requests section
+  - name: Subject_disp
+    type: text
+    data: "7.1\tThe new requests section"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Requests
+      - Main requests
+      - New requests
+  - name: levelEntry
+    type: text
+    data: New requests
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9XAAUAAAhUaGlz
+      IHN1YiBzZWN0aW9uIGNvbnRhaW5zIHRoZSBOZXcgcmVxdWVzdHMgdmlldyBzaG93aW5nIHRoZSBuZXcg
+      cmVxdWVzdHMgcXVldWUuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf/vAAUAAAhBbiBSQSBpcyBhYmxlIHRv
+      IHZpZXcgdGhlIHJlcXVlc3RzIGJlbG9uZ2luZyB0byBoaXMgb3IgaGVycyB1bml0IG9yIHVuaXRzLiBB
+      dCBjcmVhdGlvbiwgYWxsIHBlcnNvbnMgb3IgZ3JvdXBzIHdoaWNoIGFyZSBlbnRlcmVkIGFzIFJBOnMg
+      b3IgUkEgRGVwdXRpZXMgYXJlIGNvcGllZCBpbnRvIHRoZSByZXF1ZXN0IHNvIHRoYXQgdGhlIHJlcXVl
+      c3QgY2FuIGJlIHZpc2libGUgdG8gdGhlc2UgcGVyc29ucy4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/6wA
+      BQAACElmIGEgcGVyc29uIG9yIGEgZ3JvdXAgaXMgYWRkZWQgb3IgcmVtb3ZlZCBmcm9tIHRoZSB1bml0
+      IGRvY3VtZW50IGFmdGVyIGNyZWF0aW9uIG9mIHRoZSByZXF1ZXN0LCBtYXliZSB0aGlzIHBlcnNvbiB3
+      aWxsIG5vdCBiZSBhYmxlIHRvIHZpZXcgdGhpcyBwYXJ0aWN1bGFyIHJlcXVlc3QugQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/yMABQAACFRoZSBuZXcgcmVxdWVzdHMgdmlldyBzaG93cwCBAoL/WgACAAAAAAAAAAAA
+      JAiiIyQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhgUAAAAAVIRoAQAA
+      aAEAAAAAAAABAAAABAAAAIMEAgCF/ygABQAACEFsbCBuZXcgcmVxdWVzdHMgYmVmb3JlIGFwcHJvdmFs
+      gQKDBAIAhf89AAUAAAhBbGwgbmV3IHJlcXVlc3RzIGFmdGVyIGFwcHJvdmFsIGFuZCBiZWZvcmUgcHJv
+      Y2Vzc2luZwCBAoMEAgCF/1MABQAACEFsbCBuZXcgcmVxdWVzdHMgd2hpY2ggaGF2ZSBiZWVuIHByb2Nl
+      c3NlZCBmb3IgdGhlIGZpcnN0IHRpbWUgd2l0aCBhbiBlcnJvcgCBAoMEAQCF/wgABQAACA==
+remaining: []

@@ -1,0 +1,103 @@
+---
+class: 1
+flags: 0x0000
+unid: 78435F232AEDA868C125760D006E0DE9
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 61349FD3EFFBF327C125760D006DD112
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 61349FD3EFFBF327C125760D006DD112
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.29+02:00"
+        dst: true
+      - data: "2009-08-09T22:03:08.88+02:00"
+        dst: true
+      - data: "2009-08-09T22:13:06.74+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Creating the UMT encryption keys"
+      - "Security\\Creating the UMT encryption keys"
+      - "UMT ID\\Creating the UMT encryption keys"
+      - "UMT CA\\Creating the UMT encryption keys"
+      - "Installation\\Creating the UMT encryption keys"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:47:35.77+01:00"
+  - name: Subject
+    type: text
+    data: 2.4 Creating the UMT encryption keys
+  - name: SubjectNumber
+    type: text
+    data: "2.4"
+  - name: SubjectText
+    type: text
+    data: Creating the UMT encryption keys
+  - name: Subject_disp
+    type: text
+    data: "2.4\tCreating the UMT encryption keys"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Security
+      - UMT ID
+      - UMT CA
+      - Installation
+  - name: levelEntry
+    type: text
+    data: Creating the UMT encryption keys
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAQAIgQKC/1oAAgAAAAAAAAAAACQI
+      oiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYRAAAAAFSEaAEAAGgB
+      AAAAAAAAAQAAAAQAAACDBAIAhf8QAAUBAAhDcmVhdGluZ4X/eAAFAAAIAABGcm9tIHRoZSAiVXNlciBz
+      ZWN1cml0eSIgb3B0aW9uIGluIHRoZSBOb3RlcyBjbGllbnQsIHNlbGVjdCAiTm90ZXMgZGF0YSIgYW5k
+      IGNyZWF0ZSB0d28gZW5jcnlwdGlvbiBrZXlzLiBUaGV5IIX/DAAFBAAIbXVzdIX/EgAFAAAIIGJlIG5h
+      bWVkIIX/DgAFAQAIVU1UIElEhf8NAAUAAAggYW5kIACF/w4ABQEACFVNVCBDQYX/CgAFAAAILgCBAoME
+      AgCF/yYABQEACERpc3RyaWJ1dGluZyB0byBhZG1pbmlzdHJhdG9yc4X/oAAFAAAIAABUaGUgZW5jcnlw
+      dGlvbiBrZXlzIHNob3VsZCBiZSBkaXN0cmlidXRlZCB0byB1c2VyIGFkbWluaXN0cmF0b3JzIG9yIERv
+      bWlubyBhZG1pbmlzdHJhdG9ycyB3aG8gYXJlIGdvaW5nIHRvIG1vbml0b3IgcGFydHMgb2YgdGhlIFVN
+      VCBhcHBsaWNhdGlvbi4AAFRoZSCF/w4ABQEACFVNVCBJRIX/qwAFAAAIIGtleSBzaG91bGQgYmUgaGVs
+      ZCBieSBwZW9wbGUgd2hvIGFyZSBnb2luZyB0byB1cGRhdGUgaWQtZmlsZXMgaW4gdGhlIFVNVCBJRCBk
+      YXRhYmFzZSwgYXMgdGhlIGlkLWZpbGVzIGFyZSBnb2luZyB0aHJvdWdoIGEgcmVuYW1lLCByZWNlcnRp
+      Znkgb3IgbW92ZSByZXF1ZXN0LgAAVGhlIACF/w4ABQEACFVNVCBDQYX/RAAFAAAIIGtleSBzaG91bGQg
+      YmUgaGVsZCBieSBwZW9wbGUgd2hvIGNyZWF0ZSB0aGUgdW5pdCBkb2N1bWVudHMuhf8KAAUAAAgAAIX/
+      xwAFAgAIVXNlIGNhdXRpb24gd2hlbiBkaXN0cmlidXRpbmcgZW5jcnlwdGlvbiBrZXlzIHRvIHVzZXJz
+      IGluIHRoZSBvcmdhbml6YXRpb24uIFRoZSBVTVQgSUQgYW5kIFVNVCBDQSBkYXRhYmFzZXMgaG9sZCB2
+      ZXJ5IHNlbnNpYmxlIGluZm9ybWF0aW9uIGFuZCBpdCBzaG91bGQgbm90IGJlIHZpc2libGUgdG8gdW5h
+      dXRob3JpemVkIHBlb3BsZS4Ahf8JAAUAAAgAAIECgwQCAIX/KwAFAQAIRGlzdHJpYnV0aW5nIHRvIHRo
+      ZSBwcm9jZXNzIHNlcnZlcnMAhf9iAAUAAAgAAEFsbCBwcm9jZXNzIHNlcnZlcnMgaWQgc2hvdWxkIGNv
+      bnRhaW4gdGhlIHR3byBlbmNyeXB0aW9uIGtleXMgaW4gb3JkZXIgZm9yIFVNVCB0byB3b3JrLgCBAoME
+      AQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAQAIUmVsYXRlZCB0b3Bp
+      Y3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAA
+      AAAAAK3/DAALAAgAAAAAAN0GAACR/5H/CQABAAAAAADeBgAAkf/dBgAAhf+F/xcABQAECEVuY3J5cHRp
+      b24ga2V5cwDSCAkAAAD/AN4GAACF/64C3gYAAK4Ahf8IAAUAAAiBAoMEAQCF/wgABQAACA==
+remaining: []

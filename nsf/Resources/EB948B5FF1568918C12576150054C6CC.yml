@@ -1,0 +1,101 @@
+---
+class: 1
+flags: 0x0000
+unid: EB948B5FF1568918C12576150054C6CC
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 76482256CB51C0D1C125760D006E0DE6
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 76482256CB51C0D1C125760D006E0DE6
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T17:25:59.18+02:00"
+        dst: true
+      - data: "2009-08-17T17:26:11.57+02:00"
+        dst: true
+      - data: "2009-08-17T17:26:30.38+02:00"
+        dst: true
+      - data: "2009-08-17T17:29:00.30+02:00"
+        dst: true
+      - data: "2009-08-17T17:29:37.07+02:00"
+        dst: true
+      - data: "2009-08-17T17:29:43.68+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Requests\\Auto approval"
+      - "Approver\\Auto approval"
+      - "Approving requests\\Auto approval"
+      - "Accepting request\\Auto approval"
+      - "Auto approval\\Auto approval"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:58:06.96+01:00"
+  - name: Subject
+    type: text
+    data: Auto approval of requests
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Auto approval of requests
+  - name: Subject_disp
+    type: text
+    data: Auto approval of requests
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Requests
+      - Approver
+      - Approving requests
+      - Accepting request
+      - Auto approval
+  - name: levelEntry
+    type: text
+    data: Auto approval
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+TAAUAAAhTb21l
+      IHJlcXVlc3RzIGNhbiBiZSBhcHByb3ZlZCBhdXRvbWF0aWNhbGx5LCBldmVuIGlmIGl0IGlzIHNldCBv
+      biB0aGUgdW5pdCBsZXZlbHMgdGhhdCBhbGwgcmVxdWVzdHMgc2hvdWxkIGJlIGFwcHJvdmVkIGJ5IGFu
+      IGFkbWluaXN0cmF0b3IuAIECgwQBAIX/eQAFAAAISWYgYXV0byBhcHByb3ZhbCBpcyBlbmFibGVkIGZv
+      ciBvbmUgb3IgbW9yZSByZXF1ZXN0cywgdGhpcyBzZXR0aW5nIHdpbGwgb3ZlcnJpZGUgdGhlIHVuaXQg
+      bGV2ZWwgYXBwcm92YWwgc2V0dGluZy4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/3EABQAACFRoZSBhdXRv
+      IGFwcHJvdmFsIHNldHRpbmcgY2FuIGJlIGZvdW5kIGluIHRoIFVNVCBNYWluIENvbmZpZ3VyYXRpb24g
+      LSBTeXN0ZW0gU2V0dGluZ3MgLSBSZXF1ZXN0IHNldHRpbmdzLgCBAoMEAQCF/wgAAQAACsn/EAAEAAAA
+      ZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAAAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI
+      3QYAAK3/fv8MACAACAAAAAAA9v+GAAAAAAACAAEAAAAdAE0AAAAAAAAAAABDTj1IYWRkb2NrL09VPUR2
+      bHAvTz1JbmZvd2FyZURhdGFiYXNlICdOVEY6IFVNVCBIZWxwIDguNScsIFZpZXcgJ0NvbnRlbnRzJywg
+      RG9jdW1lbnQgJzMuMSBTeXN0ZW0gc2V0dGluZ3MnAACt/wwACwAIAAAAAADdBgAAkf+R/3MAAQBEYXRh
+      YmFzZSAnTlRGOiBVTVQgSGVscCA4LjUnLCBWaWV3ICdDb250ZW50cycsIERvY3VtZW50ICczLjEgU3lz
+      dGVtIHNldHRpbmdzJwBDTj1IYWRkb2NrL09VPUR2bHAvTz1JbmZvd2FyZQAAAN4GAACR/90GAACF/4X/
+      MAAFAAQIVU1UIE1haW4gQ29uZmlndXJhdGlvbiAtIFN5c3RlbSBzZXR0aW5nc9IICQAAAP8A3gYAAIX/
+      rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

@@ -1,0 +1,104 @@
+---
+class: 1
+flags: 0x0000
+unid: 6629FC2C5DDAF0ACC125778500303C95
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-20T10:46:52.37+02:00"
+        dst: true
+      - data: "2010-08-20T10:47:15.83+02:00"
+        dst: true
+      - data: "2010-08-20T10:47:26.91+02:00"
+        dst: true
+      - data: "2010-08-20T10:47:32.08+02:00"
+        dst: true
+      - data: "2010-08-20T10:48:07.81+02:00"
+        dst: true
+      - data: "2010-08-20T10:55:48.60+02:00"
+        dst: true
+      - data: "2010-08-20T10:59:39.55+02:00"
+        dst: true
+      - data: "2010-08-20T11:04:48.02+02:00"
+        dst: true
+      - data: "2010-08-20T11:04:58.52+02:00"
+        dst: true
+      - data: "2010-08-20T11:05:15.96+02:00"
+        dst: true
+      - data: "2010-08-20T11:05:20.55+02:00"
+        dst: true
+      - data: "2010-08-20T11:05:34.50+02:00"
+        dst: true
+      - data: "2010-08-20T16:05:21.45+02:00"
+        dst: true
+      - data: "2010-08-20T16:06:28.59+02:00"
+        dst: true
+      - data: "2010-08-20T16:06:43.65+02:00"
+        dst: true
+      - data: "2010-08-20T16:06:49.36+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Upgrade"
+      - "Upgrade\\Upgrade"
+      - "Automated upgrade\\Upgrade"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-20T17:36:01.27+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 8.2 The automated upgrade task
+  - name: SubjectNumber
+    type: text
+    data: "8.2"
+  - name: SubjectText
+    type: text
+    data: The automated upgrade task
+  - name: Subject_disp
+    type: text
+    data: "8.2\tThe automated upgrade task"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Upgrade
+      - Automated upgrade
+  - name: levelEntry
+    type: text
+    data: Upgrade
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9iAAUAAAhUaGUg
+      YXV0b21hdGVkIHVwZ3JhZGUgaXMgZG9uZSBpbiBvbmUgb3IgbW9yZSBzdGVwcywgZGVwZW5kaW5nIG9u
+      IHdoYXQgbmVlZHMgdG8gYmUgY2hhbmdlZDqBAoMEAQCF/wgABQAACIECgv9aAAIAAAAAAAAAAAAkCKIj
+      JAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGBQAAAABUhGgBAABoAQAA
+      AAAAAAEAAAAEAAAAgwQCAIX/pQAFAAAIUnVuIHRoZSAiVXBncmFkZSB3aXphcmQiIHRvIHJlLXNhdmUg
+      YW5kIGFkZCBjb21tb24gbmV3IGZpZWxkcyB0byB0aGUgR2xvYmFsIENvbmZpZ3VyYXRpb24gZG9jdW1l
+      bnRzLCB0aGUgdW5pdCBkb2N1bWVudHMsIHRoZSBBQ0wgcHJvZmlsZXMgYW5kIHRoZSBWaWV3IHNldHVw
+      LgCBAoMEAgCF/4kABQAACElmIGNoYW5nZXMgYXJlIG5lZWRlZCBpbiB0aGUgdW5pdCBkb2N1bWVudHMs
+      IHlvdSBjYW4gY2hhbmdlIHRoZW0gdXNpbmcgdGhlIHVwZ3JhZGUgYWN0aW9ucyBpbiB0aGUgIlVwZ3Jh
+      ZGUgdmlldyIgaW4gVU1UIEtleXdvcmRzLgCBAoMEAQCF/wgABQAACIECgwQBAIX/CAABAAAKyf8QAAQA
+      AABkABwA/////4X/CAAFAAAIgQKDBAEAhf8XAAUBAAhSZWxhdGVkIHRvcGljczoAgQKDBAEAhf8IAAUA
+      AAg=
+remaining: []

@@ -1,0 +1,85 @@
+---
+class: 1
+flags: 0x0100
+unid: 7E2EF327A9C9082CC12576150031BEF8
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 7B1AF3A9D24F2803C125760D006E0DEC
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 7B1AF3A9D24F2803C125760D006E0DEC
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data: "2009-08-17T11:03:21.52+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail file\\Mail file sequence"
+      - "Mail file sequence value\\Mail file sequence"
+      - "Counter document\\Mail file sequence"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-14T14:31:43.31+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Mail file sequence
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Mail file sequence
+  - name: Subject_disp
+    type: text
+    data: Mail file sequence
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Mail file
+      - Mail file sequence value
+      - Counter document
+  - name: levelEntry
+    type: text
+    data: Mail file sequence
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/eAAUAAAhJZiB0
+      aGUgb3JnYW5pemF0aW9uIGNob29zZXMgdG8gY3JlYXRlIG1haWwgZmlsZSBuYW1lcyBpbiBzZXF1ZW5j
+      ZSwgVU1UIHN1cHBvcnRzIHRoaXMuIEZvciBlYWNoIG1haWwgc2VydmVyLCBhIGNvdW50ZXIgZG9jdW1l
+      bnQgaXMgY3JlYXRlZDsga2VlcGluZyB0cmFjayBvbiBhbGwgbWFpbCBmaWxlIG51bWJlcnMgaGF2aW5n
+      IGJlZW4gY3JlYXRlZCBvbiB0aGF0IHNlcnZlci4ggQKDBAEAhf8IAAUAAAiBAoMEAQCF/wEBBQAACFdo
+      ZW4gc2V0dGluZyB1cCBVTVQgZm9yIHRoZSBmaXJzdCB0aW1lLCBhICJiZWdpbiBzZXF1ZW5jZSIgaXMg
+      Y29uZmlndXJlZCBpbiB0aGUgTWFpbiBDb25maWd1cmF0aW9uLCB0ZWxsaW5nIFVNVCBvbiB3aGljaCBu
+      dW1iZXIgdG8gYmVnaW4gdGhlIHNlcXVlbmNlLiBUaGlzIHZhbHVlIGlzIHVzZWQgb25seSBpZiB0aGVy
+      ZSBpcyBubyBjb3VudGVyIGRvY3VtZW50LCBmb3IgZXhhbXBsZSBpZiBhIG5ldyBtYWlsIHNlcnZlciBp
+      cyB1c2VkLgCBAoMEAQCF/wgABQAACIECgwQBAIX/CAABAAAKyf8QAAQAAABkABwA/////4X/CAAFAAAI
+      gQKDBAEAhf8XAAUAAAhSZWxhdGVkIHRvcGljczoAgQKDBAEAhf8IAAUAAAjdBgAArf9+/wwAIAAIAAAA
+      AAD2/xwAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAArf8MAAsACAAAAAAA3QYAAJH/kf8JAAEAAAAAAN4G
+      AACR/90GAACF/4X/JAAFAAQITWFpbiBjb25maWd1cmF0aW9uIC0gQWNjb3VudNIICQAAAP8A3gYAAIX/
+      rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

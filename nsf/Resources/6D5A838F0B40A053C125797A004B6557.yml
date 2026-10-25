@@ -1,0 +1,85 @@
+---
+class: 1
+flags: 0x0100
+unid: 6D5A838F0B40A053C125797A004B6557
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 98AD76E2C1D86837C12577880034BA0B
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 98AD76E2C1D86837C12577880034BA0B
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-03T14:43:31.43+01:00"
+      - data: "2012-01-03T14:44:10.09+01:00"
+      - data: "2012-01-03T14:44:22.71+01:00"
+      - data: "2012-01-03T14:52:58.99+01:00"
+      - data: "2012-01-03T14:53:05.25+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Move mail file\\Move mail file"
+      - "Change unit\\Move mail file"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-14T14:31:43.31+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Move mail file
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Move mail file
+  - name: Subject_disp
+    type: text
+    data: Move mail file
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Move mail file
+      - Change unit
+  - name: levelEntry
+    type: text
+    data: Move mail file
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/wAAUAAAhNb3Zp
+      bmcgdGhlIG1haWwgZmlsZSBpcyBwYXJ0IG9mIHRoZSBDaGFuZ2UgdW5pdCByZXF1ZXN0IGFuZCBvY2N1
+      cnMgaWYgdGhlIHVzZXIgbW92ZXMgZnJvbSBvbmUgdW5pdCB0byBhbm90aGVyIGFuZCB0aGUgaG9tZSBz
+      ZXJ2ZXJzIGRpZmZlci4gQWxzbywgdGhlIG1vdmUgbWFpbCBmaWxlIG9wdGlvbiBtdXN0IGJlIGVuYWJs
+      ZWQgaW4gdGhlIFN5c3RlbSBzZXR0aW5ncyAtIENoYW5nZSB1bml0IHNlY3Rpb24ugQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/wgABQAACMn/EAAEAAAAZAA5AP////+F/wgABQAACIECgwQBAIX/FwAFAQAIUmVsYXRl
+      ZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v9sAAAAAAACAAEAAAAAAFAA
+      AAAAAAAAAABEYXRhYmFzZSAnTlRGOiBVTVQgSGVscCA4LjUuNScsIFZpZXcgJ0luZGV4JywgRG9jdW1l
+      bnQgJzQuNiBDaGFuZ2UgdW5pdCByZXF1ZXN0JwAArf8MAAsACAAAAAAA3QYAAJH/kf9ZAAEARGF0YWJh
+      c2UgJ05URjogVU1UIEhlbHAgOC41LjUnLCBWaWV3ICdJbmRleCcsIERvY3VtZW50ICc0LjYgQ2hhbmdl
+      IHVuaXQgcmVxdWVzdCcAAAAA3gYAAJH/3QYAAIX/hf8bAAUABAhDaGFuZ2UgdW5pdCByZXF1ZXN0ANII
+      CQAAAP8A3gYAAIX/rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

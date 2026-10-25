@@ -1,0 +1,74 @@
+---
+class: 1
+flags: 0x0000
+unid: F193117A4245F3ACC12576100070D6C4
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T22:32:30.12+02:00"
+        dst: true
+      - data: "2009-08-17T20:25:38.23+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Installing UMT Mail-in"
+      - "Logging\\Installing UMT Mail-in"
+      - "Trace log\\Installing UMT Mail-in"
+      - "UMT Mailin\\Installing UMT Mail-in"
+  - name: OriginalModTime
+    type: time
+    data: "2006-08-30T10:09:38.39+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 1.3 The Trace log
+  - name: SubjectNumber
+    type: text
+    data: "1.3"
+  - name: SubjectText
+    type: text
+    data: The Trace log
+  - name: Subject_disp
+    type: text
+    data: "1.3\tThe Trace log"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Logging
+      - Trace log
+      - UMT Mailin
+  - name: levelEntry
+    type: text
+    data: Installing UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9eAAUAAAhUaGUg
+      VHJhY2UgbG9nIG9mZmVycyBhIGNsaWVudCBiYXNlZCBsb2cgdG8gdHJhY2UgZXZlbnRzIGluaXRpYXRl
+      ZCBieSBVTVQgTWFpbGluIHVzZXJzLoECgwQBAIX/dQAFAAAIVGhlIFRyYWNlIGxvZyBpcyBlbmFibGVk
+      IHRocm91Z2ggdGhlIFVNVCBNYWlsaW4gY29uZmlndXJhdGlvbiBhbmQgdGhlIGxvZyBpcyB3cml0dGVu
+      IHRvIHRoZSBVTVQgTG9nIGRhdGFiYXNlLgCBAoMEAQCF/wgABQAACIECgwQBAIX/fgAFAAAIUmVxdWly
+      ZW1lbnQgZm9yIHVzaW5nIHRoZSBUcmFjZSBsb2csIGlzIHRoYXQgYWxsIFVNVCBNYWlsaW4gdXNlcnMg
+      aGF2ZSBhdCBsZWFzdCBhdXRob3IgYWNjZXNzIHRvIHRoZSBVTVQgTG9nIGRhdGFiYXNlLoECgwQBAIX/
+      CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

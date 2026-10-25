@@ -1,0 +1,64 @@
+---
+class: 1
+flags: 0x0000
+unid: 04F232BBD56B0AE3C125760D006DD113
+items:
+  - name: $Revisions
+    type: time
+    data: "2009-08-09T21:59:29.48+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\UMT and security"
+      - "Security\\UMT and security"
+  - name: Subject
+    type: text
+    data: 3 UMT and security
+  - name: SubjectNumber
+    type: text
+    data: "3"
+  - name: SubjectText
+    type: text
+    data: UMT and security
+  - name: Subject_disp
+    type: text
+    data: "3\tUMT and security"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Security
+  - name: levelEntry
+    type: text
+    data: UMT and security
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf98AAUAAAhPbmUg
+      b2YgdGhlIG1vc3QgaW1wb3J0YW50IGlzc3VlcyB0byBkZWFsIHdpdGggd2hlbiBjcmVhdGluZyBVTVQs
+      IHdhcyB0byBrZWVwIHNlY3VyaXR5IGF0IHRoZSBoaWdoZXN0IGxldmVsIHBvc3NpYmxlLoECgwQBAIX/
+      CAAFAAAIgQKDBAEAhf81AQUAAAhVc2luZyBlbmNyeXB0aW9uIGtleXMgYW5kIGEgc2VjdXJlIGRpc3Ry
+      aWJ1dGlvbiBvZiBpZC1maWxlcywgVU1UIGlzIGNvbnNpZGVyZWQgdG8gYmUgYSB2ZXJ5IHNlY3VyZSBh
+      cHBsaWNhdGlvbi4gVU1UIHByb3ZpZGVzIGdyZWF0IHBvc3NpYmlsaXRpZXMgdG8gcHJvdmlkZSBhIGhp
+      Z2ggc2VjdXJpdHkgbGV2ZWwsIGFzIGxvbmcgYXMgQUNMOnMgYW5kIGVuY3J5cHRpb24ga2V5cyBhcmUg
+      cHJvcGVybHkgbW9uaXRvcmVkLiBUaGUgVU1UIEFkbWluaXN0cmF0b3IgcGxheXMgYW4gaW1wb3J0YW50
+      IHJvbGUgaW4gdGhpcyBtYXR0ZXIuAIECgwQBAIX/CAAFAAAI
+remaining: []

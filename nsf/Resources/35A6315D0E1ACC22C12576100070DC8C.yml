@@ -1,0 +1,87 @@
+---
+class: 1
+flags: 0x0000
+unid: 35A6315D0E1ACC22C12576100070DC8C
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T22:32:45.03+02:00"
+        dst: true
+      - data: "2009-08-17T12:50:10.14+02:00"
+        dst: true
+      - data: "2009-08-17T20:26:54.88+02:00"
+        dst: true
+      - data: "2009-08-17T20:27:29.18+02:00"
+        dst: true
+      - data: "2009-08-17T20:27:38.34+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Installing UMT Mail-in"
+      - "UMT Mailin\\Installing UMT Mail-in"
+      - "Encryption keys\\Installing UMT Mail-in"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:56:01.86+01:00"
+  - name: Subject
+    type: text
+    data: 2.4 Creating the encryption key
+  - name: SubjectNumber
+    type: text
+    data: "2.4"
+  - name: SubjectText
+    type: text
+    data: Creating the encryption key
+  - name: Subject_disp
+    type: text
+    data: "2.4\tCreating the encryption key"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - UMT Mailin
+      - Encryption keys
+  - name: levelEntry
+    type: text
+    data: Installing UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAQAIgQKC/1oAAgAAAAAAAAAAACQI
+      oiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYRAAAAAFSEaAEAAGgB
+      AAAAAAAAAQAAAAQAAACDBAIAhf8QAAUBAAhDcmVhdGluZ4X/EwAFAAAIAABGcm9tIHRoZSAAhf8VAAUB
+      AAhVc2VyIHNlY3VyaXR5AIX/LAAFAAAIIG9wdGlvbiBpbiB0aGUgTm90ZXMgY2xpZW50LCBzZWxlY3Qg
+      hf8SAAUBAAhOb3RlcyBkYXRhhf8rAAUAAAggYW5kIGNyZWF0ZSBvbmUgZW5jcnlwdGlvbiBrZXkuIEl0
+      IACF/wwABQQACG11c3SF/xIABQAACCBiZSBuYW1lZCCF/xIABQEACFVNVCBNYWlsaW6F/woABQAACC4A
+      hf9LAAUCAAhOb3RlOiBUaGUgZW5jcnlwdGlvbiBrZXkgaXMgdGhlIHNhbWUgZm9yIGFsbCBVTVQgTWFp
+      bC1pbiBkYXRhYmFzZXMuAIX/CQAFAAAIAACBAoMEAgCF/yYABQEACERpc3RyaWJ1dGluZyB0byBhZG1p
+      bmlzdHJhdG9yc4X/lwAFAAAIAABUaGUgZW5jcnlwdGlvbiBrZXkgc2hvdWxkIGJlIGRpc3RyaWJ1dGVk
+      IHRvIHVzZXIgYWRtaW5pc3RyYXRvcnMgb3IgRG9taW5vIGFkbWluaXN0cmF0b3JzIHdobyBhcmUgZ29p
+      bmcgdG8gbW9uaXRvciB0aGUgVU1UIE1haWwtaW4gZGF0YWJhc2VzLgAAhf8JAAUAAAgAAIX/wQAFAgAI
+      VXNlIGNhdXRpb24gd2hlbiBkaXN0cmlidXRpbmcgZW5jcnlwdGlvbiBrZXlzIHRvIHVzZXJzIGluIHRo
+      ZSBvcmdhbml6YXRpb24uIFRoZSBVTVQgTWFpbC1pbiBkYXRhYmFzZXMgaG9sZCB2ZXJ5IHNlbnNpYmxl
+      IGluZm9ybWF0aW9uIGFuZCBpdCBzaG91bGQgbm90IGJlIHZpc2libGUgdG8gdW5hdXRob3JpemVkIHBl
+      b3BsZS4Ahf8JAAUAAAgAAIECgwQCAIX/JwAFAQAIRGlzdHJpYnV0aW5nIHRvIHRoZSBtYWlsIHNlcnZl
+      cgCF/4UABQAACAAASW4gb3JkZXIgZm9yIHRoZSBVTVQgTWFpbC1pbiBhcHBsaWNhdGlvbiB0byB3b3Jr
+      LCB0aGUgc2VydmVyIGhvbGRpbmcgdGhlIGRhdGFiYXNlcyBtdXN0IGhvbGQgdGhlIGVuY3J5cHRpb24g
+      a2V5IGluIGl0cyBpZC4AAA==
+remaining: []

@@ -1,0 +1,20 @@
+---
+class: 4
+flags: 0x0000
+unid: 499A3641E983987DC1257615002A467B
+items:
+  - name: $FileNames
+    type: text
+    data: ".classpath"
+    signed: true
+  - name: $Flags
+    type: text
+    data: ~Cg
+  - name: $TITLE
+    type: text
+    data: ".classpath"
+  - name: $FileData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

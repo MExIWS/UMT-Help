@@ -1,0 +1,97 @@
+---
+class: 1
+flags: 0x0100
+unid: C9596A36E87DC160C1257785004D6E1F
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-20T16:05:44.63+02:00"
+        dst: true
+      - data: "2010-08-20T16:05:57.75+02:00"
+        dst: true
+      - data: "2010-08-20T16:23:06.06+02:00"
+        dst: true
+      - data: "2010-08-20T16:23:32.24+02:00"
+        dst: true
+      - data: "2010-08-20T16:24:12.91+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Upgrade"
+      - "Upgrade\\Upgrade"
+      - "Wizard\\Upgrade"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-20T17:36:01.27+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 8.2.2 Upgrading the unit documents
+  - name: SubjectNumber
+    type: text
+    data: 8.2.2
+  - name: SubjectText
+    type: text
+    data: Upgrading the unit documents
+  - name: Subject_disp
+    type: text
+    data: "8.2.2\tUpgrading the unit documents"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Upgrade
+      - Wizard
+  - name: levelEntry
+    type: text
+    data: Upgrade
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/sAAUAAAhJZiBh
+      bnkgb2YgdGhlIHVuaXQgZG9jdW1lbnRzIG11c3QgYmUgY2hhbmdlZCwgdGhlICAiVXBncmFkZSB2aWV3
+      IiBjYW4gYmUgdXNlZC4gVGhlICJVcGdyYWRlIHZpZXciIGNhbiBiZSBmb3VuZCBpbiAiU2V0dXAiIC0g
+      VW5pdHMiLiBJbiB0aGlzIHZpZXcsIGFsbCBjaGFuZ2VzIHRoYXQgbmVlZCB0byBiZSBmaXhlZCBhcmUg
+      c2hvd24gaW4gdGhlICJNaXNzaW5nIGNvbmZpZ3VyYXRpb24iIGNvbHVtbi6BAoMEAQCF/wgABQAACIEC
+      gwQBAIX/TwAFAgAITm90ZTogVGhlIGFjdGlvbnMgY2FuIGJlIHVzZWQgYXQgYW55IHRpbWUsIG5vdCBv
+      bmx5IHdoZW4gdXBncmFkaW5nIFVNVC4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF//MABQAACFRoZXJlIGFy
+      ZSB0d28gdmlldyBhY3Rpb25zIGluIHRoaXMgdmlldywgdGhlICJVcGdyYWRlIHNldHVwIiBhbmQgdGhl
+      ICJVcGdyYWRlIHJvYW1pbmciIGJ1dHRvbnMgb24gdG9wIG9mIHRoaXMgdmlldy4gVGhlc2UgYWN0aW9u
+      cyBjYW4gYmUgdXNlZCB3aGVuZXZlciB5b3UgbmVlZCB0byBjaGFuZ2UgdGhlIHJvYW1pbmcgb3Igc2V0
+      dXAgdmFsdWVzIGluIG9uZSBvciBtb3JlIG9mIHRoZSB1bml0IGRvY3VtZW50cy4AgQKDBAEAhf8IAAUA
+      AAiBAoL/WgACAAAAAAAAAAAAJAiiIyQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAhgUAAAAAVIRoAQAAaAEAAAAAAAABAAAABAAAAIMEAgCF/3sABQAACFNlbGVjdCBvbmUgb3Ig
+      bW9yZSBkb2N1bWVudHMgdG8gYmUgY2hhbmdlZCBhbmQgdGhlbiBzZWxlY3QgdGhlIHVwZ3JhZGUgYnV0
+      dG9uIHRvIGNoYW5nZSB0aGUgc2V0dGluZ3MgaW4gZGlhbG9nIGJveC4AgQKDBAIAhf8IAAUAAAiBAoME
+      AgCF/zAABQAACE1ha2UgdGhlIGRlc2lyZWQgY2hhbmdlcyBhbmQgY2xpY2sgIk9LIi6BAoMEAgCF/wgA
+      BQAACIECgwQCAIX/QAAFAAAIVGhlIGNoYW5nZXMgYXJlIG5vdyByZWZsZWN0ZWQgaW4gYWxsIHNlbGVj
+      dGVkIGRvY3VtZW50cy6BAoMEAgCF/wgABQAACIECgv9aAAMAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAA
+      gwQDAIX/UwEFAgAITm90ZTogSW4gb3JkZXIgZm9yIHRoZSBVTVQgS2V5d29yZHMgZGF0YWJhc2UgdG8g
+      ZmluZCB0aGUgVU1UIE1haW4gZGF0YWJhc2UsIGEgbmV3IGNvbmZpZ3VyYXRpb24gZG9jdW1lbnQgaGFz
+      IGJlZW4gYWRkZWQgdG8gdGhlIFVNVCBLZXl3b3JkcyBkYXRhYmFzZS4gVGhpcyBjb25maWd1cmF0aW9u
+      IGRvY3VtZW50IGlzIGF1dG9tYXRpY2FsbHkgY3JlYXRlZCB3aGVuIHRoZSAiVXBncmFkZSB3aXphcmQi
+      IGlzIHJ1bi4gVGhlIGNvbmZpZ3VyYXRpb24gZG9jdW1lbnQgaXMgYWxzbyBlZGl0YWJsZSB0aHJvdWdo
+      ICJBY3Rpb25zIC1PcGVuU2V0dXAiIG9uIHRvcCBvZiB0aGUgd2luZG93LgCBAoMEAQCF/wgAAQIACsn/
+      EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAQAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/
+      CAAFAAAI
+remaining: []

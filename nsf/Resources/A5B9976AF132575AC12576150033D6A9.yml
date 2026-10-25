@@ -1,0 +1,104 @@
+---
+class: 1
+flags: 0x0100
+unid: A5B9976AF132575AC12576150033D6A9
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data: "2009-08-17T11:26:12.89+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Password\\Password checking"
+      - "Password checking\\Password checking"
+      - "Policy\\Password checking"
+      - "Password recovery\\Password checking"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-25T10:42:51.12+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Password checking
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Password checking
+  - name: Subject_disp
+    type: text
+    data: Password checking
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Password
+      - Password checking
+      - Policy
+      - Password recovery
+  - name: levelEntry
+    type: text
+    data: Password checking
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYIANACoAVwCEALEA7gELATgBYAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf++AAUAAAhQYXNz
+      d29yZCBjaGVja2luZyBpcyBhIHNlY3VyaXR5IHNldHRpbmcgcHJvdmlkZWQgaW4gYSBEb21pbm8gZW52
+      aXJvbm1lbnQsIHdoaWNoIGNhbiBiZSBhY3RpdmF0ZWQgZWl0aGVyIGxvY2FsbHkgaW4gdGhlIHBlcnNv
+      biBkb2N1bWVudCwgb3Igb24gdGhlIG9yZ2FuaXphdGlvbmFsIGxldmVsIHVzaW5nIGEgcG9saWN5LoEC
+      gwQBAIX/CAAFAAAIgQKDBAEAhf+kAAUAAAhVTVQgY2FuIGJlIGNvbmZpZ3VyZWQgdG8gc3VwcG9ydCBQ
+      YXNzd29yZCBjaGVja2luZyBhbmQgdGhpcyBpcyBkb25lIGluIHR3byBkaWZmZXJlbnQgcHJvY2Vzc2Vz
+      LCB0aGUgIlBhc3N3b3JkIHJlY292ZXJ5IiBhbmQgd2hlbiBwcm9jZXNzaW5nIGlkLWZpbGUgdXBkYXRl
+      cy6BAoMEAQCF/wgABQAACIECgwQBAIX/GQAFAQAIUGFzc3dvcmQgcmVjb3ZlcnkAgQKDBAEAhf//AQUA
+      AAhXaGVuIHBlcmZvcm1pbmcgYSBwYXNzd29yZCByZWNvdmVyeSwgaXQgaXMgbW9zdCBsaWtlbHkgdGhh
+      dCB0aGUgcGFzc3dvcmQgZGlzdHJpYnV0ZWQgdG8gdGhlIHVzZXIgZGlmZmVycyBmcm9tIHRoZSBvbmUg
+      cHJldml1b3NseSB1c2VkIGJ5IHRoZSB1c2VyLiBJZiB0aGlzIGlzIHRoZSBjYXNlLCB0aGUgZGlzdHJp
+      YnV0ZWQgaWQtZmlsZSBjYW4gbm90IGJlIHVzZWQgaWYgUGFzc3dvcmQgY2hlY2tpbmcgaXMgYWN0aXZh
+      dGVkIG9uIHRoZSBzZXJ2ZXIuIElmIFBhc3N3b3JkIGNoZWNraW5nIGlzIHN1cHBvcnRlZCB0aHJvdWdo
+      IHRoZSBVTVQgY29uZmlndXJhdGlvbiwgVU1UIHdpbGwgY2xlYW4gdGhlICJwYXNzd29yZCBkaWdlc3Qi
+      IGZpZWxkLCB3aGljaCBtYWtlcyBpdCBwb3NzaWJsZSBmb3IgdGhlIHVzZXIgdG8gbG9nIGluIHVzaW5n
+      IHRoZSBuZXdseSBkaXN0cmlidXRlZCBpZC1maWxlIGFuZCBtYWtlIHRoaXMgaWQtZmlsZSBhbmQgaXRz
+      IHBhc3N3b3JkIHRoZSBwcm9wZXIgb25lLgCBAoMEAQCF/wgABQAACIECgwQBAIX/FwAFAQAISWQtZmls
+      ZSB1cGRhdGVzAIECgwQBAIX/xwAFAAAIV2hlbiByZWZyZXNoaW5nIGFuIGlkLWZpbGUgYWZ0ZXIgYSBy
+      ZW5hbWUgb3IgYSBjZXJ0aWZpY2F0ZSBjaGFuZ2UsIHRoZSBwcm9jZXNzIHN1cHBvcnRzIFBhc3N3b3Jk
+      IGNoZWNraW5nIGJ5IHRlbXBvcmFyeSByZW1vdmluZyB0aGUgInBhc3N3b3JkIGRpZ2VzdCIgZmllbGQg
+      YW5kIHJlLWFkZGluZyBpdCBhZnRlciB0aGUgcmVmcmVzaC4AgQKDBAEAhf8IAAUAAAiBAoL/WgACAAAA
+      AAAAAAAAvAaiI7wGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhgEAAAAA
+      VIcAAAAAAAAAAAAAAAABAAAABAAAAIMEAgCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIEC
+      gwQCAIX/FwAFAAAIUmVsYXRlZCB0b3BpY3M6AN0GAACt/37/DAAgAAgAAAAAAPb/WQAAAAAAAgABAAAA
+      AAA9AAAAAAAAAAAARGF0YWJhc2UgJ1VNVCBIZWxwIDYuNSAwNDA4MTgnLCBWaWV3ICdJbmRleCcsIERv
+      Y3VtZW50ICdVbml0JwAAAK3/DAALAAgAAAAAAN0GAACR/5H/RgABAERhdGFiYXNlICdVTVQgSGVscCA2
+      LjUgMDQwODE4JywgVmlldyAnSW5kZXgnLCBEb2N1bWVudCAnVW5pdCcAAADeBgAAkf/dBgAAhf+F/wgA
+      BQAECNIIAQAAAP8A3gYAAIX/rgLeBgAArgDdBgAAhf+F/wgABQAECNIIAQAAAP8A3gYAAIX/gQKDBAIA
+      3QYAAIX/hf8IAAUABAjSCAEAAAD/AN4GAACF/w==
+remaining: []

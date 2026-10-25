@@ -1,0 +1,86 @@
+---
+class: 1
+flags: 0x0000
+unid: 0984DE41EF6D0E47C12577880034A0F1
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-23T11:34:50.73+02:00"
+        dst: true
+      - data: "2010-08-23T11:35:17.69+02:00"
+        dst: true
+      - data: "2010-08-23T11:35:25.30+02:00"
+        dst: true
+      - data: "2010-08-23T11:35:30.87+02:00"
+        dst: true
+      - data: "2010-08-23T11:35:36.32+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Change user type"
+      - "Change user type\\Change user type"
+      - "Convert\\Change user type"
+      - "Roaming\\Change user type"
+      - "Web user\\Change user type"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 4.5 Change user type request
+  - name: SubjectNumber
+    type: text
+    data: "4.5"
+  - name: SubjectText
+    type: text
+    data: Change user type request
+  - name: Subject_disp
+    type: text
+    data: "4.5\tChange user type request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Change user type
+      - Convert
+      - Roaming
+      - Web user
+  - name: levelEntry
+    type: text
+    data: Change user type
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8SAQUAAAhUaGUg
+      IkNoYW5nZSB1c2VyIHR5cGUiIHJlcXVlc3QgY29udmVydHMgYSB1c2VyIGFjY291bnQgdG8gYW5vdGhl
+      ciBhY2NvdW50IHR5cGUuIFRoZSBhY2NvdW50IGNhbiBiZSBjb252ZXJ0ZWQgZnJvbSBhIHdlYiBhY2Nv
+      dW50IHRvIGEgTm90ZXMgYWNjb3VudCBhbmQgdmljZSB2ZXJzYS4gQWxzbyB0aGUgdXNlciBhY2NvdW50
+      IGNhbiBiZSB1cGdyYWRlZCB0byByb2FtaW5nLCBvciB0aGUgcm9hbWluZyBmZWF0dXJlIGNhbiBiZSBk
+      aXNhYmxlZCBvbiBhbiBhY2NvdW50LoECgwQBAIX/CAAFAAAIgQKDBAEAhf/PAAUAAAhUaGUgQ2hhbmdl
+      IHVzZXIgdHlwZSBmZWF0dXJlIGNyZWF0ZXMgdGhlIG5lY2Vzc2FyeSBmaWxlcyBzdWNoIGFzIHRoZSBt
+      YWlsIGZpbGUsIHRoZSByb2FtaW5nIGZpbGVzIGFuZCB0aGUgSUQgZmlsZSBhbmQgZGlzdHJpYnV0ZXMg
+      dGhlIElEIGZpbGUgYW5kIHBhc3N3b3JkIGluIHRoZSBzYW1lIG1hbm5lciBhcyBmb3IgdGhlIG5ldyBh
+      Y2NvdW50cy4gAIECgwQBAIX/CAAFAAAIgQKDBAEAhf9uAAUAAAhJZiBhIHJlZ3Jlc3Npb24gY2hhbmdl
+      IGlzIHBlcmZvcm1lZCwgdGhlIG1haWwgZmlsZSBjb3VsZCBiZSByZW1vdmVkIGFuZCB0aGUgSUQgZmls
+      ZSBjb3VsZCBiZSBkaXNhYmxlZC6BAoMEAQCF/wgABQAACA==
+remaining: []

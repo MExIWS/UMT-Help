@@ -1,0 +1,95 @@
+---
+class: 1
+flags: 0x0100
+unid: 7A24D3A0DB015737C12577880034878D
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-23T11:33:45.73+02:00"
+        dst: true
+      - data: "2010-08-23T11:33:54.09+02:00"
+        dst: true
+      - data: "2010-08-23T15:55:52.71+02:00"
+        dst: true
+      - data: "2010-08-23T15:56:21.52+02:00"
+        dst: true
+      - data: "2010-08-23T16:05:28.75+02:00"
+        dst: true
+      - data: "2010-08-23T16:06:04.29+02:00"
+        dst: true
+      - data: "2012-01-24T11:45:39.07+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Delete user overview"
+      - "Change user name\\Delete user overview"
+      - "Rename user\\Delete user overview"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 4.3 Delete user request
+  - name: SubjectNumber
+    type: text
+    data: "4.3"
+  - name: SubjectText
+    type: text
+    data: Delete user request
+  - name: Subject_disp
+    type: text
+    data: "4.3\tDelete user request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Change user name
+      - Rename user
+  - name: levelEntry
+    type: text
+    data: Delete user overview
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/xAAUAAAhUaGUg
+      IkRlbGV0ZSB1c2VyIiByZXF1ZXN0IGRlbGV0ZXMgYSB1c2VyIGFjY291bnQgaW5jbHVkaW5nIHRoZSBt
+      YWlsIGZpbGUgYW5kIHBvc3NpYmxlIHJvYW1pbmcgZmlsZXMuIERlbGV0aW5nIGFuIGFjY291bnQgY2Fu
+      IGJlIGRvbmUgZWl0aGVyIGRpcmVjdGx5LCByZW1vdmluZyB0aGUgcGVyc29uIGRvY3VtZW50IGFuZCBh
+      bGwgcGVyc29uYWwgZmlsZXMgb24gdGhlIHNlcnZlciwgb3IgdGVtcG9yYXJpbHkuIACBAoMEAQCF/wgA
+      BQAACIECgwQBAIX/LAEFAAAIQSB0ZW1wb3JhcnkgZGVsZXRpb24gZG9lcyBub3QgcmVtb3ZlIGFueXRo
+      aW5nIC0gdGhlIHVzZXIgaXMgb25seSBkaXNhYmxlZCBkdXJpbmcgYSBncmFjZSBwZXJpb2QuIFRoZSBw
+      ZXJzb24gZG9jdW1lbnQgaXMgbW92ZWQgZnJvbSB0aGUgRG9taW5vIERpcmVjdG9yeSBhbmQgc3RvcmVk
+      IHdpdGhpbiBVTVQsIHRoZSBJRCBmaWxlIGluIFVNVCBJRCBpcyBkaXNhYmxlZCwgdGhlIHVzZXIgbmFt
+      ZSBpcyByZW1vdmVkIGZyb20gYWxsIHVzZXIgZ3JvdXBzIGFuZCBwb3NzaWJseSBhZGRlZCB0byBhIGRl
+      bnkgZ3JvdXAuIIECgwQBAIX/CAAFAAAIgQKDBAEAhf/UAAUAAAhEdXJpbmcgdGhlIGdyYWNlIHBlcmlv
+      ZCB0aGUgdXNlciBhY2NvdW50IGNhbiBiZSByZWluc3RhbGxlZCBhdCBhbnkgdGltZSB3aXRob3V0IGhh
+      dmluZyB0byByZWNyZWF0ZSB0aGUgbWFpbCBmaWxlIGFuZC9vciB0aGUgSUQgZmlsZS4gUmVhZCBtb3Jl
+      IGFib3V0IHRoZSBSZWluc3RhbGwgcHJvY2VzcyBpbiBzZWN0aW9uIDQuMS4xIGluIHRoaXMgY2hhcHRl
+      ci6BAoMEAQCF/wgABQAACIECgwQBAIX/3gAFAAAIV2hlbiB0aGUgdXNlciBhY2NvdW50IGlzIGZpbmFs
+      bHkgZGVsZXRlZCwgdGhlIHN0b3JlZCBwZXJzb24gZG9jdW1lbnQgaXMgcmVtb3ZlZCBwZXJtYW5lbnRs
+      eSBhbmQgdGhlIG1haWwgZmlsZSBpcyBkZWxldGVkIHVzaW5nIHRoZSBhZG1pbiBwcm9jZXNzIChhZG1p
+      blApLiBJZiB0aGUgdXNlciBpcyByb2FtaW5nLCB0aGUgcm9hbWluZyBmaWxlcyBhcmUgcmVtb3ZlZCBh
+      bHNvLoECgwQBAIX/CAAFAAAIgQKDBAEAhf+SAAUAAAhUaGUgSUQgZmlsZSBpcyBkaXNhYmxlIGluIFVN
+      VCBJRCBhbmQgaWYgdGhlIElEIFZhdWx0IGZlYXR1cmUgaXMgZW5hYmxlZCBpbiBVTVQsIHRoZSBJRCBm
+      aWxlIGNvcHkgaXMgYWxzbyBlbmFibGVkIGluIHRoZSBJRCBWYXVsdCBkYXRhYmFzZS6BAoMEAQCF/wgA
+      BQAACA==
+remaining: []

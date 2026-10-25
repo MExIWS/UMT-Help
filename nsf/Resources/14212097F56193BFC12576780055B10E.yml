@@ -1,0 +1,113 @@
+---
+class: 1
+flags: 0x0000
+unid: 14212097F56193BFC12576780055B10E
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 7B1AF3A9D24F2803C125760D006E0DEC
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 7B1AF3A9D24F2803C125760D006E0DEC
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-11-24T16:35:58.86+01:00"
+      - data: "2009-11-24T16:36:14.21+01:00"
+      - data: "2009-11-24T16:36:34.20+01:00"
+      - data: "2009-11-24T16:36:51.19+01:00"
+      - data: "2009-11-24T16:45:22.25+01:00"
+      - data: "2009-11-24T16:45:27.32+01:00"
+      - data: "2009-11-24T16:48:14.67+01:00"
+      - data: "2009-11-24T16:48:21.96+01:00"
+      - data: "2009-11-24T16:48:48.84+01:00"
+      - data: "2009-12-01T17:31:58.54+01:00"
+      - data: "2010-08-23T11:20:20.22+02:00"
+        dst: true
+      - data: "2012-01-03T13:18:53.63+01:00"
+      - data: "2012-01-03T13:19:09.74+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Unique ID\\Unique ID"
+      - "UMT Unique ID\\Unique ID"
+      - "Account ID\\Unique ID"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T14:06:59.49+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Unique ID
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Unique ID
+  - name: Subject_disp
+    type: text
+    data: Unique ID
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Unique ID
+      - UMT Unique ID
+      - Account ID
+  - name: levelEntry
+    type: text
+    data: Unique ID
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9wAAUAAAhUaGUg
+      VU1UIFVuaXF1ZSBJRCBpcyBhIHZhbHVlIHVzZWQgdG8gdW5pcXVlbHkgaWRlbnRpZnkgdGhlIHVzZXJz
+      IHdpdGhpbiBVTVQgYW5kIGluIHRoZSBEb21pbm8gRGlyZWN0b3J5LoECgwQBAIX/qgAFAAAIVXNpbmcg
+      dGhlIHVuaXF1ZSBJRCBpdCBpcyBlYXN5IHRvIGtlZXAgdHJhY2sgb24gdGhlIHJlcXVlc3RzIGluIFVN
+      VC4gQW5vdGhlciBiZW5lZml0IGlzIHRoYXQgdGhlIHVuaXF1ZSBJRCBjYW4gYmUgdXNlZCBhcyBzaG9y
+      dG5hbWUgYW5kL29yIG1haWwgZmlsZSBuYW1lIGFzIHdlbGwugQKDBAEAhf8IAAUAAAiBAoMEAQCF/9YA
+      BQAACFRoZSB1bmlxdWUgSUQgY2FuIGJlIGVpdGhlciBhIGRlZmluZWQgZmllbGQgaW4gdGhlIERvbWlu
+      byBEaXJlY3Rvcnkgc3VjaCBhcyAiZW1wbG95ZWVJRCIgb3IgYSB2YWx1ZSBkZWZpbmVkIGJ5IFVNVC4g
+      Rm9yIHRoZSBVTVQtZGVmaW5lZCB2YWx1ZSwgaXQgZW5kcyB1cCBpbiB0aGUgIlVNVF9VbmlxdWVJRCIg
+      ZmllbGQgaW4gdGhlIERvbWlubyBEaXJlY3RvcnkugQKDBAEAhf8IAAUAAAiBAoMEAQCF/24ABQAACFRo
+      ZSBVTVQgVW5pcXVlIElkZW50aWZpZXIgaXMgY29uZmlndXJlZCBpbiB0aGUgVU1UIEdsb2JhbCBDb25m
+      aWd1cmF0aW9uIChBY2NvdW50IC0gVW5pcXVlIElkZW50aWZpZXIpLoECgwQBAIX/CAAFAAAIgQKDBAEA
+      hf8rAAUBAAhUcmFja2luZyB1bmZpbmlzaGVkIHJlcXVlc3RzIGluIFVNVACBAoMEAQCF/0QBBQAACElm
+      IFVNVCBVbmlxdWUgSUQgaXMgdXNlZCwgVU1UIG1ha2VzIHN1cmUgdGhhdCBSZW5hbWUgYW5kIE1vdmUg
+      dXNlciByZXF1ZXN0cyBhcmUgYmVpbmcgZG9uZSBiZWZvcmUgbmV3IHJlcXVlc3RzIGNhbiBiZSBjcmVh
+      dGVkLiBUaGlzIGlzIGEgZ3JlYXQgYmVuZWZpdCwgc2luY2UgdGhlcmUgY2FuIGJlIHByb2JsZW1zIHdp
+      dGggdGhlIElEIGZpbGUgYW5kIHRoZSBwdWJsaWMga2V5IGluIHRoZSBEb21pbm8gRGlyZWN0b3J5IGlm
+      IGEgUmVuYW1lIHJlcXVlc3QgaXMgY2FycmllZCBvdXQgYmVmb3JlIHRoZSBwcmV2aW91cyByZXF1ZXN0
+      IGhhcyBmaW5pc2hlZC6BAoMEAQCF/wgABQAACIECgwQBAIX/KQAFAQAIVW5pcXVlIElEIGluIHRoZSBE
+      b21pbm8gRGlyZWN0b3J5AIECgwQBAIX/egAFAAAISWYgdW5pcXVlIElEOnMgYXJlIHVzZWQsIG1ha2Ug
+      c3VyZSB0aGF0IGxvb2t1cCB2aWV3IGluIHRoZSBEb21pbm8gRGlyZWN0b3J5IGlzIHVwZGF0ZWQgdG8g
+      YmUgc29ydGVkIG9uIHRoYXQgdmFsdWUugQKDBAEAhf8IAAEAAArJ/xAABAAAAGQAHAD/////hf8IAAUA
+      AAiBAoMEAQCF/xcABQEACFJlbGF0ZWQgdG9waWNzOgCBAoMEAQCF/wgABQAACN0GAACt/37/DAAgAAgA
+      AAAAAPb/YwAAAAAAAgABAAAAAABHAAAAAAAAAAAARGF0YWJhc2UgJ05URjogVU1UIEhlbHAgOC41LjEn
+      LCBWaWV3ICdDb250ZW50cycsIERvY3VtZW50ICczLjQgQWNjb3VudCcAAACt/wwACwAIAAAAAADdBgAA
+      kf+R/1AAAQBEYXRhYmFzZSAnTlRGOiBVTVQgSGVscCA4LjUuMScsIFZpZXcgJ0NvbnRlbnRzJywgRG9j
+      dW1lbnQgJzMuNCBBY2NvdW50JwAAAN4GAACR/90GAACF/4X/KwAFAAQIVU1UIEdsb2JhbCBDb25maWd1
+      cmF0aW9uIC0gQWNjb3VudCAA0ggJAAAA/wDeBgAAhf+BAoMEAQDdBgAAhf+F/wgABQAECNIICQAAAP8A
+      3gYAAIX/rgLeBgAArgCF/wgABQAACA==
+remaining: []

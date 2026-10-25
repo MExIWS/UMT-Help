@@ -1,0 +1,90 @@
+---
+class: 1
+flags: 0x0000
+unid: 827B13D96D82DE75C1257615003C8139
+items:
+  - name: $Revisions
+    type: time
+    data: "2009-08-17T13:00:52.54+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: User Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Change certifier"
+      - "Change unit\\Change certifier"
+      - "Change certifier\\Change certifier"
+      - "Move user\\Change certifier"
+      - "Admin requests\\Change certifier"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:59:07.03+01:00"
+  - name: Subject
+    type: text
+    data: 3.4 Change certifier request
+  - name: SubjectNumber
+    type: text
+    data: "3.4"
+  - name: SubjectText
+    type: text
+    data: Change certifier request
+  - name: Subject_disp
+    type: text
+    data: "3.4\tChange certifier request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Change unit
+      - Change certifier
+      - Move user
+      - Admin requests
+  - name: levelEntry
+    type: text
+    data: Change certifier
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8MAAUAAAhUaGUg
+      hf8gAAUBAAhDaGFuZ2UgY2VydGlmaWVyIHByb2Nlc3OF/5oABQAACCBtb3ZlcyBvbmUgb3IgbW9yZSB1
+      c2VycyB0byBhIG5ldyBjZXJ0aWZpZXIuIFRoZSByZXF1ZXN0IGlzIGEgcHVyZSBzd2l0Y2ggY2VydGlm
+      aWVyIHByb2Nlc3MsIGNoYW5naW5nIHRoZSBjZXJ0aWZpY2F0ZSBiZWxvbmdpbmcgYW5kIG5vdGhpbmcg
+      ZWxzZS4ggQKDBAEAhf8ZAAUAAAhUaGUgcmVxdWVzdCBkb2VzIACF/wsABQEACG5vdACF/14ABQAACCBj
+      aGFuZ2UgaG9tZSBzZXJ2ZXIsIGRlZmF1bHQgZ3JvdXBzIG9yIGFueXRoaW5nIGVsc2UgY29uZmlndXJl
+      ZCBpbiB0aGUgdW5pdCBkb2N1bWVudHMugQKDBAEAhf8IAAUAAAiBAoMEAQCF/3EABQIACE5vdGU6IFRo
+      ZSByZXF1ZXN0IGVudHJ5IGlzIHZpc2libGUgb25seSBpZiAiQWxsb3cgY2hhbmdlIGNlcnRpZmllciIg
+      aXMgc2VsZWN0ZWQgaW4gdGhlIFVNVCBDb25maWd1cmF0aW9uLgCBAoMEAQCF/wgABQAACIECgwQBAIX/
+      JAAFAQAIVGhlIGNoYW5nZSBjZXJ0aWZpZXIgcmVxdWVzdIECgwQBAIX/CAABAQAKgQKC/1oAAgAAAAAA
+      AAAAALwGoiO8BgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYBAAAAAFSF
+      AAAAAAAAAAAAAAAAAQAAAAQAAACDBAIA3QYBAPv/+/8sAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAABAAAAAAAAAAAAAABc/z4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgAAAAAA
+      AAABAAAKAAAAAAEAAAAAAN4GAQD7/88OvAYoADwAAAAAAAIA0BIAALwGsxAAAFUCEREBAQAAgQKC/1oA
+      AwAAAAAAAAAAABIHmhASBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYB
+      AAAAAJSAVgAAAFYAAADTEmMAAQAAAAQAAACDBAMAhf8WAAUAAAhTZWxlY3QgdXNlcihzKdASAAGzEIYj
+      AABVAhERAQEAAIECgv9aAAQAAAAAAAAAAAAJEVYjCREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAACGAQAAAACUgFYAAABWAAAA0xJjAAEAAAAEAAAAgwQEAIX/OgAFAAAIU2VsZWN0
+      IG9uZSBvciBtb3JlIHVzZXJzIGZyb20gdGhlIERvbWlubyBEaXJlY3RvcnmBAoMEBACF/wgABQAACNAS
+      AQC8BrMQAABVAhERAQEAAIECgwQDAIX/FgAFAAAIRWZmZWN0aXZlIGRhdGXQEgEBsxCGIwAAVQIREQEB
+      AACBAoMEBACF/z4ABQAACFNlbGVjdC9jaGFuZ2UgZWZmZWN0aXZlIGRhdGUgb2YgdGhlIHJlcXVlc3Qg
+      dG8gcHJvY2Vzc4ECgwQEAIX/CAAFAAAI0QYAAAAAgQKDBAEAhf8IAAUAAAiBAoMEAQCF/1wABQAACENs
+      aWNrIHRoZSAiU2VsZWN0IGNlcnRpZmljYXRlIiBidXR0b24gYW5kIHNlbGVjdCBvbmUgY2VydGlmaWNh
+      dGUgZnJvbSB0aGUgdmlldyBsaXN0LoECgwQBAIX/CAAFAAAIgQKDBAEAhf9PAAUAAAhDbGljayB0aGUg
+      IkZpbmlzaCIgYnV0dG9uIHRvIGNyZWF0ZSBvbmUgcmVxdWVzdCBmb3IgZWFjaCBzZWxlY3RlZCB1c2Vy
+      LgCBAoMEAQCF/wgABQAACA==
+remaining: []

@@ -1,0 +1,985 @@
+---
+class: 8
+flags: 0x0000
+unid: 89D3962EFD85426F85256B870069C0AA
+items:
+  - name: $AppHelpFormula
+    type: formula
+    data: "@If(@ClientType=\"Notes\";@Do(@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"IndexIntro\"));@Command([OpenPage];\"IndexIntro\"))"
+    opaque: |
+      egAKAAQAAABqAPsABQEBAAUATm90ZXMACgKvAFIAMAABAAUAVG9waWMA+wEYAQIAvhsAAAAAAAABAAoA
+      SW5kZXhJbnRyb+0CswKuACIAAgC+GwAAAAAAAAEACgBJbmRleEludHJv7QKuAAQAtQMDAAcACgAEAAkx
+      M1I=
+    signed: true
+  - name: $Author
+    type: text
+    data: Marian Stern
+    signed: true
+  - name: $Collation
+    type_num: 2
+    type: opaque
+    opaque: KAACAABEAGYHAAANAABmAA0ABwBJbmRleF9FbnRyaWVzU3ViamVjdA==
+  - name: $Comment
+    type: text
+    data: ""
+    signed: true
+  - name: $DesignerVersion
+    type: text
+    data: "8.5"
+    signed: true
+  - name: $Flags
+    type: text
+    data: Yd
+  - name: $Fonts
+    type: text
+    data:
+      - "5"
+      - "38"
+      - Verdana
+      - "6"
+      - "38"
+      - Verdana
+  - name: $Formula
+    type: formula
+    data: " Index_Entries!=\"\""
+    opaque: |
+      ggACACgADQBJbmRleF9FbnRyaWVzAAUADQBJbmRleF9FbnRyaWVzAAMABQAsACcAAwANAAcACQBJbmRl
+      eF9FbnRyaWVzU3ViamVjdCRDb25mbGljdAAEAAQAAAAeAAUADQBJbmRleF9FbnRyaWVzAAEAAAALAgMA
+      BwAKAAQACUwxUw==
+    signed: true
+  - name: $FormulaClass
+    type: text
+    data: "1"
+    signed: true
+  - name: $Index
+    type: text
+    data: ""
+    signed: true
+  - name: $TITLE
+    type: text
+    data: Index|IDX
+    signed: true
+  - name: $TYPE
+    type: text
+    data: $SUBVIEW
+  - name: $ViewFormat
+    type_num: 5
+    type: opaque
+    opaque: |
+      AQACABoAK0sAAFZDAwQNAAAAKgAAACoABQAACAAAAgAAAAAAAAACAAAwVkMBAAcAAAAAAAAAiAAGAAQI
+      AAACAAAAAAAAAAIAACBJbmRleF9FbnRyaWVzKgACACgADQBJbmRleF9FbnRyaWVzAAUADQBJbmRleF9F
+      bnRyaWVzAAMAU3ViamVjdCYAAQAAAAEBAAkBAAQKAQEECgAAAACtKwEAAQABAAAAAAAAAAAAV0MBAQAJ
+      AAAAAAAAAAAAAAAAAAAAAAAAEAAAADYA//8AAAAAAAAAAAAAAAAAAFdDAQEACQAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAP//AAAAAAAAAAAAAAAAAABCAAAAAAABAP///wAFAAAAAAABAAAAAAAAAAAAAAAAAAEA
+      ////AAEA////AAAAAQAAAP8AAQAAAP8AAQAAAAAAAAD2/zUAAAAAAAMAEwATAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAUGx1c01pbnVzVHdpc3R5LmdpZj8IAAAAAAABAA==
+    signed: true
+  - name: $ViewScript
+    type: text
+    data: |
+      '++LotusScript Development Environment:2:5:(Options):0:66
+      
+      '++LotusScript Development Environment:2:5:(Forward):0:1
+      Declare Sub Queryopendocument(Source As Notesuiview, Continue As Variant)
+      
+      '++LotusScript Development Environment:2:5:(Declarations):0:2
+      
+      '++LotusScript Development Environment:2:2:BindEvents:1:129
+      Private Sub BindEvents(Byval Objectname_ As String)
+      	Static Source As NOTESUIVIEW
+      	Set Source = Bind(Objectname_)
+      	On Event Queryopendocument From Source Call Queryopendocument
+      End Sub
+      
+      '++LotusScript Development Environment:2:2:Queryopendocument:1:12
+      Sub Queryopendocument(Source As Notesuiview, Continue As Variant)
+      	continue = False
+      End Sub
+    signed: true
+    nonsummary: true
+  - name: $ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 15
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 31
+        FontID: 0x09040501
+        HeightSpc: 0
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000348
+      - type: 0x0059
+        opaque: WSABAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AABOfA==
+        title: Categori_ze
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAACCg==
+        title: _Edit Document
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAADCg==
+        title: _Send Document
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAA9fA==
+        title: _Move To Folder...
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAA+fA==
+        title: _Remove From Folder
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AABefA==
+        title: _Read
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AABufA==
+        title: _Unread
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAB+fA==
+        title: _Open in New Window
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AACOfA==
+        title: _Print...
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AACefA==
+        title: _Delete
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AACufA==
+        title: _Document Properties
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAC+fA==
+        title: C_ut
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AADOfA==
+        title: _Copy
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AADefA==
+        title: Copy as Document _Link
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AADufA==
+        title: Copy as _Table
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAD+fA==
+        title: P_aste
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAAOfQ==
+        title: _Open
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAAefQ==
+        title: Bookmark
+      - type: 0x0059
+        opaque: WSABAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xffbe
+        Flags: 0x0010419f
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Contents\");\r\n@Command([ViewShowSearchBar];\"0\");\r\n@Command([ViewCollapseAll]);\r\n@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"ContentsIntro\"))"
+        data_opaque: |
+          mAAKAAQAAAB8AAEACQBOb3Rlc1ZpZXcA+wEYAQIAWRsAAAAAAAABAAgAQ29udGVudHPtAgIAkBcAAAAA
+          AAABAAEAMADtAgIAiRMAAAAAAADtAQEABQBUb3BpYwD7ARgBAgC+GwAAAAAAAAEADQBDb250ZW50c0lu
+          dHJvAO0CswYDAAcAFgAPAAk3UjE0UjIxUjI2UjMxUgA=
+        title: Contents
+      - type: 0xffbe
+        Flags: 0x0010419e
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@If(@ClientType=\"Notes\";@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Index\");\r\n@Command([ViewShowSearchBar];\"0\");\r\n@Command([ViewCollapseAll]);\r\n@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"IndexIntro\"));\r\n@Command([ViewChange];\"IndexWeb\"))"
+        data_opaque: |
+          zgAKAAQAAACuAPsABQEBAAUATm90ZXMACgKvAJYAdgABAAkATm90ZXNWaWV3APsBGAECAFkbAAAAAAAA
+          AQAFAEluZGV4AO0CAgCQFwAAAAAAAAEAAQAwAO0CAgCJEwAAAAAAAO0BAQAFAFRvcGljAPsBGAECAL4b
+          AAAAAAAAAQAKAEluZGV4SW50cm/tArMGrgAgAAIAkhMAAAAAAAABAAgASW5kZXhXZWLtAq4ABAC1AwMA
+          BwAaABMACTEzUjIwUjI3UjMyUjM3UjQ1UgA=
+        title: Index
+      - type: 0xffbe
+        Flags: 0x0010019f
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@If(@ClientType=\"Notes\";@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Search\");\r\n@Command([ViewShowSearchBar];\"1\");@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"SearchIntro\"));@Command([Compose];\"Search\"))"
+        data_opaque: |
+          uAAKAAQAAACiAPsABQEBAAUATm90ZXMACgKvAIoAbAABAAkATm90ZXNWaWV3APsBGAECAFkbAAAAAAAA
+          AQAGAFNlYXJjaO0CAgCQFwAAAAAAAAEAAQAxAO0CAQAFAFRvcGljAPsBGAECAL4bAAAAAAAAAQALAFNl
+          YXJjaEludHJvAO0CswWuAB4AAgDoAwAAAAAAAAEABgBTZWFyY2jtAq4ABAC1AwMABwAQAAoACTEzUjIw
+          UjMyUg==
+        title: Search
+      - type: 0xffbe
+        Flags: 0x0010411f
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@If(@ClientType=\"Notes\";@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Books\");\r\n@Command([ViewShowSearchBar];\"0\");\r\n@Command([ViewCollapseAll]);\r\n@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"ContentsIntro\"));\r\n@Command([ViewChange];\"Books\"))"
+        data_opaque: |
+          0AAKAAQAAACwAPsABQEBAAUATm90ZXMACgKvAJgAegABAAkATm90ZXNWaWV3APsBGAECAFkbAAAAAAAA
+          AQAFAEJvb2tzAO0CAgCQFwAAAAAAAAEAAQAwAO0CAgCJEwAAAAAAAO0BAQAFAFRvcGljAPsBGAECAL4b
+          AAAAAAAAAQANAENvbnRlbnRzSW50cm8A7QKzBq4AHgACAJITAAAAAAAAAQAFAEJvb2tzAO0CrgAEALUD
+          AwAHABoAEwAJMTNSMjBSMjdSMzJSMzdSNDVSAA==
+        hidewhen: "!@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCHgEDAAcADAAFAAkwUzBFAA==
+        title: Books
+      - type: 0xffbe
+        Flags: 0x0410619e
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@Do(@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"IndexIntro\"))"
+        data_opaque: |
+          QAAKAAQAAAAwAAEABQBUb3BpYwD7ARgBAgC+GwAAAAAAAAEACgBJbmRleEludHJv7QKzAgMABwAKAAMA
+          CTdSAA==
+        title: Tips
+      - type: 0xffbe
+        Flags: 0x0041419d
+        IconIndex: 0
+        ShareId: 1
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:66
+          
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim s As New NotesSession
+          	Dim ws As New NotesUIWorkspace
+          	Dim db As NotesDatabase
+          	Set db = s.CurrentDatabase
+          	Dim view As NotesView
+          	Dim doc As NotesDocument
+          	Set view = db.GetView("(Help)")
+          	Set doc = view.GetFirstDocument
+          	While Not (doc Is Nothing)
+          		Dim item As NotesItem
+          		Set item = doc.GetFirstItem("AppSpecID")
+          		If item.Text = "using_help" Then
+          			Dim unid As String
+          			unid = doc.UniversalID
+          			Set doc = db.GetDocumentByUNID(unid$)
+          			Call ws.SetTargetFrame("Topic")
+          			Call ws.EditDocument(False, doc, True,,False)
+          		Else
+          		End If
+          		Set doc = view.GetNextDocument(doc)
+          	Wend
+          End Sub
+        title: Get Help on Help
+      - type: 0xffbe
+        Flags: 0x0000009d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: CwAECg==
+        title: Forward Selected Topic(s)
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 2
+        Type: 1
+        data: "@Command([OpenHelpDocument];[ClientHelp];\"(Help)\";\"IntroClientHelp\")"
+        data_opaque: |
+          SAAAADoAAgC9GwAAAAAAAAIAvQAAAAAAAAABAAYAKEhlbHApAQAPAEludHJvQ2xpZW50SGVscADtBAMA
+          BwAMAAUACTBTMEUA
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_client\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQAMAGhlbHA2X2NsaWVudEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Notes Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 3
+        Type: 1
+        data: "@Command([OpenHelpDocument];[DesignerHelp];\"(Help)\";\"IntroDesignerHelp\")"
+        data_opaque: |
+          SgAAADwAAgC9GwAAAAAAAAIAvgAAAAAAAAABAAYAKEhlbHApAQARAEludHJvRGVzaWduZXJIZWxwAO0E
+          AwAHAAwABQAJMFMwRQA=
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_designer\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQAOAGhlbHA2X2Rlc2lnbmVyRwIDAAcADAAFAAkwUzBFAA==
+        title: Open Domino Designer Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 4
+        Type: 1
+        data: "@Command([OpenHelpDocument];[AdminHelp];\"(Help)\";\"IntroAdminHelp\")"
+        data_opaque: |
+          RgAAADgAAgC9GwAAAAAAAAIAvwAAAAAAAAABAAYAKEhlbHApAQAOAEludHJvQWRtaW5IZWxw7QQDAAcA
+          DAAFAAkwUzBFAA==
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Domino Administration Help
+      - type: 0xffbe
+        Flags: 0x00c0011f
+        IconIndex: 29
+        ShareId: 0
+        Type: 1
+        data: "@Command([Compose]; \"MainHelp\")"
+        data_opaque: KgAAAB4AAgDoAwAAAAAAAAEACABNYWluSGVscO0CAwAHAAoAAwAJNFMA
+        hidewhen: "!@IsMember(\"[HelpAdmin]\";@UserRoles)"
+        hidewhen_opaque: KgAAABwAAQALAFtIZWxwQWRtaW5dAOcAdAIeAQMABwAMAAUACTBTMEUA
+        title: Create Main Help Document
+  - name: $HTMLDocumentStyles
+    signed: true
+    type: opaque
+    type_num: 1
+    opaque: 0ggBAAAA/wDSCAEA/wAAANIIAQCAAIAA
+  - name: $V5ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 15
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 31
+        FontID: 0x09040501
+        HeightSpc: 0
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000348
+      - type: 0xff79
+        BackColor:
+          Flags: 0x0001
+          rgb: 0xc0c0c0
+        BtnBorderDisplay: 0
+        BtnTextJustify: 0
+        BtnWidthStyle: 0
+        ButtonColor:
+          Flags: 0x0001
+          rgb: 0xc0c0c0
+        FontColor:
+          Flags: 0x0001
+          rgb: 0x0000ff
+        LineColor:
+          Flags: 0x0001
+          rgb: 0x000000
+        Spare:
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+        barFontID: 0x00000000
+        barHeight:
+          Flags: 0x0000
+          Length:
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+          Reserved: 0
+          Units: 0
+        dwFlags: 0x00000003
+        wAppletHeight: 31
+        wBarBackgroundRepeat: 0
+        wBtnInternalMargin: 0
+        wBtnWidthAbsolute: 0
+        wSpare: 0x0000
+        wThemeSetting: 0
+      - type: 0xfffc
+        BorderFlags: 0
+        BorderStyle: 0
+        BorderWidthBottom: 1
+        BorderWidthLeft: 0
+        BorderWidthRight: 0
+        BorderWidthTop: 0
+        Color:
+          Flags: 0x0001
+          rgb: 0x000000
+        DropShadowWidth: 0
+        Flags: 0x00000000
+        InnerWidthBottom: 0
+        InnerWidthLeft: 0
+        InnerWidthRight: 0
+        InnerWidthTop: 0
+        OuterWidthBottom: 0
+        OuterWidthLeft: 0
+        OuterWidthRight: 0
+        OuterWidthTop: 0
+        dwSpare: 0x00000000
+        wSpares:
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+      - type: 0x0059
+        opaque: WSABAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AABOfA==
+        title: Categori_ze
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAACCg==
+        title: _Edit Document
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAADCg==
+        title: _Send Document
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAA9fA==
+        title: _Move To Folder...
+      - type: 0xffbe
+        Flags: 0x0000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: AAA+fA==
+        title: _Remove From Folder
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AABefA==
+        title: _Read
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AABufA==
+        title: _Unread
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAB+fA==
+        title: _Open in New Window
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AACOfA==
+        title: _Print...
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AACefA==
+        title: _Delete
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AACufA==
+        title: _Document Properties
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAC+fA==
+        title: C_ut
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AADOfA==
+        title: _Copy
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AADefA==
+        title: Copy as Document _Link
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AADufA==
+        title: Copy as _Table
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAD+fA==
+        title: P_aste
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAAOfQ==
+        title: _Open
+      - type: 0xffbe
+        Flags: 0x4000019d
+        IconIndex: 0
+        ShareId: 0
+        Type: 4
+        opaque: AAAefQ==
+        title: Bookmark
+      - type: 0x0059
+        opaque: WSABAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xffbe
+        Flags: 0x0010419f
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Contents\");\r\n@Command([ViewShowSearchBar];\"0\");\r\n@Command([ViewCollapseAll]);\r\n@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"ContentsIntro\"))"
+        data_opaque: |
+          mAAKAAQAAAB8AAEACQBOb3Rlc1ZpZXcA+wEYAQIAWRsAAAAAAAABAAgAQ29udGVudHPtAgIAkBcAAAAA
+          AAABAAEAMADtAgIAiRMAAAAAAADtAQEABQBUb3BpYwD7ARgBAgC+GwAAAAAAAAEADQBDb250ZW50c0lu
+          dHJvAO0CswYDAAcAFgAPAAk3UjE0UjIxUjI2UjMxUgA=
+        title: Contents
+      - type: 0xfff6
+        opaque: 9v8zAAAAAAADABMAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAGNvbnRlbnQwNl9vZmYuZ2lm
+      - type: 0xffbe
+        Flags: 0x0010219e
+        IconIndex: 0
+        ShareId: 0
+        Type: 7
+        opaque: ""
+        title: Contents
+      - type: 0xfff6
+        opaque: 9v8zAAAAAAADABMAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAGNvbnRlbnQwNl9vZmYuZ2lm
+      - type: 0xfff9
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xffdc
+        opaque: |
+          3P/eAPn/zAAgTgAAAAAAAAAAdmFyIGxvYyA9IGRvY3VtZW50LmxvY2F0aW9uLmhyZWY7DXZhciBwcmVm
+          aXggPSBsb2Muc3Vic3RyKDAsIGxvYy5sYXN0SW5kZXhPZigiLyIpKTsNcGFyZW50Lk5vdGVzVmlldy5s
+          b2NhdGlvbiA9IHByZWZpeCArICIvQ29udGVudHM/T3BlblZpZXciOw1wYXJlbnQuVG9waWMubG9jYXRp
+          b24gPSBwcmVmaXggKyAiL0NvbnRlbnRzSW50cm8/T3BlblBhZ2UiOwA6
+      - type: 0xff66
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xff65
+        opaque: |
+          Zf/eAGb/zAAgTgAAAAAAAAAAdmFyIGxvYyA9IGRvY3VtZW50LmxvY2F0aW9uLmhyZWY7DXZhciBwcmVm
+          aXggPSBsb2Muc3Vic3RyKDAsIGxvYy5sYXN0SW5kZXhPZigiLyIpKTsNcGFyZW50Lk5vdGVzVmlldy5s
+          b2NhdGlvbiA9IHByZWZpeCArICIvQ29udGVudHM/T3BlblZpZXciOw1wYXJlbnQuVG9waWMubG9jYXRp
+          b24gPSBwcmVmaXggKyAiL0NvbnRlbnRzSW50cm8/T3BlblBhZ2UiOwDd
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0010419e
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@If(@ClientType=\"Notes\";@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Index\");\r\n@Command([ViewShowSearchBar];\"0\");\r\n@Command([ViewCollapseAll]);\r\n@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"IndexIntro\"));\r\n@Command([ViewChange];\"IndexWeb\"))"
+        data_opaque: |
+          zgAKAAQAAACuAPsABQEBAAUATm90ZXMACgKvAJYAdgABAAkATm90ZXNWaWV3APsBGAECAFkbAAAAAAAA
+          AQAFAEluZGV4AO0CAgCQFwAAAAAAAAEAAQAwAO0CAgCJEwAAAAAAAO0BAQAFAFRvcGljAPsBGAECAL4b
+          AAAAAAAAAQAKAEluZGV4SW50cm/tArMGrgAgAAIAkhMAAAAAAAABAAgASW5kZXhXZWLtAq4ABAC1AwMA
+          BwAaABMACTEzUjIwUjI3UjMyUjM3UjQ1UgA=
+        title: Index
+      - type: 0xfff6
+        opaque: 9v8wAAAAAAADABMADgAAAAAAAAAAAAAAAAAAAAAAAAAAAGluZGV4MDVfb24uZ2lm
+      - type: 0xffbe
+        Flags: 0x0010219e
+        IconIndex: 0
+        ShareId: 0
+        Type: 7
+        opaque: ""
+        title: Index
+      - type: 0xfff6
+        opaque: 9v8wAAAAAAADABMADgAAAAAAAAAAAAAAAAAAAAAAAAAAAGluZGV4MDVfb24uZ2lm
+      - type: 0xfff9
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xffdc
+        opaque: |
+          3P/aAPn/yAAgTgAAAAAAAAAAdmFyIGxvYyA9IGRvY3VtZW50LmxvY2F0aW9uLmhyZWY7DXZhciBwcmVm
+          aXggPSBsb2Muc3Vic3RyKDAsIGxvYy5sYXN0SW5kZXhPZigiLyIpKTsNcGFyZW50Lk5vdGVzVmlldy5s
+          b2NhdGlvbiA9IHByZWZpeCArICIvSW5kZXhXZWI/T3BlblZpZXciOw1wYXJlbnQuVG9waWMubG9jYXRp
+          b24gPSBwcmVmaXggKyAiL0luZGV4SW50cm8/T3BlblBhZ2UiOwA=
+      - type: 0xff66
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xff65
+        opaque: |
+          Zf/YAGb/xgAgTgAAAAAAAAAAdmFyIGxvYyA9IGRvY3VtZW50LmxvY2F0aW9uLmhyZWY7DXZhciBwcmVm
+          aXggPSBsb2Muc3Vic3RyKDAsIGxvYy5sYXN0SW5kZXhPZigiLyIpKTsNcGFyZW50Lk5vdGVzVmlldy5s
+          b2NhdGlvbiA9IHByZWZpeCArICIvSW5kZXg/T3BlblZpZXciOw1wYXJlbnQuVG9waWMubG9jYXRpb24g
+          PSBwcmVmaXggKyAiL0luZGV4SW50cm8/T3BlblBhZ2UiOwCC
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0010019f
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@If(@ClientType=\"Notes\";@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Search\");\r\n@Command([ViewShowSearchBar];\"1\");@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"SearchIntro\"));@Command([Compose];\"Search\"))"
+        data_opaque: |
+          uAAKAAQAAACiAPsABQEBAAUATm90ZXMACgKvAIoAbAABAAkATm90ZXNWaWV3APsBGAECAFkbAAAAAAAA
+          AQAGAFNlYXJjaO0CAgCQFwAAAAAAAAEAAQAxAO0CAQAFAFRvcGljAPsBGAECAL4bAAAAAAAAAQALAFNl
+          YXJjaEludHJvAO0CswWuAB4AAgDoAwAAAAAAAAEABgBTZWFyY2jtAq4ABAC1AwMABwAQAAoACTEzUjIw
+          UjMyUg==
+        title: Search
+      - type: 0xfff6
+        opaque: 9v8yAAAAAAADABMAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAHNlYXJjaDA1X29mZi5naWY=
+      - type: 0xffbe
+        Flags: 0x0010411f
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@If(@ClientType=\"Notes\";@Do(@SetTargetFrame(\"NotesView\");\r\n@Command([OpenView];\"Books\");\r\n@Command([ViewShowSearchBar];\"0\");\r\n@Command([ViewCollapseAll]);\r\n@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"ContentsIntro\"));\r\n@Command([ViewChange];\"Books\"))"
+        data_opaque: |
+          0AAKAAQAAACwAPsABQEBAAUATm90ZXMACgKvAJgAegABAAkATm90ZXNWaWV3APsBGAECAFkbAAAAAAAA
+          AQAFAEJvb2tzAO0CAgCQFwAAAAAAAAEAAQAwAO0CAgCJEwAAAAAAAO0BAQAFAFRvcGljAPsBGAECAL4b
+          AAAAAAAAAQANAENvbnRlbnRzSW50cm8A7QKzBq4AHgACAJITAAAAAAAAAQAFAEJvb2tzAO0CrgAEALUD
+          AwAHABoAEwAJMTNSMjBSMjdSMzJSMzdSNDVSAA==
+        hidewhen: "!@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCHgEDAAcADAAFAAkwUzBFAA==
+        title: Books
+      - type: 0xfff6
+        opaque: 9v8zAAAAAAADABMAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAGNvbnRlbnQwNV9vZmYuZ2lm
+      - type: 0xffbe
+        Flags: 0x0010211e
+        IconIndex: 0
+        ShareId: 0
+        Type: 7
+        hidewhen: "!@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCHgEDAAcADAAFAAkwUzBFAA==
+        opaque: ""
+        title: Books
+      - type: 0xfff6
+        opaque: 9v8zAAAAAAADABMAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAGNvbnRlbnQwNV9vZmYuZ2lm
+      - type: 0xfff9
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xffdc
+        opaque: |
+          3P/aAPn/yAAgTgAAAAAAAAAAdmFyIGxvYyA9IGRvY3VtZW50LmxvY2F0aW9uLmhyZWY7DXZhciBwcmVm
+          aXggPSBsb2Muc3Vic3RyKDAsIGxvYy5sYXN0SW5kZXhPZigiLyIpKTsNcGFyZW50Lk5vdGVzVmlldy5s
+          b2NhdGlvbiA9IHByZWZpeCArICIvQm9va3M/T3BlblZpZXciOw1wYXJlbnQuVG9waWMubG9jYXRpb24g
+          PSBwcmVmaXggKyAiL0NvbnRlbnRzSW50cm8/T3BlblBhZ2UiOwA=
+      - type: 0xff66
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xff65
+        opaque: |
+          Zf/aAGb/yAAgTgAAAAAAAAAAdmFyIGxvYyA9IGRvY3VtZW50LmxvY2F0aW9uLmhyZWY7DXZhciBwcmVm
+          aXggPSBsb2Muc3Vic3RyKDAsIGxvYy5sYXN0SW5kZXhPZigiLyIpKTsNcGFyZW50Lk5vdGVzVmlldy5s
+          b2NhdGlvbiA9IHByZWZpeCArICIvQm9va3M/T3BlblZpZXciOw1wYXJlbnQuVG9waWMubG9jYXRpb24g
+          PSBwcmVmaXggKyAiL0NvbnRlbnRzSW50cm8/T3BlblBhZ2UiOwA=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0410619e
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@Do(@SetTargetFrame(\"Topic\");\r\n@Command([OpenPage];\"IndexIntro\"))"
+        data_opaque: |
+          QAAKAAQAAAAwAAEABQBUb3BpYwD7ARgBAgC+GwAAAAAAAAEACgBJbmRleEludHJv7QKzAgMABwAKAAMA
+          CTdSAA==
+        title: Tips
+      - type: 0xfff6
+        opaque: 9v8wAAAAAAADABMADgAAAAAAAAAAAAAAAAAAAAAAAAAAAHRpcHMwNWFfb24uZ2lm
+      - type: 0xffbe
+        Flags: 0x0410619e
+        IconIndex: 0
+        ShareId: 0
+        Type: 7
+        opaque: ""
+        title: Tips
+      - type: 0xfff6
+        opaque: 9v8wAAAAAAADABMADgAAAAAAAAAAAAAAAAAAAAAAAAAAAHRpcHMwNWFfb24uZ2lm
+      - type: 0xfff9
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xffdc
+        opaque: |
+          3P9AAPn/LgAgTgAAAAAAAAAAcGFyZW50LlRvcGljLmxvY2F0aW9uID0gIkluZGV4SW50cm8/T3BlblBh
+          Z2UiAA==
+      - type: 0xff66
+        ActionType: 4
+        EventType: 1
+        Flags: 0x00000000
+        Reserved: AAAAAAAAAAAAAAAAAAA=
+        SignatureLength: 0
+      - type: 0xff65
+        opaque: |
+          Zf9AAGb/LgAgTgAAAAAAAAAAcGFyZW50LlRvcGljLmxvY2F0aW9uID0gIkluZGV4SW50cm8/T3BlblBh
+          Z2UiAA==
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 7
+        wEventId: 1
+        wPlatform: 2
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0041419d
+        IconIndex: 0
+        ShareId: 1
+        Type: 2
+        data: |
+          '++LotusScript Development Environment:2:5:(Options):0:66
+          
+          '++LotusScript Development Environment:2:5:(Forward):0:1
+          Declare Sub Click(Source As Button)
+          
+          '++LotusScript Development Environment:2:5:(Declarations):0:2
+          
+          '++LotusScript Development Environment:2:2:BindEvents:1:129
+          Private Sub BindEvents(Byval Objectname_ As String)
+          	Static Source As BUTTON
+          	Set Source = Bind(Objectname_)
+          	On Event Click From Source Call Click
+          End Sub
+          
+          '++LotusScript Development Environment:2:2:Click:1:12
+          Sub Click(Source As Button)
+          	Dim s As New NotesSession
+          	Dim ws As New NotesUIWorkspace
+          	Dim db As NotesDatabase
+          	Set db = s.CurrentDatabase
+          	Dim view As NotesView
+          	Dim doc As NotesDocument
+          	Set view = db.GetView("(Help)")
+          	Set doc = view.GetFirstDocument
+          	While Not (doc Is Nothing)
+          		Dim item As NotesItem
+          		Set item = doc.GetFirstItem("AppSpecID")
+          		If item.Text = "using_help" Then
+          			Dim unid As String
+          			unid = doc.UniversalID
+          			Set doc = db.GetDocumentByUNID(unid$)
+          			Call ws.SetTargetFrame("Topic")
+          			Call ws.EditDocument(False, doc, True,,False)
+          		Else
+          		End If
+          		Set doc = view.GetNextDocument(doc)
+          	Wend
+          End Sub
+        title: Get Help on Help
+      - type: 0xfff2
+        opaque: 8v8RAAUAAAAAAAAAVG9waWM=
+      - type: 0xff5f
+        dwReserved: 0x00000000
+        wActionType: 2
+        wEventId: 213
+        wPlatform: 1
+        wReserved: 0
+      - type: 0xffbe
+        Flags: 0x0000009d
+        IconIndex: 0
+        ShareId: 0
+        Type: 5
+        opaque: CwAECg==
+        title: Forward Selected Topic(s)
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 2
+        Type: 1
+        data: "@Command([OpenHelpDocument];[ClientHelp];\"(Help)\";\"IntroClientHelp\")"
+        data_opaque: |
+          SAAAADoAAgC9GwAAAAAAAAIAvQAAAAAAAAABAAYAKEhlbHApAQAPAEludHJvQ2xpZW50SGVscADtBAMA
+          BwAMAAUACTBTMEUA
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_client\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQAMAGhlbHA2X2NsaWVudEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Notes Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 3
+        Type: 1
+        data: "@Command([OpenHelpDocument];[DesignerHelp];\"(Help)\";\"IntroDesignerHelp\")"
+        data_opaque: |
+          SgAAADwAAgC9GwAAAAAAAAIAvgAAAAAAAAABAAYAKEhlbHApAQARAEludHJvRGVzaWduZXJIZWxwAO0E
+          AwAHAAwABQAJMFMwRQA=
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_designer\")"
+        hidewhen_opaque: OgAAACwAiwAAAAAAAAAAAPA/EAFrAmEBAQAOAGhlbHA2X2Rlc2lnbmVyRwIDAAcADAAFAAkwUzBFAA==
+        title: Open Domino Designer Help
+      - type: 0xffbe
+        Flags: 0x0001411d
+        IconIndex: 0
+        ShareId: 4
+        Type: 1
+        data: "@Command([OpenHelpDocument];[AdminHelp];\"(Help)\";\"IntroAdminHelp\")"
+        data_opaque: |
+          RgAAADgAAgC9GwAAAAAAAAIAvwAAAAAAAAABAAYAKEhlbHApAQAOAEludHJvQWRtaW5IZWxw7QQDAAcA
+          DAAFAAkwUzBFAA==
+        hidewhen: "@Contains(@LowerCase(@Subset(@DbName;-1));\"help6_admin\")"
+        hidewhen_opaque: OAAAACoAiwAAAAAAAAAAAPA/EAFrAmEBAQALAGhlbHA2X2FkbWluAEcCAwAHAAwABQAJMFMwRQA=
+        title: Open Domino Administration Help
+      - type: 0xffbe
+        Flags: 0x00c0011f
+        IconIndex: 29
+        ShareId: 0
+        Type: 1
+        data: "@Command([Compose]; \"MainHelp\")"
+        data_opaque: KgAAAB4AAgDoAwAAAAAAAAEACABNYWluSGVscO0CAwAHAAoAAwAJNFMA
+        hidewhen: "!@IsMember(\"[HelpAdmin]\";@UserRoles)"
+        hidewhen_opaque: KgAAABwAAQALAFtIZWxwQWRtaW5dAOcAdAIeAQMABwAMAAUACTBTMEUA
+        title: Create Main Help Document
+      - type: 0xfff2
+        opaque: 8v8RAAUAAAAAAAAAVG9waWM=
+remaining: []

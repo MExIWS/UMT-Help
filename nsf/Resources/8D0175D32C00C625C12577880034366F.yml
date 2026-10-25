@@ -1,0 +1,78 @@
+---
+class: 1
+flags: 0x0100
+unid: 8D0175D32C00C625C12577880034366F
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-23T11:30:18.07+02:00"
+        dst: true
+      - data: "2010-08-23T11:30:36.97+02:00"
+        dst: true
+      - data: "2010-08-23T11:31:10.23+02:00"
+        dst: true
+      - data: "2010-08-23T11:31:36.96+02:00"
+        dst: true
+      - data: "2010-08-23T11:31:56.71+02:00"
+        dst: true
+      - data: "2010-08-23T14:24:20.90+02:00"
+        dst: true
+      - data: "2010-08-23T14:24:24.69+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Requests overview"
+      - "Requests overview\\Requests overview"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 4 Requests overview
+  - name: SubjectNumber
+    type: text
+    data: "4"
+  - name: SubjectText
+    type: text
+    data: Requests overview
+  - name: Subject_disp
+    type: text
+    data: "4\tRequests overview"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Requests overview
+  - name: levelEntry
+    type: text
+    data: Requests overview
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+OAAUAAAhUaGlz
+      IHNlY3Rpb24gZXhhbWluZXMgdGhlIG1haW4gcmVxdWVzdHMgaW4gVU1UOyB3aGF0IGlzIGluY2x1ZGVk
+      IGluIHRoZSBkaWZmZXJlbnQgcmVxdWVzdHMgYW5kIGhvdyB0aGUgcmVxdWVzdHMgYXJlIGJlaW5nIGNh
+      cnJpZWQgb3V0LoECgwQBAIX/CAAFAAAIgQKDBAEAhf+AAAUAAAhUbyBsZWFybiBtb3JlIGFib3V0IGhv
+      dyB0aGUgcmVxdWVzdHMgYXJlIGluaXRpYXRlZCB0aHJvdWdoIHRoZSB1c2VyIGludGVyZmFjZSwgcGxl
+      YXNlIHN0dWR5IHRoZSAiUkEgVXNlciBHdWlkZSIgY2hhcHRlci6BAoMEAQCF/wgABQAACA==
+remaining: []

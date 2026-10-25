@@ -1,0 +1,80 @@
+---
+class: 1
+flags: 0x0100
+unid: AEC6808F86B4D611C125778300538E73
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-18T17:12:39.55+02:00"
+        dst: true
+      - data: "2010-08-18T17:13:01.57+02:00"
+        dst: true
+      - data: "2010-08-18T17:13:13.59+02:00"
+        dst: true
+      - data: "2010-08-18T17:13:55.35+02:00"
+        dst: true
+      - data: "2010-08-18T20:43:30.15+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail-in distribution\\UMT Mail-in"
+      - "Id-file distribution\\UMT Mail-in"
+      - "Id-files\\UMT Mail-in"
+      - "UMT Mail-in\\UMT Mail-in"
+  - name: Subject
+    type: text
+    data: 4.2.3 Enable one or more documents for web
+  - name: SubjectNumber
+    type: text
+    data: 4.2.3
+  - name: SubjectText
+    type: text
+    data: Enable one or more documents for web
+  - name: Subject_disp
+    type: text
+    data: "4.2.3\tEnable one or more documents for web"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Mail-in distribution
+      - Id-file distribution
+      - Id-files
+      - UMT Mail-in
+  - name: levelEntry
+    type: text
+    data: UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9wAAUAAAhJRCBk
+      b2N1bWVudCB0aGF0IGFyZSBlbmFibGVkIGZvciBhY2Nlc3MgdGhyb3VnaCB0aGUgd2ViIGludGVyZmFj
+      ZSBhcmUgbWFya2VkIHdpdGggYSA8PiBpY29uIGluIHRoZSB2aWV3LoECgwQBAIX/CQAFAAAIIACBAoME
+      AQCF/x4BBQAACElEIGRvY3VtZW50cyB0aGF0IHNob3VsZCBiZSBlbmFibGVkIGZvciB3ZWIgYWNjZXNz
+      IG11c3QgaGF2ZSBhIHNwZWNpZmllZCBpbnN0YWxsZXIuIFRoZSBpbnN0YWxsZXIgY2FuIGJlIHNlbGVj
+      dGVkIGVpdGhlciBmcm9tIHRoZSB2aWV3IG9yIGluc2lkZSB0aGUgZG9jdW1lbnQuIElmIHRoZSBJRCBk
+      b2N1bWVudCBpcyBlbmFibGVkIGZvciB3ZWIgd2l0aG91dCBhIHNwZWNpZmllZCBpbnN0YWxsZXIsIHlv
+      dSB3aWxsIGJlIHByb21wdGVkIHRvIGJlIHRoZSBpbnN0YWxsZXIgeW91cnNlbGYugQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/9QABQAACFdoZW4gdGhlIElEIGRvY3VtZW50IGlzIHdlYiBlbmFibGVkIGl0IGNhbiBi
+      ZSBhY2Nlc3NlZCBkdXJpbmcgYSBsaW1pdGVkIGFtb3VudCBvZiB0aW1lIGJ5IHRoZSBpbnN0YWxsZXIu
+      IFRoZSBJRCBkb2N1bWVudCBjYW4gYmUgZGlzYWJsZWQgZm9yIHdlYiBhY2Nlc3MgYXQgYW55IHRpbWUg
+      dXNpbmcgdGhlICJEaXNhYmxlIGZvciB3ZWIiIHZpZXcgYWN0aW9uLoECgwQBAIX/CAAFAAAI
+remaining: []

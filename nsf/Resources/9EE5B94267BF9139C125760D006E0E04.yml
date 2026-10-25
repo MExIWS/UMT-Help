@@ -1,0 +1,75 @@
+---
+class: 1
+flags: 0x0000
+unid: 9EE5B94267BF9139C125760D006E0E04
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.83+02:00"
+        dst: true
+      - data: "2009-08-09T22:04:34.70+02:00"
+        dst: true
+      - data: "2009-08-09T22:17:43.95+02:00"
+        dst: true
+      - data: "2009-08-09T22:18:03.22+02:00"
+        dst: true
+      - data: "2009-08-18T13:51:12.83+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Using\\Default view setup"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:45:50.53+01:00"
+  - name: Subject
+    type: text
+    data: 4.4 Default view setup configuration
+  - name: SubjectNumber
+    type: text
+    data: "4.4"
+  - name: SubjectText
+    type: text
+    data: Default view setup configuration
+  - name: Subject_disp
+    type: text
+    data: "4.4\tDefault view setup configuration"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Using
+  - name: levelEntry
+    type: text
+    data: Default view setup
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf91AAUAAAhUaGUg
+      IkRlZmF1bHQgdmlldyBzZXR1cCIgY29uZmlndXJhdGlvbiBkZWZpbmVzIHRoZSB2aWV3cyBzaG93aW5n
+      IGFzIGRlZmF1bHQgd2hlbiBhIHRhYiBpcyBvcGVuZWQgaW4gVU1UIE1haW4uAIECgwQBAIX/ZAAFAAAI
+      VGhpcyB3YXksIGVhY2ggb3JnYW5pemF0aW9uIGNhbiBkZWZpbmUgd2hpY2ggdmlldyB0aGF0IHNob3Vs
+      ZCBiZSB2aXNpYmxlIGZpcnN0IGZvciBlYWNoIHRhYi6BAoMEAQCF/3UABQAACFRoaXMgY29uZmlndXJh
+      dGlvbiBkb2N1bWVudCBjYW4gYmUgZm91bmQgaW4gdGhlICJTZXR1cCIgc2VjdGlvbiAoU2V0dXAgLSBD
+      b25maWd1cmF0aW9uIC0gRGVmYXVsdCB2aWV3IHNldHVwKS4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/ygA
+      BQAACFRoZSBkZWZhdWx0IHZpZXcgc2V0dXAgaW5jbHVkZXM6gQKC/1oAAgAAAAAAAAAAACQIoiMkCAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgBAAAAAAAA
+      AQAAAAQAAACDBAIAhf8ZAAUAAAhEZWZhdWx0IHVuaXQgdmlldwCBAoMEAgCF/yMABQAACERlZmF1bHQg
+      cmVxdWVzdCBpbiBwcm9ncmVzcwCBAoMEAgCF/yMABQAACERlZmF1bHQgcHJvY2Vzc2VkIHJlcXVlc3Rz
+      AAA=
+remaining: []

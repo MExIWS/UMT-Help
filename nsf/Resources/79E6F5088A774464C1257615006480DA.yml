@@ -1,0 +1,102 @@
+---
+class: 1
+flags: 0x0100
+unid: 79E6F5088A774464C1257615006480DA
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: EC68265C835AAF71C125759E00651792
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: EC68265C835AAF71C125759E00651792
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: C84CA3F2282DB2E5C125759E0066D545
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: C84CA3F2282DB2E5C125759E0066D545
+    nonsummary: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail file\\Mail cluster"
+      - "Mail file replica\\Mail cluster"
+      - "New user\\Mail cluster"
+      - "Cluster\\Mail cluster"
+      - "Mail cluster\\Mail cluster"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-14T14:31:43.31+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Mail cluster
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Mail cluster
+  - name: Subject_disp
+    type: text
+    data: Mail cluster
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Mail file
+      - Mail file replica
+      - New user
+      - Cluster
+      - Mail cluster
+  - name: levelEntry
+    type: text
+    data: Mail cluster
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/rQAFAAAISW4gbW9zdCBsYXJnZXIgb3Jn
+      YW5pemF0aW9ucywgYWxsIG1haWwgZmlsZXMgYXJlIHJlcGxpY2F0ZWQgd2l0aGluIGEgY2x1c3RlciBv
+      ciBhIHNlcnZlciBncm91cC4gVU1UIGNhbiBiZSBjb25maWd1cmVkIHRvIGhhbmRsZSBtYWlsIGZpbGUg
+      cmVwbGljYXMgaW4gZGlmZmVyZW50IHdheXMuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf+jAAUAAAhJZiBh
+      IG1haWwgY2x1c3RlciBpcyBkZWZpbmVkIGFzIHRoZSBob21lIHNlcnZlciBmb3IgYSB1bml0LCB0aGUg
+      aG9tZSBzZXJ2ZXIgaXMgc2VsZWN0ZWQgcmFuZG9tbHkgZnJvbSB0aGlzIGNsdXN0ZXIgd2hlbiBhIG5l
+      dyBtYWlsIHVzZXIgYWNjb3VudCBpcyBjcmVhdGVkLgCBAoMEAQCF/wgABQAACIECgwQBAIX/0wAFAAAI
+      SXQgaXMgYWxzbyBwb3NzaWJsZSB0byBjb25maWd1cmUgVU1UIHRvIGRlZmluZSBhIGNsdXN0ZXIgcmVw
+      bGljYSBmcm9tIHRoZSBzYW1lIGNsdXN0ZXIuIFRoaXMgc2V0dGluZyAtIFJhbmRvbSBhZGRpdGlvbmFs
+      IHJlcGxpY2EgLSBjYW4gYmUgZm91bmQgaW4gdGhlIE1haW4gR2xvYmFsIENvbmZpZ3VyYXRpb24gKEFj
+      Y291bnQgLSBNYWlsIHNldHRpbmdzKS4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/7oABQAACElmIHRoZSBv
+      cmdhbml6YXRpb24gdXNlcyBhbiBleHRlcm5hbCBkb21haW4sIG9yIGlmIG9uZSBvciBtb3JlIHJlcGxp
+      Y2Egc2VydmVycyBuZWVkIHRvIGJlIGRlZmluZWQgZXhwbGljaXRseSwgdXNlIHRoZSAiQWRkaXRpb25h
+      bCByZXBsaWNhIHNlcnZlcihzKSIgc2V0dGluZyBpbiB0aGUgdW5pdCBkb2N1bWVudC6BAoMEAQCF/wgA
+      BQAACIECgwQBAIX/FwAFAAAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAA
+      CAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAK3/DAALAAgAAAAAAN0GAACR/5H/CQABAAAA
+      AADeBgAAkf/dBgAAhf+F/yEABQAECFJhbmRvbSBhZGRpdGlvbmFsIHJlcGxpY2EA0ggJAAAA/wDeBgAA
+      hf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAjdBgAArf9+/wwAIAAIAAAAAAD2/xwAAAAAAAIA
+      AQAAAAAAAAAAAAAAAAAAAAIArf8MAAsACAAAAAAA3QYAAJH/kf8JAAMAAAAAAN4GAACR/90GAACF/4X/
+      JAAFAAQIQWRkaXRpb25hbCByZXBsaWNhIHNlcnZlcihzKdIICQAAAP8A3gYAAIX/rgLeBgAArgCF/wgA
+      BQAACIECgwQBAIX/CAAFAAAI
+remaining: []

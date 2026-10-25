@@ -1,0 +1,126 @@
+---
+class: 1
+flags: 0x0000
+unid: 224C30F17CA8DFECC125760D006E0DF3
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: CDB5F4479D9A5F99C1257611006DB798
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: CDB5F4479D9A5F99C1257611006DB798
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 330ACE7015129170C1257611006F2264
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 330ACE7015129170C1257611006F2264
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: FB1B3DC57E562B61C125760D006DD8F5
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: FB1B3DC57E562B61C125760D006DD8F5
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.49+02:00"
+        dst: true
+      - data: "2009-08-09T22:02:19.11+02:00"
+        dst: true
+      - data: "2009-08-09T22:13:21.71+02:00"
+        dst: true
+      - data: "2009-08-12T22:16:16.36+02:00"
+        dst: true
+      - data: "2009-08-12T22:17:42.94+02:00"
+        dst: true
+      - data: "2009-08-12T22:18:02.47+02:00"
+        dst: true
+      - data: "2009-08-12T22:18:35.06+02:00"
+        dst: true
+      - data: "2009-08-12T22:18:56.81+02:00"
+        dst: true
+      - data: "2009-08-12T22:19:12.16+02:00"
+        dst: true
+      - data: "2009-08-13T21:59:25.47+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Setup\\Installing UMT"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:45:04.60+01:00"
+  - name: Subject
+    type: text
+    data: 2.1 Installing the main databases
+  - name: SubjectNumber
+    type: text
+    data: "2.1"
+  - name: SubjectText
+    type: text
+    data: Installing the main databases
+  - name: Subject_disp
+    type: text
+    data: "2.1\tInstalling the main databases"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Setup
+  - name: levelEntry
+    type: text
+    data: Installing UMT
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9jAAUAAAhUaGUg
+      VU1UIGFwcGxpY2F0aW9uIGNvbnN0aXN0cyBvZiBzaXggbWFpbiBkYXRhYmFzZXMsIGFsbCBleHBsYWlu
+      ZWQgZnVydGhlciBpbiB0aGlzIGNoYXB0ZXIuAIECgwQBAIX/CAAFAAAIgQKC/1oAAgAAAAAAAAAAACQI
+      oiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgB
+      AAAAAAAAAQAAAAQAAACDBAIAhf8QAAUAAAhVTVQgTWFpboECgwQCAIX/FAAFAAAIVU1UIEtleXdvcmRz
+      gQKDBAIAhf8OAAUAAAhVTVQgQ0GBAoMEAgCF/w4ABQAACFVNVCBJRIECgwQCAIX/DwAFAAAIVU1UIExv
+      ZwCBAoMEAgCF/yEABQAACFVNVCBIZWxwICh0aGlzIGRhdGFiYXNlKQAAgQKC/1oAAwAAAAAAAAAAALwG
+      oiO8BgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYBAAAAAFSEAAAAAAAA
+      AAAAAAAAAQAAAAQAAACDBAMAhf8iAAUAAAhPbmUgZGF0YWJhc2UgaXMgb3B0aW9uYWw6AIECgwQCAIX/
+      EwAFAAAIVU1UIE1haWwtaW4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/zcABQAACEluc3RhbGwgdGhlc2Ug
+      ZGF0YWJhc2VzIGZyb20gdGhlIFVNVCB0ZW1wbGF0ZXMuAIECgwQBAIX/bQAFAAAIVU1UIE1haW4gYW5k
+      IFVNVCBLZXl3b3JkcyBzaG91bGQgYmUgcmVwbGljYXRlZCB0byBhbGwgc3Bva2Ugc2VydmVycyBob2xk
+      aW5nIFJlZ2lzdHJhdGlvbiBBdXRob3JpdGllcy4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/1YABQAACFVN
+      VCBDQSwgVU1UIElELCBVTVQgTG9nIGFuZCBVTVQgSGVscCBhcmUgb25seSByZXF1aXJlZCBvbiB0aGUg
+      cHJvY2VzcyBzZXJ2ZXJzLoECgwQBAIX/CAAFAAAIgQKDBAEAhf8MAAUBAAhTaWduhf8pAAUAAAggdGhl
+      IGRhdGFiYXNlcyB3aXRoIGEgcHJvcGVyIGlkLiAAhf96AAUCAAhOb3RlIHRoYXQgaWYgVU1UIHNob3Vs
+      ZCBiZSBlbmFibGVkIGZvciBJRCBWYXVsdCwgc29tZSBzcGVjaWFsIGNvbnNpZGVyYXRpb25zIG11c3Qg
+      YmUgbWFkZSB3aGVuIHNpZ25pbmcgdGhlIGFnZW50cy6BAoMEAQCF/wgABQAACIECgwQBAIX/CAABAAAK
+      yf8QAAQAAABkABwA/////4X/CAAFAAAIgQKDBAEAhf8XAAUBAAhSZWxhdGVkIHRvcGljczoAgQKDBAEA
+      hf8IAAUAAAjdBgAArf9+/wwAIAAIAAAAAAD2/xwAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAArf8MAAsA
+      CAAAAAAA3QYAAJH/kf8JAAEAAAAAAN4GAACR/90GAACF/4X/HgAFAAQIUmVnaXN0cmF0aW9uIGF1dGhv
+      cml0edIICQAAAP8A3gYAAIX/rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAA
+      CAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAAAAACAK3/DAALAAgAAAAAAN0GAACR/5H/CQADAAAA
+      AADeBgAAkf/dBgAAhf+F/xYABQAECFByb2Nlc3Mgc2VydmVy0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/
+      CAAFAAAIgQKDBAEAhf8IAAUAAAjdBgAArf9+/wwAIAAIAAAAAAD2/4YAAAAAAAIAAQAAAB0ATQAAAAAA
+      AAAAAENOPUhhZGRvY2svT1U9RHZscC9PPUluZm93YXJlRGF0YWJhc2UgJ05URjogVU1UIEhlbHAgOC41
+      JywgVmlldyAnQ29udGVudHMnLCBEb2N1bWVudCAnMi4gVU1UIGFuZCBJRCBWYXVsdCcEAK3/DAALAAgA
+      AAAAAN0GAACR/5H/cwAFAERhdGFiYXNlICdOVEY6IFVNVCBIZWxwIDguNScsIFZpZXcgJ0NvbnRlbnRz
+      JywgRG9jdW1lbnQgJzIuIFVNVCBhbmQgSUQgVmF1bHQnAENOPUhhZGRvY2svT1U9RHZscC9PPUluZm93
+      YXJlAAAA3gYAAJH/3QYAAIX/hf8YAAUABAhVTVQgYW5kIElEIFZhdWx00ggJAAAA/wDeBgAAhf+uAt4G
+      AACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

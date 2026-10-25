@@ -1,0 +1,69 @@
+---
+class: 1
+flags: 0x0100
+unid: B7EB7F91A9A13C01C1257979004C7597
+items:
+  - name: $Revisions
+    type: time
+    data: "2012-01-02T14:55:08.39+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\News"
+      - "News\\News"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-15T14:17:16.00+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: "1.2.2 What's new in UMT 8.5.3?"
+  - name: SubjectNumber
+    type: text
+    data: 1.2.2
+  - name: SubjectText
+    type: text
+    data: "What's new in UMT 8.5.3?"
+  - name: Subject_disp
+    type: text
+    data: "1.2.2\tWhat's new in UMT 8.5.3?"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - News
+  - name: levelEntry
+    type: text
+    data: News
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAIAAQC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/FgAFBQAIRlVOQ1RJT05BTElUWQCF/yQA
+      BQAACEltcHJvdmVkIHRoZSB1c2VyIGludGVyZmFjZS6BAoMEAQCF/xEABQUACEJVRyBGSVhFUwCF/wkA
+      BQEACAAAhf8AAQUAAAhBZGRlZCBhIGZpeCBpbiB0aGUgZXh0ZXJuYWwgQVBJIGNvbmNlcm5pbmcgQ2hh
+      bmdlIHVzZXIgbmFtZSBhbmQgQ2hhbmdlIHVuaXQuAEFkZGVkIGEgZml4IHByZXZlbnRpbmcgTm90ZXMg
+      UmVkaXJlY3QgRmlsZXMgKC5ucmYpIHRvIGJlIGNyZWF0ZWQgaW4gRGVsZXRlIHVzZXIuAFNvbHZlZCBh
+      biBpc3N1ZSB0aGF0IGNhdXNlZCBhbiBJRCBmaWxlIG5hbWUgY2hlY2sgdG8gYmUgY2FycmllZCBvdXQg
+      b24gdGhlIHdyb25nIHByZW1pc2VzLoECgwQBAIX/OQAFAAAIVU1UIEtleXdvcmRzOiBBZGRlZCBhIGZp
+      eCB0byB0aGUgdXBncmFkZSBhY3Rpb25zLgCBAoL/WgACAAAAAAAAAAAAvAaiI7wGAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhgEAAAAAVIcAAAAAAAAAAAAAAAABAAAABAAAAIME
+      AgCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQCAIX/FwAFAAAIUmVsYXRlZCB0b3Bp
+      Y3M6AIECgwQCAIX/CAAFAAAI
+remaining: []

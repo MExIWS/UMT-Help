@@ -1,0 +1,76 @@
+---
+class: 1
+flags: 0x0000
+unid: A336A293361D9B6BC12576150032372E
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T11:08:29.26+02:00"
+        dst: true
+      - data: "2009-08-17T11:08:44.28+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "More secure password\\More secure password"
+      - "HTTP Password\\More secure password"
+      - "Internet password\\More secure password"
+      - "Password\\More secure password"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-25T10:42:51.12+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: More secure password
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: More secure password
+  - name: Subject_disp
+    type: text
+    data: More secure password
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - More secure password
+      - HTTP Password
+      - Internet password
+      - Password
+  - name: levelEntry
+    type: text
+    data: More secure password
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYIANACoAVwCEALEA7gELATgBYAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/HAAUAAAhUaGUg
+      bW9yZSBzZWN1cmUgcGFzc3dvcmQgaXMgYSBnbG9iYWwgc2V0dGluZyBpbiBOb3Rlcy9Eb21pbm8uIFRo
+      ZSBzZXR0aW5nIG1ha2VzIHRoZSBlbmNyeXB0aW9uIG9mIHRoZSBJbnRlcm5ldCBwYXNzd29yZHMgYSBi
+      aXQgbW9yZSBzZWN1cmUgYW5kIGNvbXBsZXggd2hlbiBzdG9yZWQgaW5zaWRlIHRoZSBwZXJzb24gZG9j
+      dW1lbnRzLgCBAoMEAQCF/wgABQAACIECgwQBAIX/tAAFAAAIVXNpbmcgdGhlICJVc2UgbW9yZSBzZWN1
+      cmUgaW50ZXJuZXQgcGFzc3dvcmQiIHNldHRpbmcgaW4gVU1UIEdsb2JhbCBDb25maWd1cmF0aW9uIChT
+      ZWN1cml0eSAtIFBhc3N3b3JkIHNldHRpbmdzKSwgVU1UIHdpbGwgc3VwcG9ydCBhbmQgdXNlIHRoZSBt
+      b3JlIHNlY3VyZSBwYXNzd29yZCBzZXR0aW5nLoECgv9aAAIAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAA
+      gwQCAN0GAACF/4X/CAAFAAQI0ggBAAAA/wDeBgAAhf8=
+remaining: []

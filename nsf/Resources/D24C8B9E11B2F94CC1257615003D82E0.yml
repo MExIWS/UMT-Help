@@ -1,0 +1,75 @@
+---
+class: 1
+flags: 0x0000
+unid: D24C8B9E11B2F94CC1257615003D82E0
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:11:52.11+02:00"
+        dst: true
+      - data: "2009-08-17T13:14:52.68+02:00"
+        dst: true
+      - data: "2009-08-17T17:23:37.77+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: RA User Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Overview\\Configurations"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:20:16.07+01:00"
+  - name: Subject
+    type: text
+    data: 3. Configurations
+  - name: SubjectNumber
+    type: text
+    data: "3."
+  - name: SubjectText
+    type: text
+    data: Configurations
+  - name: Subject_disp
+    type: text
+    data: "3.\tConfigurations"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Overview
+  - name: levelEntry
+    type: text
+    data: Configurations
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+1AAUAAAhBbiBp
+      bXBvcnRhbnQgZ29hbCB3aGVuIGRldmVsb3BpbmcgVU1UIHdhcyB0byBtYWtlIGl0IGZsZXhpYmxlIGFu
+      ZCBlYXN5IHRvIHVzZSBhbmQgbW9kaWZ5LiBCZWZvcmUgc3RhcnRpbmcgdG8gdXNlIHRoZSBhcHBsaWNh
+      dGlvbiBhIG51bWJlciBvZiBjb25maWd1cmF0aW9ucyBuZWVkIHRvIGJlIGRvbmUuIACBAoMEAQCF/+YA
+      BQAACEV4YW1wbGVzIG9mIGNvbmZpZ3VyYXRpb25zIGFyZSB3aGljaCBwZXJzb25zIHdpbGwgYWN0IGFz
+      IFJBIGZvciB0aGUgZGlmZmVyZW50IHVuaXRzLCB3aGljaCBpZC1maWxlL3Bhc3N3b3JkIGRpc3RyaWJ1
+      dGlvbiB0eXBlIHdpbGwgYmUgdXNlZCwgd2hpY2ggc2VydmVyIGlzIHRoZSBob21lIHNlcnZlciBmb3Ig
+      dXNlciBhY2NvdW50cyBjcmVhdGVkIGZvciB0aGUgdW5pdCBhbmQgc28gb24uIIECgwQBAIX/CAAFAAAI
+      gQKDBAEAhf+UAQUAAAhUaGUgVU1UIEFkbWluaXN0cmF0b3IgaXMgcmVzcG9uc2libGUgZm9yIHVwZGF0
+      aW5nIG1vc3Qgb2YgdGhlIGNvbmZpZ3VyYXRpb24gc2V0dGluZ3MgaW4gVU1ULCBidXQgdG8gYmUgYWJs
+      ZSB0byBkbyB0aGlzIHRoZXkgZGVwZW5kIG9uIGluZm9ybWF0aW9uIGZyb20gZWFjaCB1bml0LiBCZWZv
+      cmUgeW91ciB1bml0IHN0YXJ0cyB1c2luZyBVTVQgdGhlIFVNVCBBZG1pbmlzdHJhdG9yIGNvdWxkIGNv
+      bnRhY3QgeW91IHRvIGNvbmZpZ3VyZSB0aGUgYXBwbGljYXRpb24gZm9yIHlvdS4gSWYgeW91LCBsYXRl
+      ciBvbiwgZmluZCB0aGF0IGFueSBvZiB0aGUgaW5mb3JtYXRpb24gY29uY2VybmluZyB5b3VyIHVuaXQg
+      aXMgaW5jb3JyZWN0LCBwbGVhc2UgaW5mb3JtIHRoZSBVTVQgQWRtaW5pc3RyYXRvci6BAoMEAQCF/wgA
+      BQAACA==
+remaining: []

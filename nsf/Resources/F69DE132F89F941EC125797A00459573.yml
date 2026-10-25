@@ -1,0 +1,107 @@
+---
+class: 1
+flags: 0x0000
+unid: F69DE132F89F941EC125797A00459573
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 14212097F56193BFC12576780055B10E
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 14212097F56193BFC12576780055B10E
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 15656AED9C0BCCA3C1257615003108C8
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 15656AED9C0BCCA3C1257615003108C8
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-03T13:40:02.43+01:00"
+      - data: "2012-01-03T13:40:22.27+01:00"
+      - data: "2012-01-03T13:40:30.95+01:00"
+      - data: "2012-01-03T13:47:20.70+01:00"
+      - data: "2012-01-03T13:47:44.27+01:00"
+      - data: "2012-01-03T13:48:29.11+01:00"
+      - data: "2012-01-03T13:48:56.39+01:00"
+      - data: "2012-01-03T13:49:13.72+01:00"
+      - data: "2012-01-03T13:49:50.58+01:00"
+  - name: Book
+    type: text
+    data: UMT Integration service
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Integration"
+      - "Integration\\Integration"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: "1.2 Integrating with UMT: Key values"
+  - name: SubjectNumber
+    type: text
+    data: "1.2"
+  - name: SubjectText
+    type: text
+    data: "Integrating with UMT: Key values"
+  - name: Subject_disp
+    type: text
+    data: "1.2\tIntegrating with UMT: Key values"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Integration
+  - name: levelEntry
+    type: text
+    data: Integration
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8cAAUBAAhVbmlx
+      dWUgSUQvQWNjb3VudCBJRIECgwQBAIX/zgAFAAAIVGhlIHVuaXF1ZSBJRC9hY2NvdW50IElEIHVuaXF1
+      ZWx5IGlkZW50aWZpZXMgYSB1c2VyIGluIGFsbCBpbnRlZ3JhdGVkIHN5c3RlbXMuIFRoZSB1bmlxdWUg
+      SUQgZG9lcyBub3QgY2hhbmdlIGFuZCBjYW4gYmUgdXNlZCB0byB0cmFjayB3aGljaCBjaGFuZ2VzIHRo
+      YXQgaGF2ZSBiZWVuIGRvbmUgb24gdGhhdCBzcGVjaWZpYyB1c2VyIGFjY291bnQugQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/yAABQEACE9yZ2FuaXphdGlvbiBJRC9Vbml0IGtleYECgwQBAIX/SAEFAAAIVGhlIG9y
+      Z2FuaXphdGlvbiBJRC91bml0IGtleSB1bmlxdWVseSBpZGVudGlmaWVzIGFuIG9yZ2FuaXphdGlvbmFs
+      IHVuaXQgd2l0aGluIERvbWlubyBhbmQgcG9zc2libHkgaW4gb3RoZXIgc3lzdGVtcyBhcyB3ZWxsLiBX
+      aXRoaW4gVU1UIHRoZSBvcmdhbml6YXRpb24gSUQgdmFsdWUgaXMgdXNlZCB0byBsb29rdXAgdGhlIGNv
+      cnJlY3QgdW5pdCBkb2N1bWVudCB0aGF0IGRlZmluZXMgdmFsdWVzIHRoYXQgYXJlIHNwZWNpZmljIGZv
+      ciB0aGF0IG9yZ2FuaXphdGlvbmFsIHVuaXQsIHN1Y2ggYXMgbWFpbCBzZXJ2ZXIgYW5kIG9yZ2FuaXph
+      dGlvbmFsIGdyb3Vwcy6BAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/
+      FwAFAAAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAN0GAACF/4X/CAAFAAQI0ggBAAAA/wDeBgAAhf/dBgAA
+      rf9+/wwAIAAIAAAAAAD2/14AAAAAAAIAAQAAAAAAQgAAAAAAAAAAAERhdGFiYXNlICdOVEY6IFVNVCBI
+      ZWxwIDguNS41JywgVmlldyAnSW5kZXgnLCBEb2N1bWVudCAnVW5pcXVlIElEJwAArf8MAAsACAAAAAAA
+      3QYAAJH/kf9LAAEARGF0YWJhc2UgJ05URjogVU1UIEhlbHAgOC41LjUnLCBWaWV3ICdJbmRleCcsIERv
+      Y3VtZW50ICdVbmlxdWUgSUQnAAAAAN4GAACR/90GAACF/4X/HAAFAAQIVW5pcXVlIElEL0FjY291bnQg
+      SUTSCAkAAAD/AN4GAACF/64C3gYAAK4A3QYAAIX/hf8IAAUABAjSCAEAAAD/AN4GAACF/4ECgwQBAIX/
+      CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v9tAAAAAAACAAEAAAAAAFEAAAAAAAAAAABEYXRhYmFzZSAn
+      TlRGOiBVTVQgSGVscCA4LjUuNScsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQgJ1VuaXQga2V5L09yZ2Fu
+      aXphdGlvbiBJRCcCAACt/wwACwAIAAAAAADdBgAAkf+R/1oAAwBEYXRhYmFzZSAnTlRGOiBVTVQgSGVs
+      cCA4LjUuNScsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQgJ1VuaXQga2V5L09yZ2FuaXphdGlvbiBJRCcA
+      AADeBgAAkf/dBgAAhf+F/yAABQAECE9yZ2FuaXphdGlvbiBJRC9Vbml0IGtledIICQAAAP8A3gYAAIX/
+      rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

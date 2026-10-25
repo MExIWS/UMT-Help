@@ -1,0 +1,95 @@
+---
+class: 1
+flags: 0x0000
+unid: 9F17C69D9E31F0C4C125761700343552
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-19T11:30:15.22+02:00"
+        dst: true
+      - data: "2009-08-19T11:30:30.74+02:00"
+        dst: true
+      - data: "2009-08-19T11:30:39.26+02:00"
+        dst: true
+      - data: "2009-08-19T11:34:22.39+02:00"
+        dst: true
+      - data: "2009-08-19T11:39:24.08+02:00"
+        dst: true
+      - data: "2009-08-19T12:42:05.25+02:00"
+        dst: true
+      - data: "2009-08-19T12:42:07.02+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: User Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Update id-files"
+      - "Updating id-files\\Update id-files"
+      - "Id-files\\Update id-files"
+      - "Update\\Update id-files"
+      - "Monitoring\\Update id-files"
+  - name: OriginalModTime
+    type: time
+    data: "2006-10-27T08:13:59.16+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 4.1 Monitoring id-file updates
+  - name: SubjectNumber
+    type: text
+    data: "4.1"
+  - name: SubjectText
+    type: text
+    data: Monitoring id-file updates
+  - name: Subject_disp
+    type: text
+    data: "4.1\tMonitoring id-file updates"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Updating id-files
+      - Id-files
+      - Update
+      - Monitoring
+  - name: levelEntry
+    type: text
+    data: Update id-files
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8AAQUAAAhJZC1m
+      aWxlIHVwZGF0ZXMgaXMgbW9zdCBvZnRlbiBwcm9jZXNzZWQgYXV0b21hdGljYWxseSB1c2luZyB0aGUg
+      VU1USUQgc2VydmVyIHRhc2suIFRvIGtlZXAgdHJhY2sgb24gdGhlIHVwZGF0ZXMsIGl0IGlzIG1vc3Qg
+      aW1wb3J0YW50IHRvIG1vbml0b3IgdGhlIHByb2Nlc3MgYnkgdmlld2luZyB0aGUgVU1UIExvZy4gQWxz
+      bywgdGhlIHVwZGF0ZXMgY2FuIGJlIHRyYWNrZWQgaW4gVU1UIE1haW4gLSBJbiBQcm9ncmVzcyBzZWN0
+      aW9uLoECgwQBAIX/CAAFAAAIgQKDBAEAhf9jAAUAAAhUaGUgIkFkbWluIiBwYXJ0IG9mIHRoZSBJbiBQ
+      cm9ncmVzcyBzZWN0aW9uIGluY2x1ZGVzIHRoZSBmb2xsb3dpbmcgaWQtZmlsZSB1cGRhdGUgZWxlbWVu
+      dHM6AIECgwQBAIX/CAAFAAAIgQKC/1oAAgAAAAAAAAAAACQIoiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgBAAAAAAAAAQAAAAQAAACDBAIAhf8lAAUA
+      AAhJZC1maWxlcyB0byBiZSB1cGRhdGVkICh2aWV3KQCBAoMEAgCF/3UABQAACFVwY29taW5nIGlkLWZp
+      bGUgdXBkYXRlcyAodmlldykAVGhpcyB2aWV3IGNvbnRhaW5zIHRoZSByZXF1ZXN0cyB3aGljaCBpZC1m
+      aWxlcyB3aWxsIGJlIHVwZGF0ZWQgaW4gdGhlIGZ1dHVyZS4AgQKDBAIAhf9uAAUAAAgiQWN0aXZhdGUg
+      dXBkYXRlIiBidXR0b24gdG8gYWN0aXZhdGVkIHVwY29taW5nIGlkLWZpbGUgdXBkYXRlcyBzbyB0aGF0
+      IHRoZXkgY2FuIGJlIHBlcmZvcm1lZCBkaXJlY3RseS6BAoMEAgCF/1wABQAACCJSZXRyeSBzZWxlY3Rl
+      ZCIgYnV0dG9uIHRvIHJlbW92ZSBlcnJvciBmbGFnIHRvIGJlIGFibGUgdG8gcHJvY2VzcyB0aGUgdXBk
+      YXRlIGFnYWluLoECgv9aAAMAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQDAIX/CAAFAAAI
+remaining: []

@@ -1,0 +1,71 @@
+---
+class: 1
+flags: 0x0000
+unid: EE57792ADD50C552C125760D006D8BE9
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T21:56:32.43+02:00"
+        dst: true
+      - data: "2009-08-09T21:57:21.37+02:00"
+        dst: true
+      - data: "2009-08-09T21:58:24.32+02:00"
+        dst: true
+      - data: "2009-08-09T22:00:30.66+02:00"
+        dst: true
+      - data: "2009-08-09T22:11:14.40+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "Using\\UMT users"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T14:19:20.88+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 1 The UMT Administrator
+  - name: SubjectNumber
+    type: text
+    data: "1"
+  - name: SubjectText
+    type: text
+    data: The UMT Administrator
+  - name: Subject_disp
+    type: text
+    data: "1\tThe UMT Administrator"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: Using
+  - name: levelEntry
+    type: text
+    data: UMT users
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8mAAUAAAhUaGUg
+      VU1UIEFkbWluaXN0cmF0b3IgaGFzIHRoZSCF/xMABQEACHN5c3RlbWFkbWluAIX/jQAFAAAIIHJvbGUg
+      aW4gdGhlIFVNVCBhcHBsaWNhdGlvbi4gVGhlIFVNVCBBZG1pbmlzdHJhdG9yIGlzIHJlc3BvbnNpYmxl
+      IG9mIG1vbml0b3JpbmcgdGhlIFVNVCBhcHBsaWNhdGlvbiBhbmQgaXRzIGNvbmZpZ3VyYXRpb24gZG9j
+      dW1lbnRzLgCBAoMEAQCF/wgABQAACIECgwQBAIX/fAAFAAAIQW4gVU1UIEFkbWluaXN0cmF0b3IgaXMg
+      dHlwaWNhbGx5IGEgcGVyc29uIHdpdGggZGVlcCBrbm93bGVkZ2UgaW4gRG9taW5vIGFuZCB0aGUgaW5m
+      cmFzdHJ1Y3R1cmUgb2YgdGhlIG9yZ2FuaXphdGlvbi6BAoMEAQCF/wgABQAACA==
+remaining: []

@@ -1,0 +1,70 @@
+---
+class: 1
+flags: 0x0100
+unid: A3E9301A6B87BAC1C12576100070DC86
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T22:32:44.91+02:00"
+        dst: true
+      - data: "2009-08-17T20:27:50.91+02:00"
+        dst: true
+      - data: "2009-08-17T20:27:56.73+02:00"
+        dst: true
+      - data: "2010-08-18T16:55:57.79+02:00"
+        dst: true
+      - data: "2010-08-18T20:58:16.14+02:00"
+        dst: true
+      - data: "2010-08-18T20:59:21.51+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "UMT Mailin\\UMT Mailin UI"
+      - "User interface\\UMT Mailin UI"
+  - name: Subject
+    type: text
+    data: 3. User interface and features
+  - name: SubjectNumber
+    type: text
+    data: "3."
+  - name: SubjectText
+    type: text
+    data: User interface and features
+  - name: Subject_disp
+    type: text
+    data: "3.\tUser interface and features"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - UMT Mailin
+      - User interface
+  - name: levelEntry
+    type: text
+    data: UMT Mailin UI
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9XAAUAAAhUaGUg
+      VU1UIE1haWxpbiBkYXRhYmFzZSBoYXMgdHdvIG1ham9yIHdvcmtpbmcgYXJlYXMgYW5kIGEgZ2xvYmFs
+      IGNvbmZpZ3VyYXRpb24uAIECgwQBAIX/MwAFAAAIVGhpcyBzZWN0aW9uIGV4YW1pbmVzIHRoZXNlIGlu
+      IG1vcmUgZGV0YWlsLgCBAoMEAQCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

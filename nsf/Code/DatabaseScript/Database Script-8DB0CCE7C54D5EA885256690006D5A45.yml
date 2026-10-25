@@ -1,0 +1,17 @@
+---
+class: 512
+flags: 0x2000
+unid: 8DB0CCE7C54D5EA885256690006D5A45
+items:
+  - name: $Flags
+    type: text
+    data: t34Q
+  - name: $PublicAccess
+    type: text
+    data: "1"
+    signed: true
+  - name: $TITLE
+    type: text
+    data: Database Script
+    signed: true
+remaining: []

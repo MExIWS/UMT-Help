@@ -1,0 +1,105 @@
+---
+class: 1
+flags: 0x0000
+unid: DF59515FC3E6B956C125760D006E0DF0
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 49E32F97F23F3C67C125760D006E0DF8
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 49E32F97F23F3C67C125760D006E0DF8
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.43+02:00"
+        dst: true
+      - data: "2009-08-09T22:02:23.84+02:00"
+        dst: true
+      - data: "2009-08-09T22:24:41.22+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "UMT Main\\UMT Main"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T10:54:02.54+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 2.1.1 UMT Main
+  - name: SubjectNumber
+    type: text
+    data: 2.1.1
+  - name: SubjectText
+    type: text
+    data: UMT Main
+  - name: Subject_disp
+    type: text
+    data: "2.1.1\tUMT Main"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: UMT Main
+  - name: levelEntry
+    type: text
+    data: UMT Main
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/AAAUAAAhVTVQg
+      TWFpbiBpcyB0aGUgbWFzdGVyIGRhdGFiYXNlIGluIHRoZSBVTVQgYXBwbGljYXRpb24uIFRoaXMgaXMg
+      dGhlIGRhdGFiYXNlIHdoZXJlIGFsbCByZXF1ZXN0cyBhcmUgY3JlYXRlZCwgYXBwcm92ZWQgYW5kIHBy
+      b2Nlc3NlZCwgYW5kIGhlcmUgaXMgYWxsIGdsb2JhbCBhbmQgdW5pdCBjb25maWd1cmF0aW9uIGRvbmUu
+      gQKDBAEAhf8IAAUAAAiBAoMEAQCF/1cABQAACFRoZSBVTVQgTWFpbiBtZW51IGNvbnRhaW5zIGRpZmZl
+      cmVudCBzZWN0aW9ucywgdmlzaWJsZSB0byBkaWZmZXJlbnQgdXNlciByb2xlcy4AgQKDBAEAhf8IAAUA
+      AAiBAoL/WgACAAAAAAAAAAAAJAiiIyQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAhgUAAAAAVIRoAQAAaAEAAAAAAAABAAAABAAAAIMEAgCF/xIABQEACE1haW4gdmlld3OF/3oA
+      BQAACABUaGlzIHNlY3Rpb24gaXMgdmlzaWJsZSB0byBhbGwgVU1UIHVzZXJzLiBJdCBjb250YWlucyBu
+      ZXcgcmVxdWVzdHMsIHJlcXVlc3RzIGluIHByb2dyZXNzIGFuZCBwcm9jZXNzZWQgcmVxdWVzdHMuAIEC
+      gwQCAIX/FgAFAQAITWFpbiBmdW5jdGlvbnOF//oABQAACABNYWluIGZ1bmN0aW9ucyBhcmUgdGhlIGNv
+      bW1vbiB1c2VyIHJlbGF0ZWQgcmVxdWVzdHMsIHVzZWQgbW9zdCBvZnRlbiBpbiBhIERvbWlubyBkb21h
+      aW4uIEFsbCBtYWluIGZ1bmN0aW9ucyBoYXZlIHRoZWlyIG93biB1c2VyIHJvbGUsIHdoaWNoIG1lYW5z
+      IHRoYXQgdGhlIFVNVCBBZG1pbmlzdHJhdG9yIGNvdWxkIGNob29zZSBkaWZmZXJlbnQgdXNlcnMgdG8g
+      aGF2ZSBhY2Nlc3MgdG8gZGlmZmVyZW50IGZ1bmN0aW9ucy4AgQKDBAIAhf8hAAUBAAhBZG1pbmlzdHJh
+      dGlvbiBmdW5jdGlvbnMAAIX/4gAFAAAIVGhlIGFkbWluaXN0cmF0aW9uIGZ1bmN0aW9ucyBhcmUgdmlz
+      aWJsZSB0byBVTVQgdXNlciBhZG1pbmlzdHJhdG9ycyB3aXRoIHRoZSAiR2xvYmFsQWNjZXB0b3IiIHJv
+      bGUuIFNvbWUgb2YgdGhlIGFkbWluIGZ1bmN0aW9ucyBhcmUgZGVwZW5kaW5nIG9uIHRoZSBVTVQgY29u
+      ZmlndXJhdGlvbiBzZXR0aW5ncyBhbmQgd2lsbCBvbmx5IGJlIHNlbGVjdGFibGUgaWYgYWN0aXZhdGVk
+      LgCBAoMEAgCF/xgABQEACFVwZGF0ZSBpZC1maWxlcwCF/2wABQAACFNob3dzIHRoZSB2aWV3IGNvbnRh
+      aW5pbmcgYWxsIHJlcXVlc3RzIHdoaWNoIGlkLWZpbGUgY29waWVzIHNob3VsZCBiZSB1cGRhdGVkIGlu
+      IHRoZSBVTVQgSUQgZGF0YWJhc2WF/wkABQAACAAAgQKDBAIAhf8WAAUBAAhDb25maWd1cmF0aW9uAIX/
+      UAAFAAAIQ29udGFpbnMgZ2xvYmFsIGNvbmZpZ3VyYXRpb24gb2YgVU1ULCBhbmQgdGhlIHN5c3RlbSBm
+      aWxlcyB1c2VkIGJ5IFVNVC4AgQKDBAIAhf8bAAUBAAhVbml0IGNvbmZpZ3VyYXRpb24AAIX/yAAFAAAI
+      SW4gdGhpcyBzZWN0aW9uLCB0aGUgVU1UIGFkbWluaXN0cmF0b3IsIG9yIHRoZSB1bml0IGFkbWluaXN0
+      cmF0b3IgKHRoZSByb2xlICJVbml0QWRtaW4iKSBjYW4gY3JlYXRlIG5ldyB1bml0IGRvY3VtZW50cyBh
+      bmQgQUNMIHByb2ZpbGVzLCBhcyB3ZWxsIGFzIHVwZGF0ZSBleGlzdGluZyBkb2N1bWVudHMgb2YgdGhl
+      IHNhbWUgdHlwZS4AgQKDBAIAhf8ZAAUBAAhMZXR0ZXIgdGVtcGxhdGVzAACF/5sABQAACEFsbCBsZXR0
+      ZXIgdGVtcGxhdGVzIHVzZWQgYnkgdGhlIFVNVCBhcHBsaWNhdGlvbiBhcmUgc2hvd24gaGVyZS4gVGhl
+      IFVNVCBhZG1pbmlzdHJhdG9yIGNhbiBjcmVhdGUgbmV3IE5vdGUgdGVtcGxhdGVzIGFuZCB1cGRhdGUg
+      ZXhpc3RpbmcgZG9jdW1lbnRzLgCF/wkABQAACAAAgQKDBAEAhf8IAAEAAArJ/xAABAAAAGQAHAD/////
+      hf8IAAUAAAiBAoMEAQCF/xcABQEACFJlbGF0ZWQgdG9waWNzOgCBAoMEAQCF/wgABQAACN0GAACt/37/
+      DAAgAAgAAAAAAPb/HAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAACt/wwACwAIAAAAAADdBgAAkf+R/wkA
+      AQAAAAAA3gYAAJH/3QYAAIX/hf8YAAUABAhMZXR0ZXIgdGVtcGxhdGVz0ggJAAAA/wDeBgAAhf+uAt4G
+      AACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

@@ -1,0 +1,114 @@
+---
+class: 1
+flags: 0x0000
+unid: 35CFBEC3AB13B3E6C12576780054341F
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 14212097F56193BFC12576780055B10E
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 14212097F56193BFC12576780055B10E
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-11-24T16:19:43.67+01:00"
+      - data: "2009-11-24T16:19:48.46+01:00"
+      - data: "2009-11-24T16:27:47.49+01:00"
+      - data: "2009-11-24T16:28:04.04+01:00"
+      - data: "2009-11-24T16:29:41.73+01:00"
+      - data: "2009-11-24T16:29:55.08+01:00"
+      - data: "2009-11-24T16:33:42.32+01:00"
+      - data: "2009-11-24T16:34:11.30+01:00"
+      - data: "2009-11-24T16:49:08.62+01:00"
+      - data: "2009-11-24T16:49:22.74+01:00"
+      - data: "2012-01-03T13:21:47.32+01:00"
+      - data: "2012-01-03T13:22:57.71+01:00"
+      - data: "2012-01-03T13:23:05.05+01:00"
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\Lookup views"
+      - "Domino Directory\\Lookup views"
+      - "Lookup views\\Lookup views"
+      - "UMT Unique ID\\Lookup views"
+      - "Unique ID\\Lookup views"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:48:19.96+01:00"
+  - name: Subject
+    type: text
+    data: 2.7.2 Unique ID lookup views
+  - name: SubjectNumber
+    type: text
+    data: 2.7.2
+  - name: SubjectText
+    type: text
+    data: Unique ID lookup views
+  - name: Subject_disp
+    type: text
+    data: "2.7.2\tUnique ID lookup views"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Domino Directory
+      - Lookup views
+      - UMT Unique ID
+      - Unique ID
+  - name: levelEntry
+    type: text
+    data: Lookup views
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAQAIgQKDBAEAhf8YAAUBAAhEb21p
+      bm8gRGlyZWN0b3J5gQKDBAEAhf8zAQUAAAhJZiB1bmlxdWUgSUQgdmFsdWVzIGFyZSB1c2VkIHdpdGhp
+      biBVTVQsIG9uZSBsb29rdXAgdmlldyBtdXN0IGJlIGNvcGllZCBpbnRvIHRoZSBEb21pbm8gRGlyZWN0
+      b3J5LiBBbHNvLCB0aGUgdmlldyBtdXN0IGJlIHVwZGF0ZWQgc28gdGhhdCBpdCBpcyBzb3J0ZWQgb24g
+      dGhlIHNhbWUgZmllbGQgdGhhdCBVTVQgdXNlcyB0byBkZWZpbmUgdGhlIHVuaXF1ZSBJRCB2YWx1ZS4g
+      VGhlIGZpZWxkIG5hbWUgaXMgZGVmaW5lZCBpbiB0aGUgIlN5c3RlbSBzZXR0aW5ncyIgLSAiQWNjb3Vu
+      dCIgLSAiVW5pcXVlIGlkZW50aWZpZXIiLgCBAoMEAQCF/wgABQAACIECgwQBAIX/EgAFAAAIVGhlIHZp
+      ZXcgIoX/FgAFAQAIKCRJV1NVbmlxdWVJRCmF/2IABQAACCIgaXMgdXNlZCB0byBtYWtlIHN1cmUgdGhh
+      dCB0aGUgdW5pcXVlIElEcyB1c2VkIGJ5IFVNVCBhcmUgdW5pcXVlIGluIHRoZSBEb21pbm8gRGlyZWN0
+      b3J5LoECgwQBAIX/CAAFAAAIgQKDBAEAhf9FAAUAAAhUaGUgbG9va3VwIHZpZXcgY2FuIGJlIGZvdW5k
+      IGluIHRoZSBVTVQgTWFpbiBkYXRhYmFzZSBkZXNpZ24uAIECgwQBAIX/CAAFAAAIgQKC/1oAAgAAAAAA
+      AAAAACQIoiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSE
+      aAEAAGgBAAAAAAAAAQAAAAQAAACDBAIAhf9DAAUAAAhGcm9tIHRoZSBEb21pbm8gRGVzaWduZXIgY2xp
+      ZW50OiBPcGVuIHRoZSBVTVQgTWFpbiBkYXRhYmFzZQCBAoMEAgCF/0IABQAACEZyb20gdGhlIERvbWlu
+      byBEZXNpZ25lciBjbGllbnQ6IE9wZW4gdGhlIERvbWlubyBEaXJlY3RvcnmBAoMEAgCF/yMABQAACENv
+      cHkgdGhlIHZpZXcgZnJvbSBVTVQgTWFpbgCBAoMEAgCF/zAABQAACFBhc3RlIHRoZSB2aWV3IGludG8g
+      dGhlIERvbWlubyBEaXJlY3RvcnmBAoMEAgCF/wgABQAACIECgv9aAAMAAAAAAAAAAAC8BqIjvAYAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGAQAAAABUhAAAAAAAAAAAAAAAAAEA
+      AAAEAAAAgwQDAIX/HwAFAQAIVU1UIFRlbXBvcmFyeSBkZWxldGlvbnMAgQKDBAMAhf9DAAUAAAhJZiB0
+      aGUgVGVtcG9yYXJ5IGRlbGV0aW9ucyBvcHRpb24gaXMgdXNlZCwgdGhlIGxvb2t1cCB2aWV3IACF/x4A
+      BQEACCIoVGVtcERlbHNCeVVuaXF1ZUlEKSKF/1sABQAACCBtdXN0IGJlIHVwZGF0ZWQgaW4gdGhlIHNh
+      bWUgbWFubmVyIHNvIHRoYXQgaXQgaXMgc29ydGVkIG9uIHRoZSBjb3JyZWN0IGZpZWxkIG5hbWUuAIEC
+      gwQBAIX/CAABAAAKyf8QAAQAAABkABwA/////4X/CAAFAAAIgQKDBAEAhf8XAAUBAAhSZWxhdGVkIHRv
+      cGljczoAgQKDBAEAhf8IAAUAAAjdBgAArf9+/wwAIAAIAAAAAAD2/14AAAAAAAIAAQAAAAAAQgAAAAAA
+      AAAAAERhdGFiYXNlICdOVEY6IFVNVCBIZWxwIDguNS4xJywgVmlldyAnSW5kZXgnLCBEb2N1bWVudCAn
+      VW5pcXVlIElEJwAArf8MAAsACAAAAAAA3QYAAJH/kf9LAAEARGF0YWJhc2UgJ05URjogVU1UIEhlbHAg
+      OC41LjEnLCBWaWV3ICdJbmRleCcsIERvY3VtZW50ICdVbmlxdWUgSUQnAAAAAN4GAACR/90GAACF/4X/
+      EQAFAAQIVW5pcXVlIElEANIICQAAAP8A3gYAAIX/rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

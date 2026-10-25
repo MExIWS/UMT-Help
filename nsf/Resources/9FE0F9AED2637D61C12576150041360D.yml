@@ -1,0 +1,89 @@
+---
+class: 1
+flags: 0x0100
+unid: 9FE0F9AED2637D61C12576150041360D
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:52:16.77+02:00"
+        dst: true
+      - data: "2009-08-17T13:52:38.97+02:00"
+        dst: true
+      - data: "2009-08-17T13:52:50.33+02:00"
+        dst: true
+      - data: "2009-08-17T13:52:56.02+02:00"
+        dst: true
+      - data: "2009-08-17T13:53:45.63+02:00"
+        dst: true
+      - data: "2009-08-17T13:54:04.19+02:00"
+        dst: true
+      - data: "2009-08-17T13:54:33.65+02:00"
+        dst: true
+      - data: "2009-08-17T13:55:13.04+02:00"
+        dst: true
+      - data: "2009-08-17T13:55:41.27+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Setup
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Roles\\Roles"
+      - "Roles in UMT\\Roles"
+      - "RA roles\\Roles"
+      - "User roles\\Roles"
+  - name: Subject
+    type: text
+    data: RA Roles
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: RA Roles
+  - name: Subject_disp
+    type: text
+    data: RA Roles
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Roles
+      - Roles in UMT
+      - RA roles
+      - User roles
+  - name: levelEntry
+    type: text
+    data: Roles
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAQAIgQKDBAEAhf9iAAUAAAhUaGUg
+      UkEgcm9sZXMgaXMgYSBjb2xsZWN0aW9uIG9mIHJvbGVzIHVzZWQgYnkgcGVyc29ucyB3aG8gYXJlIGdv
+      aW5nIHRvIGNyZWF0ZSBzb21lIG9yIGFsbCCF/xUABQAACG1haW4gcmVxdWVzdHMAhf8yAAUAAAguIFRo
+      ZXJlIGlzIG9uZSByb2xlIGZvciBlYWNoIG1haW4gcmVxdWVzdDqBAoMEAQCF/x0ABQAACFtyYUNyZWF0
+      ZV0gLSBOZXcgdXNlcgCBAoMEAQCF/yAABQAACFtyYURlbGV0ZV0gLSBEZWxldGUgdXNlcoECgwQBAIX/
+      IwAFAAAIW3JhTWV0YV0gLSBDaGFuZ2UgbWV0YSBkYXRhAIECgwQBAIX/NwAFAAAIW3JhUmVjZXJ0aWZ5
+      XSAtIFJlY2VydGlmeSB1c2VyIChjbGllbnQgdmVyc2lvbikAgQKDBAEAhf8nAAUAAAhbcmFSZWNvdmVy
+      XSAtIFBhc3N3b3JkIHJlY292ZXJ5AIECgwQBAIX/JAAFAAAIW3JhUmVuYW1lXS0gQ2hhbmdlIHVzZXIg
+      bmFtZYECgwQBAIX/IAAFAAAIW3JhU3dpdGNoXSAtIENoYW5nZSB1bml0gQKDBAEAhf8IAAUAAAiBAoME
+      AQCF/7IABQAACEluIHRoZSBBQ0wsIGFsbCByb2xlcyBjb3VsZCBiZSBhcHBsaWVkIHRvIGEgc2luZ2xl
+      ICJSQS1ncm91cCIsIG9yIHNpbmdsZSByb2xlcyBjb3VsZCBiZSBhcHBsaWVkIHRvIGEgbnVtYmVyIG9m
+      IHVzZXIgZ3JvdXBzLCBhbGwgZGVwZW5kaW5nIG9uIHRoZSBuZWVkIG9mIHRoZSBvcmdhbml6YXRpb24u
+      gQKDBAEAhf8IAAUAAAg=
+remaining: []

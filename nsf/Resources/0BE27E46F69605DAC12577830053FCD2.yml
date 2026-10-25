@@ -1,0 +1,80 @@
+---
+class: 1
+flags: 0x0100
+unid: 0BE27E46F69605DAC12577830053FCD2
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-18T17:17:22.10+02:00"
+        dst: true
+      - data: "2010-08-18T17:17:45.30+02:00"
+        dst: true
+      - data: "2010-08-18T17:18:01.60+02:00"
+        dst: true
+      - data: "2010-08-18T17:18:43.40+02:00"
+        dst: true
+      - data: "2010-08-18T17:18:56.27+02:00"
+        dst: true
+      - data: "2010-08-18T17:19:03.43+02:00"
+        dst: true
+      - data: "2010-08-18T20:52:29.21+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail-in distribution\\UMT Mail-in"
+      - "Id-file distribution\\UMT Mail-in"
+      - "Id-files\\UMT Mail-in"
+      - "UMT Mail-in\\UMT Mail-in"
+  - name: Subject
+    type: text
+    data: 4.2.4 Manually disabling the ID documents
+  - name: SubjectNumber
+    type: text
+    data: 4.2.4
+  - name: SubjectText
+    type: text
+    data: Manually disabling the ID documents
+  - name: Subject_disp
+    type: text
+    data: "4.2.4\tManually disabling the ID documents"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Mail-in distribution
+      - Id-file distribution
+      - Id-files
+      - UMT Mail-in
+  - name: levelEntry
+    type: text
+    data: UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+fAAUAAAhUaGUg
+      d2ViIGVuYWJsZWQgSUQgZG9jdW1lbnRzIGNhbiBiZSBkaXNhYmxlZCBhdCBhbnkgdGltZSB1c2luZyB0
+      aGUgIkRpc2FibGUgZm9yIFdlYiIgYWN0aW9uIGJ1dHRvbiB2aXNpYmxlIGluIGFsbCB2aWV3cyBjb250
+      YWluaW5nIGFjdGl2ZSBJRCBkb2N1bWVudHMuAIECgwQBAIX/CAAFAAAIgQKDBAEAhf+9AAUAAAhUaGVy
+      ZSBpcyBhbHNvIGFuIGF1dG9tYXRlZCBzZXJ2aWNlIChlLmcuIGFnZW50KSB3aGljaCBkaXNhYmxlcyBh
+      bGwgd2ViIGVuYWJsZWQgSUQgZG9jdW1lbnRzIGFmdGVyIGEgc3BlY2lmaWVkIGFtb3VudCBvZiB0aW1l
+      LiBUaGlzIGlzIHJlZ3VsYXRlZCBpbiB0aGUgZ2xvYmFsIGNvbmZpZ3VyYXRpb24gZG9jdW1lbnQuAIEC
+      gwQBAIX/CAAFAAAI
+remaining: []

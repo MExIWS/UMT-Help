@@ -1,0 +1,74 @@
+---
+class: 1
+flags: 0x0000
+unid: FFFBDB3EDA4E774CC12576DC00398593
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-03-04T11:28:17.47+01:00"
+      - data: "2010-03-04T11:28:59.71+01:00"
+      - data: "2010-03-04T11:32:57.83+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\News"
+      - "News\\News"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-15T14:17:16.00+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: "1.3 Important: Encryption in the x64 UMT server tasks"
+  - name: SubjectNumber
+    type: text
+    data: "1.3"
+  - name: SubjectText
+    type: text
+    data: "Important: Encryption in the x64 UMT server tasks"
+  - name: Subject_disp
+    type: text
+    data: "1.3\tImportant: Encryption in the x64 UMT server tasks"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - News
+  - name: levelEntry
+    type: text
+    data: News
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8IAQUAAAhUaGVy
+      ZSBpcyBhIGxpbWl0YXRpb24gaW4gYm90aCB0aGUgQyBhbmQgdGhlIEMrKyBBUEksIGNhdXNpbmcgZW5j
+      cnlwdGlvbiB0byBmYWlsIG9uIHg2NCBXaW5kb3dzIHdoZW4gdXNpbmcgZW5jcnlwdGlvbiBrZXlzIGNy
+      ZWF0ZWQgd2l0aCAxMjggYml0IGVuY3J5cHRpb24uIFRoZSAxMjggYml0IGVuY3J5cHRpb24ga2V5cyBh
+      cmUgY3JlYXRlZCB3aGVuIHVzaW5nIGEgTm90ZXMgOCsgY2xpZW50cywgc28gdGhlIHByb2JsZW0gb2Nj
+      dXJzIG9ubHkgaWY6gQKC/1oAAgAAAAAAAAAAACQIoiMkCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAIYFAAAAAFSEaAEAAGgBAAAAAAAAAQAAAAQAAACDBAIAhf9PAAUAAAhUaGUg
+      ZW5jcnlwdGlvbiBrZXlzIFVNVElEIGFuZCBVTVRDQSBhcmUgY3JlYXRlZCB3aXRoIGEgTm90ZXMgOCAr
+      IGNsaWVudACBAoMEAgCF/zAABQAACFRoZSBVTVQgc2VydmVyIHRhc2tzIHJ1biBvbiBYNjQgV2luZG93
+      cy6BAoMEAQCF/wgABQAACIECgwQBAIX/uwAFAAAIV29yayBhcm91bmQgaXMgdG8gY3JlYXRlIGVuY3J5
+      cHRpb24ga2V5cyB3aXRoIDY0IGJpdCBlbmNyeXB0aW9uLCBlLmcuIHVzaW5nIGEgTm90ZXMgNyBjbGll
+      bnQuIFBsZWFzZSBjb250YWN0IHN1cHBvcnRAaW5mb3dhcmUuc2UgaWYgeW91IGhhdmUgYW55IHByb2Js
+      ZW1zIHdpdGggdGhlIGVuY3J5cHRpb24ga2V5cy4AgQKDBAEAhf8IAAUAAAg=
+remaining: []

@@ -1,0 +1,78 @@
+---
+class: 1
+flags: 0x0000
+unid: EEF545F59F948F33C1257783006853CF
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-18T20:59:31.99+02:00"
+        dst: true
+      - data: "2010-08-18T21:00:13.17+02:00"
+        dst: true
+      - data: "2010-08-18T21:00:52.35+02:00"
+        dst: true
+      - data: "2010-08-18T21:00:57.79+02:00"
+        dst: true
+      - data: "2010-08-18T21:02:20.33+02:00"
+        dst: true
+      - data: "2010-08-18T21:05:18.86+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "UMT Mailin\\UMT Mailin UI"
+      - "Active views\\UMT Mailin UI"
+  - name: Subject
+    type: text
+    data: 3.1 New views
+  - name: SubjectNumber
+    type: text
+    data: "3.1"
+  - name: SubjectText
+    type: text
+    data: New views
+  - name: Subject_disp
+    type: text
+    data: "3.1\tNew views"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - UMT Mailin
+      - Active views
+  - name: levelEntry
+    type: text
+    data: UMT Mailin UI
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+AAAUAAAhUaGUg
+      Ik5ldyIgdGFiIGhvbGRzIGFsbCBhY3RpdmUgdmlld3MgY29udGFpbmluZyBhbGwgZW5jcnlwdGVkIElE
+      IGRvY3VtZW50cy4gVGhlIHZpZXdzIGFyZSBjYXRlZ29yaXplZCBpbiBkaWZmZXJlbnQgd2F5czqBAoME
+      AQCF/wgABQAACIECgv9aAAIAAAAAAAAAAAAkCKIjJAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAACGBQAAAABUhGgBAABoAQAAAAAAAAEAAAAEAAAAgwQCAIX/FwAFAAAIQnkgYXJy
+      aXZhbCBkYXRlAIECgwQCAIX/EgAFAAAIQnkgQ2FzZSBJRIECgwQCAIX/FwAFAAAIQnkgb3JnYW5pemF0
+      aW9uAIECgwQCAIX/FAAFAAAIQnkgdXNlciBuYW1lgQKDBAIAhf8XAAUAAAhCeSByZXF1ZXN0IHR5cGUA
+      gQKDBAIAhf8YAAUAAAhJRCBmaWxlIHJlY292ZXJ5gQKDBAIAhf9pAAUAAAhJRCBWYXVsdCByZWNvdmVy
+      eQBUaGlzIHZpZXcgc2hvd3MgYWxsIGRvY3VtZW50cyB3aG9zZSBjb3JyZXNwb25kaW5nIElEcyBhcmUg
+      YWxzbyBpbiB0aGUgSUQgVmF1bHQAAIECgwQCAIX/ZgAFAAAISFRUUCBQYXNzd29yZCByZXNldABUaGlz
+      IHZpZXcgc2hvd3MgYWxsIGRvY3VtZW50cyB3aGljaCBkaXNwbGF5cyB0aGUgbmV3IEhUVFAgcGFzc3dv
+      cmRzIG9ubHkuIIECgwQBAIX/CAAFAAAI
+remaining: []

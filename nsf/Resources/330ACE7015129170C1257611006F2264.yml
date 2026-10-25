@@ -1,0 +1,68 @@
+---
+class: 1
+flags: 0x0000
+unid: 330ACE7015129170C1257611006F2264
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-13T22:13:53.00+02:00"
+        dst: true
+      - data: "2009-08-13T22:22:10.47+02:00"
+        dst: true
+      - data: "2009-08-13T22:22:15.89+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Dedicated words\\Process server"
+      - "Servers\\Process server"
+      - "Process server\\Process server"
+  - name: Subject
+    type: text
+    data: Process server
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Process server
+  - name: Subject_disp
+    type: text
+    data: Process server
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Dedicated words
+      - Servers
+      - Process server
+  - name: levelEntry
+    type: text
+    data: Process server
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+KAAUAAAhBIFBy
+      b2Nlc3Mgc2VydmVyIGlzIGEgc2VydmVyIG9uIHdoaWNoIHRoZSBhZ2VudHMgaW4gdGhlIFVNVCBhcHBs
+      aWNhdGlvbiBydW4uIEEgcHJvY2VzcyBzZXJ2ZXIgaXMgc2ltaWxhciB0byBhIHJlZ2lzdHJhdGlvbiBz
+      ZXJ2ZXIugQKDBAEAhf8IAAUAAAiBAoMEAQCF/28ABQAACFJlcGxpY2FzIG9mIHRoZSBVTVQgTWFpbiBh
+      bmQgVU1UIEtleXdvcmRzIGRhdGFiYXNlcyBzaG91bGQgcmVzaWRlIG9uIGFsbCBwcm9jZXNzIHNlcnZl
+      cnMgaW4gdGhlIGRvbWFpbi4A
+remaining: []

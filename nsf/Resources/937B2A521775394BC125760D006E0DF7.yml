@@ -1,0 +1,113 @@
+---
+class: 1
+flags: 0x0000
+unid: 937B2A521775394BC125760D006E0DF7
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 943A5FD4F8D54F0CC1257611006FBFBA
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 943A5FD4F8D54F0CC1257611006FBFBA
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.57+02:00"
+        dst: true
+      - data: "2009-08-09T22:02:41.78+02:00"
+        dst: true
+      - data: "2009-08-09T22:24:49.32+02:00"
+        dst: true
+      - data: "2009-08-12T22:21:30.14+02:00"
+        dst: true
+      - data: "2009-08-12T22:22:37.14+02:00"
+        dst: true
+      - data: "2009-08-12T22:32:19.47+02:00"
+        dst: true
+      - data: "2009-08-13T22:21:04.25+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "UMT Log\\UMT Log"
+      - "Log\\UMT Log"
+      - "Agent logging\\UMT Log"
+      - "Request logging\\UMT Log"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-10T12:55:07.51+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 2.1.5 UMT Log
+  - name: SubjectNumber
+    type: text
+    data: 2.1.5
+  - name: SubjectText
+    type: text
+    data: UMT Log
+  - name: Subject_disp
+    type: text
+    data: "2.1.5\tUMT Log"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - UMT Log
+      - Log
+      - Agent logging
+      - Request logging
+  - name: levelEntry
+    type: text
+    data: UMT Log
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+kAAUAAAhUaGUg
+      VU1UIExvZyBkYXRhYmFzZSBjb250YWlucyBhIGNvbXBsZXRlIGxvZyBvZiBhbGwgcHJvY2Vzc2VzIGRv
+      bmUgd2l0aCBVTVQuIFRoZXJlIGFyZSB0aHJlZSB0eXBlcyBvZiBsb2dnaW5nOyBSZXF1ZXN0IGxvZ2dp
+      bmcsIEFnZW50IGxvZ2dpbmcgYW5kIFRyYWNlIGxvZy6BAoMEAQCF/wgABQAACIECgwQBAIX/FwAFAQAI
+      UmVxdWVzdCBsb2dnaW5nAIECgwQBAIX/2wAFAAAIT25lIGxvZyBkb2N1bWVudCBpcyBjcmVhdGVkIGZv
+      ciBlYWNoIHJlcXVlc3QgaW4gVU1ULiBGb3IgZWFjaCBzdWIgcHJvY2VzcyB0aGUgbG9nIGluZm9ybWF0
+      aW9uIGlzIGFwcGVuZGVkIHRvIHRoaXMgbG9nIGRvY3VtZW50LiBXaGVuIHRoZSByZXF1ZXN0IGlzIGRv
+      bmUsIHRoZSBsb2cgZG9jdW1lbnQgaXMgbWFya2VkIGFzIGNvbXBsZXRlZCBpbiB0aGUgbWFpbiB2aWV3
+      LgCBAoMEAQCF/wgABQAACIECgwQBAIX/FQAFAQAIQWdlbnQgbG9nZ2luZwCBAoMEAQCF/3UABQAACEFn
+      ZW50IGxvZ2dpbmcgaXMgYSBzZXF1ZW5jaWFsIGxvZyBzaG93aW5nLCBmb3IgZWFjaCBhZ2VudCBvciBz
+      ZXJ2ZXIgdGFzaywgd2hhdCB3YXMgZG9uZSBmb3IgZWFjaCBwcm9jZXNzIHJ1bi4AgQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/1EABQAACFRoZXNlIHR3byBsb2dzIGNhbiBiZSBlbmFibGVkIG9yIGRpc2FibGVkIHRo
+      cm91Z2ggdGhlIG1haW4gY29uZmlndXJhdGlvbi4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/xEABQEACFRy
+      YWNlIGxvZwCBAoMEAQCF/5oABQAACFRoZSBUcmFjZSBsb2cgaXMgZW5hYmxlZCB0aHJvdWdoIHRoZSBV
+      TVQgTWFpbGluIGRhdGFiYXNlLiBUaGUgVHJhY2UgbG9nIG9mZmVycyBhIGNsaWVudCBiYXNlZCBsb2cg
+      dG8gdHJhY2UgZXZlbnRzIGluaXRpYXRlZCBieSBOb3RlcyBjbGllbnQgdXNlcnMugQKDBAEAhf8IAAUB
+      AAiBAoMEAQCF/2gABQAACFRoZSBkYXRhYmFzZSBjb250YWlucyBhIG51bWJlciBvZiB2aWV3IGFuZCBp
+      cyBlYXN5IHRvIHNlYXJjaCBmb3Igc2luZ2xlIHJlcXVlc3RzLCBieSBuYW1lIG9yIGJ5IIX/DwAFAQAI
+      Q2FzZSBJRACF/wkABQAACC4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/wgBBQAACFVNVCBjb3VsZCBiZSBj
+      b25maWd1cmVkIHRvIGNyZWF0ZSBhIGRvY3VtZW50IGxpbmsgZnJvbSB0aGUgcmVxdWVzdCBpbiBVTVQg
+      TWFpbiB0byB0aGUgbWFpbiBsb2cgZG9jdW1lbnQgaW4gVU1UIExvZy4gVGhlIGRvY3VtZW50IGxpbmsg
+      YXBwZWFycyBhdCB0aGUgcmVxdWVzdCBkb2N1bWVudCB0b3AuIFRoaXMgd2F5LCB0aGUgYWRtaW5pc3Ry
+      YXRvciBjYW4gZWFzaWx5IGZpbmQgYSBwb3NzaWJsZSBlcnJvciBpbiB0aGUgVU1UIExvZyBkYXRhYmFz
+      ZS6BAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQBAIX/FwAFAQAIUmVsYXRl
+      ZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v8cAAAAAAACAAEAAAAAAAAA
+      AAAAAAAAAAAAAK3/DAALAAgAAAAAAN0GAACR/5H/CQABAAAAAADeBgAAkf/dBgAAhf+F/w8ABQAECENh
+      c2UgSUQA0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

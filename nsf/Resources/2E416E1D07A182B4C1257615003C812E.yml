@@ -1,0 +1,100 @@
+---
+class: 1
+flags: 0x0000
+unid: 2E416E1D07A182B4C1257615003C812E
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: "00000000000000000000000000000000"
+        Note: EDEB1BB5579DE40EC1257615003C8136
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: "00000000000000000000000000000000"
+        Note: EDEB1BB5579DE40EC1257615003C8136
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:00:52.32+02:00"
+        dst: true
+      - data: "2009-08-17T13:04:27.68+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: User Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Approving"
+      - "Requests\\Approving"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:58:06.96+01:00"
+  - name: Subject
+    type: text
+    data: 2.2 Approving main requests
+  - name: SubjectNumber
+    type: text
+    data: "2.2"
+  - name: SubjectText
+    type: text
+    data: Approving main requests
+  - name: Subject_disp
+    type: text
+    data: "2.2\tApproving main requests"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Requests
+  - name: levelEntry
+    type: text
+    data: Approving
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/JAAUAAAhBcHBy
+      b3ZpbmcgcmVxdWVzdHMgaW4gVU1UIGlzIG5lY2Vzc2FyeSBvbmx5IGlmIHNvbWUgdW5pdCBoYXMgdGhl
+      IGZsYWcgIkFkbWluaXN0cmF0b3IgbmVlZHMgdG8gYXBwcm92ZSByZXF1ZXN0cyIgc3dpdGNoZWQgb24u
+      IEluIHRoaXMgY2FzZSBhbGwgcmVxdWVzdHMgYmVsb25naW5nIHRvIHRoaXMgdW5pdCB3aWxsIGVuZCB1
+      cCBpbiB0aGUgAIX/FAAFAQAITmV3IHJlcXVlc3Rzhf8XAAUAAAggdmlldyB3aXRoIHRoZSAAmQAcAAAA
+      wwClAAAAAAAAAAAAAAAAAAEAAQAAAJ8AFgAAAAgAWAEjAcMApQCSAQAAAQCbAJwBAACSAZIBAQAJAAAD
+      yQAAAAAAbQAAAAAABAAAAAMBCAAFAAAACwIAAAAABQAAAAwCDAAOAAMAAAAeADsAAABBC4YA7gALAA0A
+      AAAAAAsADQAAAAAAKAAAAA0AAAALAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A
+      B/AAAB/wvAAf8NnaH/Dd3h/w4eIf8OXmH/Dp6h/g7e4fwPHyHgD19gAA+fptAAAAQQvGAIgACwANAAAA
+      AAALAA0AAAAAACgAAAANAAAACwAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AICA
+      gAAA//8AgACAAMDAwAD//wAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEREXd3d3
+      EAcREAAAAAcQUhESFhYWBxAAERIxYWEHEPcREhYWFgcQBhESMWFlBxDgERIWEkAHEAEREjFiUlEQ/xES
+      ExQlERAGERIiIREREFMREREREREQAQQAAAAnAf//AwAAAAAAlQAmAAAAAAAAAAAAAAABAAAAAAAAAA0A
+      CwAIAAEACAABAAgAAACWAH4AAAAAAAAAAAAAAAsAbADNAMMAxAHGAMMABwEABgAHAQXDAMMACAEGAAMB
+      BQEFwgDDAAYBAAMAAQfCAgIEAMMACgEGAAMAAwUCBADDAAoBAAMAAwADAgQAwwAKAQYAAwADAAIEAMMA
+      CgEAAwADAAMCBADDAMgCAgQAzQCXAB4AAAD///+AgIAAAAAA+PgAgIDAwMD4+ACAAICF/x0ABQAACCBp
+      Y29uIGluIGZyb250IG9mIGl0LgCBAoMEAQCF/wgABQAACIECgwQBAIX/cgAFAAAIUmVxdWVzdHMgY2Fu
+      IGJlIGFwcHJvdmVkIGJ5IHNlbGVjdGluZyBvbmUgb3IgbW9yZSByZXF1ZXN0cyBpbiB0aGUgTmV3IHJl
+      cXVlc3RzIHZpZXcgYW5kIHRoZW4gcHJlc3NpbmcgdGhlIIX/DgAFAQAIQWNjZXB0hf95AAUAAAggYnV0
+      dG9uIG9uIHRvcCBvZiB0aGUgdmlldy4gT3IgeW91IGNhbiBlbnRlciB0aGUgc2luZ2xlIHJlcXVlc3Qg
+      dG8gbG9vayBhdCB0aGUgZGF0YSBpbnNpZGUgaXQgYW5kIHRoZW4gcHJlc3MgdGhlIACF/xYABQEACEFj
+      Y2VwdCByZXF1ZXN0hf8vAAUAAAggYnV0dG9uIG9uIHRvcCBvZiB0aGUgcmVxdWVzdCBkb2N1bWVudC4A
+      gQKDBAEAhf8IAAUAAAiBAoMEAQCF/04ABQAACElmIHRoZSByZXF1ZXN0IGZvciBzb21lIHJlYXNvbiBz
+      aG91bGQgYmUgZGVuaWVkLCB1c2UgdGhlIGRlbnkgZnVuY3Rpb27dBgAArf9+/wwAIAAIAAAAAAD2/2oA
+      AAAAAAIAAQAAAAAATgAAAAAAAAAAAERhdGFiYXNlICdVTVQgSGVscCA2LjUnLCBWaWV3ICdDb250ZW50
+      cycsIERvY3VtZW50ICcyLjMgRGVueWluZyBtYWluIHJlcXVlc3RzJwAArf8MAAsACAAAAAAA3QYAAJH/
+      kf9XAAEARGF0YWJhc2UgJ1VNVCBIZWxwIDYuNScsIFZpZXcgJ0NvbnRlbnRzJywgRG9jdW1lbnQgJzIu
+      MyBEZW55aW5nIG1haW4gcmVxdWVzdHMnAAAAAN4GAACR/90GAACF/4X/CAAFAAQI0ggJAAAA/wDeBgAA
+      hf+uAt4GAACuAIX/CQAFAAAILgCBAoMEAQCF/wgABQAACA==
+remaining: []

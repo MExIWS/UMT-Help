@@ -1,0 +1,76 @@
+---
+class: 1
+flags: 0x0100
+unid: 4F09420982836FF8C125778300540F9D
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-18T17:18:10.21+02:00"
+        dst: true
+      - data: "2010-08-18T17:18:22.41+02:00"
+        dst: true
+      - data: "2010-08-18T17:18:30.38+02:00"
+        dst: true
+      - data: "2010-08-18T20:54:51.77+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail-in distribution\\UMT Mail-in"
+      - "Id-file distribution\\UMT Mail-in"
+      - "Id-files\\UMT Mail-in"
+      - "UMT Mail-in\\UMT Mail-in"
+      - "Mark done\\UMT Mail-in"
+  - name: Subject
+    type: text
+    data: 4.2.5 Mark done/mark undone
+  - name: SubjectNumber
+    type: text
+    data: 4.2.5
+  - name: SubjectText
+    type: text
+    data: Mark done/mark undone
+  - name: Subject_disp
+    type: text
+    data: "4.2.5\tMark done/mark undone"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Mail-in distribution
+      - Id-file distribution
+      - Id-files
+      - UMT Mail-in
+      - Mark done
+  - name: levelEntry
+    type: text
+    data: UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/2AAUAAAhUaGUg
+      Ik1hcmsgZG9uZSIgYnV0dG9uIGNhbiBiZSB1c2VkIHRvIG1hcmsgYWxsIElEIGRvY3VtZW50cyB3aGlj
+      aCBoYXZlIGJlZW4gcHJvY2Vzc2VkIGJ5IGFuIGFkbWluaXN0cmF0b3Igb3IgYW4gaW5zdGFsbGVyLiBX
+      aGVuIGFuIElEIGRvY3VtZW50IGlzIG1hcmtlZCBhcyAiZG9uZSIsIGl0IGRpc2FwcGVhcnMgZnJvbSB0
+      aGUgYWN0aXZlIHZpZXdzIGFuZCBlbmRzIHVwIHVuZGVyIHRoZSAiUHJvY2Vzc2VkIiB0YWIugQKDBAEA
+      hf8IAAUAAAiBAoMEAQCF/5AABQAACEFsbCBJRCBkb2N1bWVudHMgd2hpY2ggYXJlIG1hcmtlZCBhcyBk
+      b25lIGNhbiBiZSBtYXJrZWQgYXMgInVuZG9uZSIgYXQgYW55IHRpbWUgdXNpbmcgdGhlICJNYXJrIHVu
+      ZG9uZSIgYnV0dG9uIGluIHRoZSAiUHJvY2Vzc2VkIiB2aWV3cy6BAoMEAQCF/wgABQAACA==
+remaining: []

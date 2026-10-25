@@ -1,0 +1,70 @@
+---
+class: 1
+flags: 0x0000
+unid: 00819D024CE3961FC125798F003AB7A2
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-24T11:41:20.98+01:00"
+      - data: "2012-01-24T11:41:38.58+01:00"
+      - data: "2012-01-24T11:41:49.54+01:00"
+      - data: "2012-01-24T11:43:15.42+01:00"
+  - name: Book
+    type: text
+    data: UMT Integration service
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\External input API"
+      - "Integration\\External input API"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 2 Requests overview
+  - name: SubjectNumber
+    type: text
+    data: "2"
+  - name: SubjectText
+    type: text
+    data: Requests overview
+  - name: Subject_disp
+    type: text
+    data: "2\tRequests overview"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Integration
+  - name: levelEntry
+    type: text
+    data: External input API
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9yAAUAAAhUaGlz
+      IHNlY3Rpb24gY292ZXJzIHRoZSBkaWZmZXJlbnQgcmVxdWVzdHMgYW5kIGhvdyB0aGUgQVBJIGF0dHJp
+      YnV0ZXMgYXJlIHVzZWQgd2hlbiBjcmVhdGluZyB0aGUgcmVxdWVzdHMugQKDBAEAhf+JAAUAAAhUaGUg
+      bnVtYmVyIG9mIGlucHV0IGF0dHJpYnV0ZXMgYmVpbmcgdXNlZCBieSBVTVQgaXMgZGVwZW5kaW5nIG9u
+      IHRoZSBjb25maWd1cmF0aW9uIG9mIFVNVCBhbmQgY2FuIGRpZmZlciBiZXR3ZWVuIGltcGxlbWVudGF0
+      aW9ucy4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/4EABQAACEZvciBhbGwgcmVxdWVzdHMgdGhlcmUgYXJl
+      IGF0dHJpYnV0ZXMgdGhhdCBhbHdheXMgbmVlZCB0byBiZSBwcmVzZW50LCBhcyB3ZWxsIGFzIGF0dHJp
+      YnV0ZXMgbmVlZGVkIGZvciBzcGVjaWZpYyBwdXJwb3Nlcy4AgQKDBAEAhf8IAAUAAAg=
+remaining: []

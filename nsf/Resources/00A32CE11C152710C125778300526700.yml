@@ -1,0 +1,69 @@
+---
+class: 1
+flags: 0x0100
+unid: 00A32CE11C152710C125778300526700
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-18T17:00:03.20+02:00"
+        dst: true
+      - data: "2010-08-18T17:00:30.39+02:00"
+        dst: true
+      - data: "2010-08-18T17:00:43.34+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail-in distribution\\UMT Mail-in"
+      - "Id-file distribution\\UMT Mail-in"
+      - "Id-files\\UMT Mail-in"
+      - "UMT Mail-in\\UMT Mail-in"
+      - "Trace log\\UMT Mail-in"
+      - "Log\\UMT Mail-in"
+  - name: Subject
+    type: text
+    data: 4.1.1 The trace log
+  - name: SubjectNumber
+    type: text
+    data: 4.1.1
+  - name: SubjectText
+    type: text
+    data: The trace log
+  - name: Subject_disp
+    type: text
+    data: "4.1.1\tThe trace log"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Mail-in distribution
+      - Id-file distribution
+      - Id-files
+      - UMT Mail-in
+      - Trace log
+      - Log
+  - name: levelEntry
+    type: text
+    data: UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

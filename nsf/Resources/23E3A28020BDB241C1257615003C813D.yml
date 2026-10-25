@@ -1,0 +1,99 @@
+---
+class: 1
+flags: 0x0000
+unid: 23E3A28020BDB241C1257615003C813D
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 4DC945594156E71DC12576150032DF5B
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 4DC945594156E71DC12576150032DF5B
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:00:52.62+02:00"
+        dst: true
+      - data: "2009-08-17T13:09:21.97+02:00"
+        dst: true
+      - data: "2009-08-17T13:09:25.52+02:00"
+        dst: true
+      - data: "2009-08-17T15:27:02.13+02:00"
+        dst: true
+      - data: "2009-08-17T15:28:01.50+02:00"
+        dst: true
+      - data: "2009-08-17T15:28:35.25+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: User Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Recertify user"
+      - "Notes user\\Recertify user"
+      - "Recertification\\Recertify user"
+      - "Certificates\\Recertify user"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:59:18.08+01:00"
+  - name: Subject
+    type: text
+    data: 3.6 Recertify user process
+  - name: SubjectNumber
+    type: text
+    data: "3.6"
+  - name: SubjectText
+    type: text
+    data: Recertify user process
+  - name: Subject_disp
+    type: text
+    data: "3.6\tRecertify user process"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Notes user
+      - Recertification
+      - Certificates
+  - name: levelEntry
+    type: text
+    data: Recertify user
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8MAAUAAAhUaGUg
+      hf8eAAUBAAhSZWNlcnRpZnkgdXNlciBwcm9jZXNzhf9eAAUAAAggZGlmZmVycyBmcm9tIHRoZSBvdGhl
+      ciByZXF1ZXN0cywgYmVjYXVzZSBpdCBpcyBhbG1vc3QgY29tcGxldGVseSBhdXRvbWF0aWMuIEFuIGFn
+      ZW50LIX/CQAFAQAIIACF/xwABQEACFJlY2VydGlmaWNhdGlvbkNoZWNrhf9rAAUAAAgsIHJ1bm5pbmcg
+      YWJvdXQgb25jZSBhIHdlZWssIGRldGVybWlucyB3aGljaCBpZC1maWxlcyBhcmUgYWJvdXQgdG8gZXhw
+      aXJlIHdpdGhpbiBhIGNlcnRpYW4gcGVyaW9kLiAAgQKDBAEAhf8IAAUAAAiBAoMEAQCF/2UABQAACFRo
+      ZSB0aW1lIHRyZXNob2xkIGlzIGNvbmZpZ3VyZWQgaW4gVU1UIENvbmZpZ3VyYXRpb24gYW5kIGNvdWxk
+      IGJlIGJldHdlZW4gb25lIGFuZCBzaXggbW9udGhzLgCBAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP//
+      //+F/wgABQAACIECgwQBAIX/FwAFAAAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/
+      fv8MACAACAAAAAAA9v+HAAAAAAACAAEAAAAdAE4AAAAAAAAAAABDTj1IYWRkb2NrL09VPUR2bHAvTz1J
+      bmZvd2FyZURhdGFiYXNlICdOVEY6IFVNVCBIZWxwIDguNScsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQg
+      J1JlY2VydGlmaWNhdGlvbiBwcm9jZXNzJwAAAK3/DAALAAgAAAAAAN0GAACR/5H/dAABAERhdGFiYXNl
+      ICdOVEY6IFVNVCBIZWxwIDguNScsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQgJ1JlY2VydGlmaWNhdGlv
+      biBwcm9jZXNzJwBDTj1IYWRkb2NrL09VPUR2bHAvTz1JbmZvd2FyZQAA3gYAAJH/3QYAAIX/hf8eAAUA
+      BAhSZWNlcnRpZnkgdXNlciBwcm9jZXNz0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEA
+      hf8IAAUAAAg=
+remaining: []

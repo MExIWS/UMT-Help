@@ -1,0 +1,23 @@
+---
+class: 4
+flags: 0x0000
+unid: AF1AE07EFA5E2A3AC1257615002A4798
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+  - name: $FileNames
+    type: text
+    data: plugin.xml
+    signed: true
+  - name: $Flags
+    type: text
+    data: ~Cg4
+  - name: $TITLE
+    type: text
+    data: plugin.xml
+  - name: $FileData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

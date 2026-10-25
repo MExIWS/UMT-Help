@@ -1,0 +1,129 @@
+---
+class: 1
+flags: 0x0000
+unid: 73E821D8DFA76EB9C1257611006E9CA8
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: EBA1B743F3A41018C1257615003C8130
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: EBA1B743F3A41018C1257615003C8130
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-13T22:08:10.64+02:00"
+        dst: true
+      - data: "2009-08-13T22:08:24.40+02:00"
+        dst: true
+      - data: "2009-08-13T22:08:32.23+02:00"
+        dst: true
+      - data: "2009-08-13T22:08:35.48+02:00"
+        dst: true
+      - data: "2009-08-13T22:08:41.83+02:00"
+        dst: true
+      - data: "2009-08-13T22:09:02.20+02:00"
+        dst: true
+      - data: "2009-08-17T17:35:50.36+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Overview\\UMTID server task"
+      - "Requests\\UMTID server task"
+      - "Admin\\UMTID server task"
+      - "UMTID\\UMTID server task"
+      - "Id-files\\UMTID server task"
+      - "Automatic update id-files\\UMTID server task"
+      - "Server tasks\\UMTID server task"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T14:14:21.43+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: UMTID server task
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: UMTID server task
+  - name: Subject_disp
+    type: text
+    data: UMTID server task
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Overview
+      - Requests
+      - Admin
+      - UMTID
+      - Id-files
+      - Automatic update id-files
+      - Server tasks
+  - name: levelEntry
+    type: text
+    data: UMTID server task
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+GAAUAAAhUaGUg
+      VU1USUQgc2VydmVyIHRhc2sgcGVyZm9ybXMgYXV0b21hdGljIHNlcnZlciBzaWRlIHVwZGF0ZSBpZC1m
+      aWxlcy4gRG9taW5vIHZlcnNpb24gNy4wLjIgaXMgcmVxdWlyZWQgZm9yIHRoaXMgZnVuY3Rpb25hbGl0
+      eS6BAoMEAQCF/wgABQAACIECgwQBAIX/kQAFAAAIVU1USUQgc2hvdWxkIGJlIHNjaGVkdWxlcyB0byBy
+      dW4gYXQgbGVhc3Qgb25jZSBhIGRheSwgd2hpY2ggY291bGQgYmUgYWNjb21wbGlzaGVkIGJ5IGNyZWF0
+      aW5nIGEgcHJvZ3JhbSBkb2N1bWVudCBpbiB0aGUgRG9taW5vIERpcmVjdG9yeS4AgQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/0UABQAACFRoZSBzZXJ2ZXIgdGFzayBjb3VsZCBhbHNvIGJlIGxvYWRlZCBmcm9tIHRo
+      ZSBzZXJ2ZXIgY29uc29sZToAgQKDBAEAhf8IAAUAAAiBAoMEAQCF/0MABQEACGxvYWQgVU1USUQgPGZp
+      bGVwYXRoIHRvIFVNVCBNYWluPiA8VU1UIHJlZ2lzdHJhdGlvbiBzZXJ2ZXI+AIECgwQBAIX/bgAFAAAI
+      SWYgdGhlIG5vdGVzLmluaSBmaWxlIG9uIHRoZSBzZXJ2ZXIsIG9uIHdoaWNoIHRoZSBzZXJ2ZXIgdGFz
+      ayBpcyBydW5uaW5nLCBpcyB1cGRhdGVkIHdpdGggdGhlIGtleXdvcmRzgQKDBAEAhf8lAAUAAAgkdW10
+      RGJQYXRoPTxwYXRoIHRvIFVNVCBNYWluPgCBAoMEAQCF/1kABQAACCR1bXRTZXJ2ZXI9PFJlZ2lzdHJh
+      dGlvbiBzZXJ2ZXIgbmFtZT4AdGhlIFVNVElEIHNlcnZlciB0YXNrIGNvdWxkIGJlIGxvYWRlZCB1c2lu
+      ZwCBAoMEAQCF/xIABQEACGxvYWQgVU1USUSBAoMEAQCF/wgABQAACIECgwQBAIX/KgAFAAAIVGhlIHNl
+      cnZlciB0YXNrIGlzIHVubG9hZGVkIHVzaW5nOoECgwQBAIX/CAAFAAAIgQKDBAEAhf8XAAUBAAh0ZWxs
+      IFVNVElEIHF1aXQAgQKDBAEAhf8IAAUAAAiBAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgA
+      BQAACIECgwQBAIX/FwAFAAAIUmVsYXRlZCB0b3BpY3M6AN0GAACt/37/DAAgAAgAAAAAAPb/WQAAAAAA
+      AgABAAAAAAA9AAAAAAAAAAAARGF0YWJhc2UgJ1VNVCBIZWxwIDYuNSAwNDA4MTgnLCBWaWV3ICdJbmRl
+      eCcsIERvY3VtZW50ICdVbml0JwAAAK3/DAALAAgAAAAAAN0GAACR/5H/RgABAERhdGFiYXNlICdVTVQg
+      SGVscCA2LjUgMDQwODE4JywgVmlldyAnSW5kZXgnLCBEb2N1bWVudCAnVW5pdCcAAADeBgAAkf/dBgAA
+      hf+F/wgABQAECNIIAQAAAP8A3gYAAIX/rgLeBgAArgDdBgAAhf+F/wgABQAECNIIAQAAAP8A3gYAAIX/
+      gQKDBAEA3QYAAIX/hf8IAAUABAjSCAEAAAD/AN4GAACF/90GAACt/37/DAAgAAgAAAAAAPb/hAAAAAAA
+      AgABAAAAHQBLAAAAAAAAAAAAQ049SGFkZG9jay9PVT1EdmxwL089SW5mb3dhcmVEYXRhYmFzZSAnTlRG
+      OiBVTVQgSGVscCA4LjUnLCBWaWV3ICdJbmRleCcsIERvY3VtZW50ICc0LiBVcGRhdGluZyBpZC1maWxl
+      cycCAK3/DAALAAgAAAAAAN0GAACR/5H/cQADAERhdGFiYXNlICdOVEY6IFVNVCBIZWxwIDguNScsIFZp
+      ZXcgJ0luZGV4JywgRG9jdW1lbnQgJzQuIFVwZGF0aW5nIGlkLWZpbGVzJwBDTj1IYWRkb2NrL09VPUR2
+      bHAvTz1JbmZvd2FyZQAAAN4GAACR/90GAACF/4X/GQAFAAQIVXBkYXRpbmcgaWQtZmlsZXMA0ggJAAAA
+      /wDeBgAAhf+uAt4GAACuAN0GAACF/4X/CAAFAAQI0ggBAAAA/wDeBgAAhf+BAoMEAQDdBgAAhf+F/wgA
+      BQAECNIIAQAAAP8A3gYAAIX/
+remaining: []

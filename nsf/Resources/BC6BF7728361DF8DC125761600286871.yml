@@ -1,0 +1,71 @@
+---
+class: 1
+flags: 0x0100
+unid: BC6BF7728361DF8DC125761600286871
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-18T09:21:21.77+02:00"
+        dst: true
+      - data: "2009-08-18T09:21:44.63+02:00"
+        dst: true
+      - data: "2009-08-18T09:21:52.52+02:00"
+        dst: true
+      - data: "2009-08-18T09:21:59.45+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Unit configuration\\Deny groups"
+      - "Units\\Deny groups"
+      - "Groups\\Deny groups"
+      - "Deny access groups\\Deny groups"
+  - name: Subject
+    type: text
+    data: Deny access groups
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Deny access groups
+  - name: Subject_disp
+    type: text
+    data: Deny access groups
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Unit configuration
+      - Units
+      - Groups
+      - Deny access groups
+  - name: levelEntry
+    type: text
+    data: Deny groups
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+1AAUAAAhXaGVu
+      IGEgdXNlciBpcyBkZWxldGVkIHdpdGggVU1ULCB0aGUgdXNlciBjYW4gYXV0b21hdGljYWxseSBiZSBh
+      ZGRlZCB0byBhIGRlbnkgZ3JvdXAuIEFkZGluZCB1c2VycyB0byBkZW55IGdyb3VwcyBpcyBhbiBvcHRp
+      b25hbCBzZXR0aW5nIGFuZCBpcyBjb25maWd1cmVkIG9uIHRoZSB1bml0IGxldmVsLgCBAoMEAQCF/wgA
+      BQAACA==
+remaining: []

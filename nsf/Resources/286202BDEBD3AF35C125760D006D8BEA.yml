@@ -1,0 +1,74 @@
+---
+class: 1
+flags: 0x0000
+unid: 286202BDEBD3AF35C125760D006D8BEA
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2011-02-17T11:38:06.67+01:00"
+      - data: "2011-02-17T11:38:54.71+01:00"
+      - data: "2011-02-17T11:39:22.53+01:00"
+      - data: "2011-02-17T11:40:05.30+01:00"
+      - data: "2011-02-17T11:40:31.72+01:00"
+      - data: "2011-02-25T15:46:15.57+01:00"
+      - data: "2012-01-02T14:54:30.71+01:00"
+      - data: "2012-01-02T14:54:36.22+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\News"
+      - "News\\News"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-15T14:17:16.00+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: "1.2.1 What's new in UMT 8.5.4?"
+  - name: SubjectNumber
+    type: text
+    data: 1.2.1
+  - name: SubjectText
+    type: text
+    data: "What's new in UMT 8.5.4?"
+  - name: Subject_disp
+    type: text
+    data: "1.2.1\tWhat's new in UMT 8.5.4?"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - News
+  - name: levelEntry
+    type: text
+    data: News
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAIAAQC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/EQAFBQAIQlVHIEZJWEVTAIX/CQAFAQAI
+      AACF/9cABQAACFVNVCBNYWluOiBGaXhlZCBhIGxvb2t1cCBlcnJvciBvbiB1bmlxdWUgSUQ6cy4AVU1U
+      IE1haW46IEFkZGVkIHJlbW92YWwgb2YgSUQgVmF1bHQgSUQgY29weSB3aGVuIGEgdXNlciBhY2NvdW50
+      IGlzIGRlbGV0ZWQuAFVNVCBNYWluOiBGaXhlZCBhIHBlcmZvcm1hbmNlIGlzc3VlIHRvIHNwZWVkIHVw
+      IHRoZSBwcm9jZXNzaW5nIG9mIFBhc3N3b3JkIHJlY292ZXJ5LgCBAoL/WgACAAAAAAAAAAAAvAaiI7wG
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhgEAAAAAVIcAAAAAAAAAAAAA
+      AAABAAAABAAAAIMEAgCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgABQAACIECgwQCAIX/FwAFAAAI
+      UmVsYXRlZCB0b3BpY3M6AIECgwQCAIX/CAAFAAAI
+remaining: []

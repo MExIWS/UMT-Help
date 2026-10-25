@@ -1,0 +1,57 @@
+---
+class: 1
+flags: 0x0100
+unid: A96906026CB499C1C125778300687688
+items:
+  - name: $Revisions
+    type: time
+    data: "2010-08-18T21:01:00.88+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "UMT Mailin\\UMT Mailin UI"
+      - "Processed views\\UMT Mailin UI"
+  - name: Subject
+    type: text
+    data: 3.2 Processed views
+  - name: SubjectNumber
+    type: text
+    data: "3.2"
+  - name: SubjectText
+    type: text
+    data: Processed views
+  - name: Subject_disp
+    type: text
+    data: "3.2\tProcessed views"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - UMT Mailin
+      - Processed views
+  - name: levelEntry
+    type: text
+    data: UMT Mailin UI
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAiBAoME
+      AQCF/wgABQAACA==
+remaining: []

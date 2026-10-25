@@ -1,0 +1,80 @@
+---
+class: 1
+flags: 0x0100
+unid: E4432461416E5EC3C12576150031AD71
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T11:02:36.65+02:00"
+        dst: true
+      - data: "2009-08-17T11:02:46.32+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Dedicated words\\Confidential ID"
+      - "Confidential ID\\Confidential ID"
+      - "Confidential accounts\\Confidential ID"
+      - "Security\\Confidential ID"
+      - "Id-files\\Confidential ID"
+  - name: OriginalModTime
+    type: time
+    data: "2006-10-20T17:32:18.95+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Confidential ID
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Confidential ID
+  - name: Subject_disp
+    type: text
+    data: Confidential ID
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Dedicated words
+      - Confidential ID
+      - Confidential accounts
+      - Security
+      - Id-files
+  - name: levelEntry
+    type: text
+    data: Confidential ID
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9gAAUAAAhJbiBh
+      biBvcmdhbml6YXRpb24sIHNvbWUgaWQtZmlsZXMgc2hvdWxkIGJlIGhhbmRsZWQgd2l0aCBzb21ld2hh
+      dCBtb3JlIGNhcmUgdGhhbiBvdGhlcnMugQKDBAEAhf9fAAUAAAhVTVQgZ2l2ZXMgdGhlIHBvc3NpYmls
+      aXR5IHRvIGNob29zZSBpZiBhIG5ldyB1c2VyIGFjY291bnQgc2hvdWxkIGJlIGEgY29uZmlkZW50aWFs
+      IElELiAAgQKDBAEAhf8IAAUAAAiBAoMEAQCF/80ABQAACENvbmZpZGVudGlhbCBhY2NvdW50IGFyZSBj
+      b25maWRlbnRpYWwgaW4gdGhlIHNjb3BlIG9mIFBhc3N3b3JkIHJlY292ZXJ5LiBPbmx5IGFkbWluaXN0
+      cmF0b3JzIGFuZCBSQSBwZXJzb25zIHdpdGggdGhlICJbcmFSZWNvdmVyXSIgcm9sZSBhcmUgYWxsb3dl
+      ZCB0byByZXF1ZXN0IGEgUGFzc3dvcmQgcmVjb3Zlcnkgb24gdGhvc2UgYWNjb3VudHMuAIECgwQBAIX/
+      CAAFAAAIgQKDBAEAhf+jAAUAAAhUaGUgb3B0aW9uICJBbGxvdyBjb25maWRlbnRpYWwgYWNjb3VudHMi
+      IGluIFVNVCBjb25maWd1cmF0aW9uIChVc2VyIHNldHRpbmdzIC0gVXNlciB0eXBlcykgbXVzdCBiZSBz
+      ZWxlY3RlZCBpbiBvcmRlciB0byBtYWtlIHRoZSBjb25maWRlbnRpYWwgSUQ6cyB0byB3b3JrLgCBAoME
+      AQCF/wgABQAACA==
+remaining: []

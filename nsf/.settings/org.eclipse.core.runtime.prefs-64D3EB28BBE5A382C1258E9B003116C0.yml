@@ -1,0 +1,23 @@
+---
+class: 4
+flags: 0x0000
+unid: 64D3EB28BBE5A382C1258E9B003116C0
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+  - name: $FileNames
+    type: text
+    data: ".settings/org.eclipse.core.runtime.prefs"
+    signed: true
+  - name: $Flags
+    type: text
+    data: ~C4g
+  - name: $TITLE
+    type: text
+    data: ".settings/org.eclipse.core.runtime.prefs"
+  - name: $FileData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

@@ -1,0 +1,139 @@
+---
+class: 1
+flags: 0x0000
+unid: E582CE6BF88E56E7C125761000548B5C
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 76482256CB51C0D1C125760D006E0DE6
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 76482256CB51C0D1C125760D006E0DE6
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: C88535886EA49D15C1257610006E3303
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: C88535886EA49D15C1257610006E3303
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T17:23:27.00+02:00"
+        dst: true
+      - data: "2009-08-12T17:23:48.83+02:00"
+        dst: true
+      - data: "2009-08-12T17:24:12.93+02:00"
+        dst: true
+      - data: "2009-08-12T21:56:49.13+02:00"
+        dst: true
+      - data: "2009-08-12T21:57:56.34+02:00"
+        dst: true
+      - data: "2009-08-12T21:58:32.28+02:00"
+        dst: true
+      - data: "2009-08-12T22:02:48.15+02:00"
+        dst: true
+      - data: "2009-08-12T22:03:07.81+02:00"
+        dst: true
+      - data: "2009-08-12T22:03:18.84+02:00"
+        dst: true
+      - data: "2009-08-12T22:13:37.91+02:00"
+        dst: true
+      - data: "2009-08-12T22:13:58.24+02:00"
+        dst: true
+      - data: "2009-08-12T22:19:41.89+02:00"
+        dst: true
+      - data: "2009-11-11T16:01:28.22+01:00"
+      - data: "2009-11-11T16:01:50.28+01:00"
+      - data: "2009-11-11T16:02:18.25+01:00"
+      - data: "2010-08-23T16:30:29.54+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "UMT ID\\ID Vault"
+      - "Id-files\\ID Vault"
+      - "ID Vault\\ID Vault"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-10T13:07:23.55+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 2.1 Configuring UMT and ID Vault
+  - name: SubjectNumber
+    type: text
+    data: "2.1"
+  - name: SubjectText
+    type: text
+    data: Configuring UMT and ID Vault
+  - name: Subject_disp
+    type: text
+    data: "2.1\tConfiguring UMT and ID Vault"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - UMT ID
+      - Id-files
+      - ID Vault
+  - name: levelEntry
+    type: text
+    data: ID Vault
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/CAAUAAAhUaGlz
+      IHNlY3Rpb24gY292ZXJzIGhvdyB0byBjb25maWd1cmUgVU1UIHRvIHdvcmsgdG9nZXRoZXIgd2l0aCBJ
+      RCBWYXVsdC4gRm9yIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQgY29uZmlndXJpbmcgSUQgVmF1bHQgaXRz
+      ZWxmLCBwbGVhc2UgcmVhZCB0aGUgRG9taW5vIEFkbWluaXN0cmF0aW9uIGhlbHAgZG9jdW1lbnRhdGlv
+      bi6BAoMEAQCF/wgABQAACIECgv9aAAIAAAAAAAAAAAAkCKIjJAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAACGEQAAAABUhGgBAABoAQAAAAAAAAEAAAAEAAAAgwQCAIX/RAAFAAAI
+      RW5hYmxlIElEIFZhdWx0IGluIFVNVCBNYWluIENvbmZpZ3VyYXRpb24gLSBTeXN0ZW0gc2V0dGluZ3Mu
+      gQKDBAIAhf9IAAUAAAhJbiB0aGUgTWFpbiBjb25maWd1cmF0aW9uLCBzZWxlY3QgdGhlIGRlZmF1bHQg
+      SUQgVmF1bHQgZGF0YWJhc2UugQKDBAIAhf+SAAUAAAhJZiBtdWx0aXBsZSBJRCBWYXVsdCBzaG91bGQg
+      YmUgdXNlZCwgZW5hYmxlIHRoZSBwcm9wZXIgSUQgVmF1bHQgaW4gdGhlIHVuaXRzLiBJZiBubyBJRCBW
+      YXVsdCBpcyBkZWZpbmVkLCB0aGUgZ2xvYmFsIElEIFZhdWx0IHdpbGwgYmUgdXNlZC6BAoMEAgCF/2oA
+      BQAACE1ha2Ugc3VyZSB0aGF0IHRoZSBPIG9yIE9VIGNlcnRpZmljYXRlcyB0byBiZSB1c2VkIGFyZSBJ
+      RCBWYXVsdC1lbmFibGVkIHRocm91Z2ggYSBzZWN1cml0eSBwb2xpY3kugQKDBAIAhf82AQUAAAhJZiBl
+      bmFibGluZyB0aGUgIkluc3RhbnQgcGFzc3dvcmQgcmVjb3ZlcnkiIGZlYXR1cmUsIG1ha2Ugc3VyZSB0
+      aGF0IHRoZSBpZCB1c2VkIHRvIHNpZ24gdGhlIEluc3RhbnRQYXNzd29yZFJlc2V0IGFnZW50IGlzIGVu
+      YWJsZWQgYXMgIlBhc3N3b3JkIHJlc2V0IGF1dGhvcml0eSIgaW4gdGhlIElEIFZhdWx0IGNvbmZpZ3Vy
+      YXRpb24uIEFuIGFsdGVybmF0aXZlIGlzIHRoYXQgdGhlIGNvbXBsZXRlIFVNVCBhcHBsaWNhdGlvbiBp
+      cyBzaWduZWQgd2l0aCBhbiBpZCBlbmFibGVkIGFzICJQYXNzd29yZCByZXNldCBhdXRob3JpdHkiLoEC
+      gwQCAIX/YgAFAAAITWFrZSBzdXJlIHRoYXQgdGhlIHNlcnZlciBvbiB3aGljaCBVTVQgcnVucyBpcyBl
+      bmFibGVkIGFzICJQYXNzd29yZCByZXNldCBhdXRob3JpdHkiIGFsc28ugQKDBAIAhf9wAAUAAAhJZiBh
+      IHNwZWNpYWwgIlBhc3N3b3JkIHJlc2V0IGF1dGhvcml0eSIgaWQgaXMgdXNlZCwgc2lnbiB0aGUgKElu
+      c3RhbnRQYXNzd29yZFJlc2V0KSBhZ2VudCB3aXRoIHRoYXQgaWQuAIECgwQBAIX/CAAFAAAIgQKDBAEA
+      hf8IAAUAAAjJ/xAABAAAAGQAHAD/////hf8IAAUAAAiBAoMEAQCF/xcABQEACFJlbGF0ZWQgdG9waWNz
+      OgCBAoMEAQCF/wgABQEACN0GAACt/37/DAAgAAgAAAAAAPb/HAAAAAAAAgABAAAAAAAAAAAAAAAAAAAA
+      AACt/wwACwAIAAAAAADdBgAAkf+R/wkAAQAAAAAA3gYAAJH/3QYAAIX/hf8wAAUABAhVTVQgTWFpbiBD
+      b25maWd1cmF0aW9uIC0gU3lzdGVtIHNldHRpbmdz0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAI
+      gQKDBAEAhf8IAAUAAAjdBgAArf9+/wwAIAAIAAAAAAD2/6UAAAAAAAIAAQAAAB0AbAAAAAAAAAAAAENO
+      PUhhZGRvY2svT1U9RHZscC9PPUluZm93YXJlRGF0YWJhc2UgJ05URjogVU1UIEhlbHAgOC41JywgVmll
+      dyAnQ29udGVudHMnLCBEb2N1bWVudCAnUGFzc3dvcmQgY2hhbmdlIHRocm91Z2ggSW5zdGFudFBhc3N3
+      b3JkUmVzZXQgYWdlbnQnAgAArf8MAAsACAAAAAAA3QYAAJH/kf+SAAMARGF0YWJhc2UgJ05URjogVU1U
+      IEhlbHAgOC41JywgVmlldyAnQ29udGVudHMnLCBEb2N1bWVudCAnUGFzc3dvcmQgY2hhbmdlIHRocm91
+      Z2ggSW5zdGFudFBhc3N3b3JkUmVzZXQgYWdlbnQnAENOPUhhZGRvY2svT1U9RHZscC9PPUluZm93YXJl
+      AADeBgAAkf/dBgAAhf+F/zoABQAECFBhc3N3b3JkIGNoYW5nZSB0aHJvdWdoIEluc3RhbnRQYXNzd29y
+      ZFJlc2V0IGFnZW500ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

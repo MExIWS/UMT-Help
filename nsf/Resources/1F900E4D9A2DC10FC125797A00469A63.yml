@@ -1,0 +1,91 @@
+---
+class: 1
+flags: 0x0000
+unid: 1F900E4D9A2DC10FC125797A00469A63
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2012-01-03T13:51:10.43+01:00"
+      - data: "2012-01-03T13:51:33.84+01:00"
+      - data: "2012-01-03T13:51:42.16+01:00"
+      - data: "2012-01-03T13:52:06.49+01:00"
+      - data: "2012-01-03T14:01:44.74+01:00"
+      - data: "2012-01-03T14:01:56.49+01:00"
+      - data: "2012-01-03T14:26:08.56+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "New user\\Internet address"
+      - "Internet address\\Internet address"
+      - "Change user name\\Internet address"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-14T14:31:43.31+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Internet address
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Internet address
+  - name: Subject_disp
+    type: text
+    data: Internet address
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - New user
+      - Internet address
+      - Change user name
+  - name: levelEntry
+    type: text
+    data: Internet address
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8WAAUBAAhDcmVh
+      dGVkIGJ5IFVNVIECgwQBAIX/GwEFAAAIVGhlIGludGVybmV0IGFkZHJlc3MgY2FuIGJlIGNyZWF0ZWQg
+      YnkgVU1UIGFjY29yZGluZyB0byBhIHNldCBvZiBydWxlcyBkZWZpbmVkIGluIHRoZSBTeXN0ZW0gc2V0
+      dGluZ3MgY29uZmlndXJhdGlvbi4gVU1UIG1ha2VzIHN1cmUgdGhhdCB0aGUgaW50ZXJuZXQgYWRkcmVz
+      cyBpcyB1bmlxdWUgaW4gdGhlIERvbWlubyBEaXJlY3RvcnkgYW5kIG1hbmFnZXMgdGhlIHVuaXF1ZW5l
+      c3MgdGhyb3VnaCBydWxlcyB3aGljaCBhcmUgYWxzbyBzZXQgaW4gdGhlIFN5c3RlbSBzZXR0aW5ncy4A
+      gQKDBAEAhf8IAAUAAAiBAoMEAQCF/x0ABQEACE1hbnVhbC9leHRlcm5hbCBpbnB1dACBAoMEAQCF/yQB
+      BQAACFVNVCBjYW4gYmUgY29uZmlndXJlZCB0byBtYW5hZ2UgbWFudWFsIGlucHV0IG9mIHRoZSBpbnRl
+      cm5ldCBhZGRyZXNzIHRocm91Z2ggdGhlIHVzZXIgaW50ZXJmYWNlIG9yIGZyb20gYW4gZXh0ZXJuYWwg
+      c291cmNlIGlmIHRoZSBpbnRlZ3JhdGlvbiBvcHRpb24gaXMgdXNlZC4gSW4gdGhhdCBjYXNlLCBVTVQg
+      Y2hlY2tzIGlmIHRoZSBwcm92aWRlZCBpbnRlcm5ldCBhZGRyZXNzIGlzIHVuaXF1ZSBpbiB0aGUgRG9t
+      aW5vIERpcmVjdG9yeSBhbmQgcmV0dXJucyBhbiBlcnJvciBpZiBpdCBpcyBub3QugQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/wwABQEACEJvdGiBAoMEAQCF/xoBBQAACElmIHRoZSBpbnRlZ3JhdGlvbiBvcHRpb24g
+      aXMgdXNlZCwgVU1UIGNhbiBiZSBjb25maWd1cmVkIHRvIGVpdGhlciBtYW5hZ2UgdGhlIGludGVybmV0
+      IGFkZHJlc3MgaW4gdGhlIHNhbWUgd2F5IG9yIHRvIGJlIG1hbmFnZWQgZGlmZmVyZW50bHkgZGVwZW5k
+      aW5nIG9uIGlmIHRoZSBkYXRhIHNvdXJjZSBpcyBleHRlcm5hbCBvciBub3QuIFRoaXMgaXMgc2V0IGlu
+      IHRoZSBTeXN0ZW0gc2V0dGluZ3MgLSBBY2NvdW50IC0gSW50ZXJuZXQgQWRkcmVzcyAtIEV4dGVybmFs
+      IG9wdGlvbi6BAoMEAQCF/wgABQAACIECgwQBAIX/EgAFAQAIU2hvcnQgbmFtZYECgwQBAIX/pAAFAAAI
+      SWYgdGhlIGludGVybmV0IGFkZHJlc3MgaXMgY2hhbmdlZCB0aHJvdWdoIGEgUmVuYW1lIG9yIGEgQ2hh
+      bmdlIHVuaXQgcmVxdWVzdCwgVU1UIG1ha2VzIHN1cmUgdGhhdCB0aGUgb2xkIGludGVybmV0IGFkZHJl
+      c3MgaXMgYWRkZWQgdG8gdGhlIHNob3J0IG5hbWUgZmllbGQugQKDBAEAhf8IAAUAAAjJ/xAABAAAAGQA
+      OQD/////hf8IAAUAAAiBAoMEAQCF/xcABQEACFJlbGF0ZWQgdG9waWNzOgCBAoMEAQCF/0YABQAACFN5
+      c3RlbSBzZXR0aW5ncyAtIEFjY291bnQgLSBJbnRlcm5ldCBBZGRyZXNzIC0gRXh0ZXJuYWwgb3B0aW9u
+      gQKDBAEAhf8IAAUAAAg=
+remaining: []

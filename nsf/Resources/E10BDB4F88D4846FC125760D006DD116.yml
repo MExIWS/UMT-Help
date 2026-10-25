@@ -1,0 +1,64 @@
+---
+class: 1
+flags: 0x0100
+unid: E10BDB4F88D4846FC125760D006DD116
+items:
+  - name: $Revisions
+    type: time
+    data: "2009-08-09T21:59:29.54+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Encryption"
+      - "Security\\Encryption"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-20T16:06:53.02+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 3.2 Encryption
+  - name: SubjectNumber
+    type: text
+    data: "3.2"
+  - name: SubjectText
+    type: text
+    data: Encryption
+  - name: Subject_disp
+    type: text
+    data: "3.2\tEncryption"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Security
+  - name: levelEntry
+    type: text
+    data: Encryption
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/tAAUAAAhUaGUg
+      VU1UIGFwcGxpY2F0aW9uIGhhbmRsZXMgdmVyeSBzZW5zaWJsZSBpbmZvcm1hdGlvbi4gSW4gb3JkZXIg
+      dG8ga2VlcCBhIGhpZ2ggc2VjdXJpdHkgbGV2ZWwgYWxvbmcgdGhlIHByb2Nlc3MsIFVNVCBzdG9yZXMg
+      YWxsIGNlcnRpZmljYXRlIGlkLWZpbGVzIGFuZCB1c2VyIGlkLWZpbGVzIGluIGVuY3J5cHRlZCBkYXRh
+      YmFzZXMgd2hpY2ggb25seSBhIGZldyBwZW9wbGUgaGF2ZSBhY2Nlc3MgdG8uAIECgwQBAIX/CAAFAAAI
+remaining: []

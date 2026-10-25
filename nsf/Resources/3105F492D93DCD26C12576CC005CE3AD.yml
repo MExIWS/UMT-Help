@@ -1,0 +1,80 @@
+---
+class: 1
+flags: 0x0100
+unid: 3105F492D93DCD26C12576CC005CE3AD
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-02-16T17:54:35.97+01:00"
+      - data: "2010-02-16T17:56:26.97+01:00"
+      - data: "2010-02-16T17:58:03.24+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "UMT ID\\ID Vault error messages"
+      - "Id-files\\ID Vault error messages"
+      - "ID Vault\\ID Vault error messages"
+      - "Signature error\\ID Vault error messages"
+      - "Password reset authority\\ID Vault error messages"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-10T13:07:23.55+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Password reset agent must be signed....
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Password reset agent must be signed....
+  - name: Subject_disp
+    type: text
+    data: Password reset agent must be signed....
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - UMT ID
+      - Id-files
+      - ID Vault
+      - Signature error
+      - Password reset authority
+  - name: levelEntry
+    type: text
+    data: ID Vault error messages
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAQAIgQKDBAEAhf8vAAUAAAhUaGlz
+      IGVycm9yIG1lc3NhZ2Ugd2lsbCBiZSBkaXNwbGF5ZWQgaWYAgQKDBAEAhf8IAAUAAAiBAoL/WgACAAAA
+      AAAAAAAAJAiiIyQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhgUAAAAA
+      VIRoAQAAaAEAAAAAAAABAAAABAAAAIMEAgCF/xkBBQAACHRoZSBhZ2VudCBydW5uaW5nIHRoZSByZXF1
+      ZXN0IGlzIG5vdCBwcm9wZXJseSBzaWduZWQuAFRoZSBhZ2VudCBwZXJmb3JtaW5nIHRoZSBwYXNzd29y
+      ZCByZXNldCBwcm9jZXNzIG11c3QgYmUgc2lnbmVkIHdpdGggYW4gYXV0aG9yaXplZCBwYXNzd29yZCBy
+      ZXNldCBhdXRob3JpdHkgaWQuIE1ha2Ugc3VyZSB0aGF0IHRoaXMgaWQgYW5kIHRoZSBzZXJ2ZXIgaWQg
+      cnVubmluZyB0aGUgYWdlbnQgYXJlIGJvdGggaW5jbHVkZWQgaW4gdGhlIElEIFZhdWx0IGNvbmZpZ3Vy
+      YXRpb24uAACBAoMEAgCF/4MABQAACGFuICJJbnN0YW50IHBhc3N3b3JkIHJlY292ZXJ5IiBpcyBwZXJm
+      b3JtZWQgb24gYSB1c2VyIGNlcnRpZmllZCBvbiBhbiBPIG9yIE9VIGNlcnRpZmljYXRlIHdoaWNoIGlz
+      IG5vdCBlbmFibGVkIGluIElEIFZhdWx0LgCBAoMEAQCF/wgABQAACIECgwQBAIX/CAAFAAAIyf8QAAQA
+      AABkABwA/////4X/CAAFAAAIgQKDBAEAhf8XAAUBAAhSZWxhdGVkIHRvcGljczoAgQKDBAEAhf8IAAUA
+      AAg=
+remaining: []

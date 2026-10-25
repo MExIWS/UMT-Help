@@ -1,0 +1,80 @@
+---
+class: 1
+flags: 0x0100
+unid: B3522C5C0316E705C12576CC005BEE6A
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-02-16T17:44:08.10+01:00"
+      - data: "2010-02-16T17:44:47.88+01:00"
+      - data: "2010-02-16T17:51:34.92+01:00"
+      - data: "2010-02-16T17:52:04.40+01:00"
+      - data: "2010-02-16T17:52:20.36+01:00"
+      - data: "2010-02-16T17:52:34.96+01:00"
+      - data: "2010-02-16T17:52:55.59+01:00"
+      - data: "2010-02-16T17:54:48.47+01:00"
+      - data: "2010-02-16T17:54:58.13+01:00"
+      - data: "2010-02-16T17:55:03.76+01:00"
+      - data: "2010-02-16T17:56:07.39+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "UMT ID\\ID Vault error messages"
+      - "Id-files\\ID Vault error messages"
+      - "ID Vault\\ID Vault error messages"
+      - "Signature error\\ID Vault error messages"
+      - "Password reset authority\\ID Vault error messages"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-10T13:07:23.55+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Entry not found in index
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Entry not found in index
+  - name: Subject_disp
+    type: text
+    data: Entry not found in index
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - UMT ID
+      - Id-files
+      - ID Vault
+      - Signature error
+      - Password reset authority
+  - name: levelEntry
+    type: text
+    data: ID Vault error messages
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf90AAUAAAhUaGlz
+      IGVycm9yIG1lc3NhZ2Ugd2lsbCBiZSBkaXNwbGF5ZWQgaWYgdGhlIHVzZXIgSUQgVmF1bHQgZG9jdW1l
+      bnQgY2Fubm90IGJlIGZvdW5kIGluIHRoZSBJRCBWYXVsdCBkYXRhYmFzZS6BAoMEAQCF/wgABQAACIEC
+      gwQBAIX/CAAFAAAIyf8QAAQAAABkABwA/////4X/CAAFAAAIgQKDBAEAhf8XAAUBAAhSZWxhdGVkIHRv
+      cGljczoAgQKDBAEAhf8IAAUAAAg=
+remaining: []

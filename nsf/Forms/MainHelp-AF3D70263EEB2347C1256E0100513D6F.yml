@@ -1,0 +1,2740 @@
+---
+class: 4
+flags: 0x0000
+unid: AF3D70263EEB2347C1256E0100513D6F
+items:
+  - name: $$ScriptName
+    type: text
+    data: MainHelp
+    signed: true
+    nonsummary: true
+  - name: $DesignerVersion
+    type: text
+    data: "6.5"
+    signed: true
+  - name: $FIELDS
+    type: text
+    data:
+      - Subject
+      - Subject_disp
+      - SubjectText
+      - SubjectNumber
+      - Index_Entries
+      - Body
+      - levelEntry
+      - entries
+      - book
+      - view
+  - name: $Flags
+    type: text
+    data: ""
+  - name: $FrameInfo
+    type: text
+    data:
+      - Main
+      - Topic
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $TITLE
+    type: text
+    data: MainHelp
+  - name: $WINDOWTITLE
+    type: formula
+    data: book
+    opaque: EAAAAA4ABQAEAGJvb2sDAA==
+    signed: true
+    nonsummary: true
+  - name: Body
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: Book
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: Index_Entries
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: Subject
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: SubjectNumber
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: SubjectNumber_disp
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: SubjectText
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: Subject_disp
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: View
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: entries
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: levelEntry
+    type: iou
+    type_num: 0
+    nonsummary: true
+    ph: true
+  - name: $ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 17
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 8
+        FontID: 0x00000000
+        HeightSpc: 2
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000001
+      - type: 0xffbe
+        Flags: 0x00000193
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@Command([FileSave]);\r\n@Command([EditDocument])"
+        data_opaque: PAAIABIAAgDGCwAAAAAAAO0BAwAHAAwABQAJMFMwRQAAABIAAgDoBwAAAAAAAO0BAwAHAAoAAwAJMFIA
+        title: Save and close
+  - name: $BODY
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8594
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 2
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 1440
+          - 10
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sAAAAAAAUAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00a3
+        opaque: ow6gBSgAPAAAAAAAAgA=
+      - type: 0x00a4
+        opaque: pBIAAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x6396
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 3
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 1724
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIAAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x6396
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 4
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9122
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Show in views:"
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIAAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 9122
+        Flags: 0x6396
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 9122
+        LineSpacing: 0
+        PABID: 5
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIBAbwGoiMAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xffb0
+        opaque: sP8UAAAABCAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: iv80AIpCAQUCIAIAAAAAAAACBQEACgAAAAAAAAAABAAAAAwAdmlldwEACABDb250ZW50cw==
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIBAqIjviQAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBICAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIDAbwGoiMAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Book:                "
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: |
+          iv9qAIrCAAUAMAIAAAAAAAACBQEACgAAAAAAAAAABAAAAEIAYm9vawQADAAIAA4AFgBJbnRyb2R1Y3Rp
+          b25PdmVydmlld0ltcGxlbWVudGF0aW9uVXNpbmcgdGhpcyBhcHBsaWNhdGlvbg==
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "                   "
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIDAqIjviQAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIEAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIFAbwGoiMAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Main Entries:"
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIFAqIjviQAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIGAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIGAbwGoiMAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: iv84AIrCAQUCIAIAAAAAAAACBQEACgAAAAAAAAAABwAAAAwAZW50cmllcwEACABPdmVydmlldwA=
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIGAqIjviQAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIHAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+        data: Level entry
+      - type: 0xff85
+        FontID: 0xa000005
+        data: ":"
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIJAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIJAbwGoiMAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: |
+          iv9EAIrCAAUAAAIAAAAAAAACBQEACgAAAAAAAAAACgAAABYAbGV2ZWxFbnRyeQIACQAHAERlc2NyaWJl
+          ZEV4YW1wbGU=
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIJAqIjviQAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIKAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBILAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBILAbwGoiMAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x6396
+        Flags2: 0x8754
+        JustifyMode: 3
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 6
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9122
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 6
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBILAqIjviQAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIMAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIMAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x8186
+        Flags2: 0x8755
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 7
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9122
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000006
+      - type: 0x0083
+        PABID: 7
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x0186
+        Flags2: 0x8554
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 8
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9122
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00cf
+        opaque: zw68BigAPAAAAAAAAgA=
+      - type: 0x00d0
+        opaque: 0BIAALwGkyMAAAACAAABAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 1
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 9
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 0
+        RightMargin: 9107
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 9
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0099
+        opaque: mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==
+      - type: 0x007d
+        opaque: fQAcAAAAAQCAAC0AywYAAAEAAAAAAAAAAAAAAA==
+      - type: 0x007c
+        opaque: |
+          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
+          Bi2xJTsCAQA7Pw==
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00d1
+        opaque: 0QYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIMAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBINAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBINAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBINAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIOAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 10
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 1724
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 10
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIOAbwGoiMAAAAHAAABAT8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 11
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9122
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 11
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIOAqIjviQAAAADAAABAj8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x8186
+        Flags2: 0x8755
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 12
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000006
+      - type: 0x0083
+        PABID: 12
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x0186
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 13
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sAAEAAAADAgEAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00cf
+        opaque: zw68BigAPAAAAAAAAwA=
+      - type: 0x00d0
+        opaque: 0BIAALwGxA0AAAACAAABAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x63d6
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 14
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 3524
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 14
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Subject number:"
+      - type: 0x00d0
+        opaque: 0BIAAcQNviSAcAACAAABAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3524
+        Flags: 0x63d6
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 3524
+        LineSpacing: 0
+        PABID: 15
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 15
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: iv8yAIoAAAUAMAIAAAAAAAACBQAACgAAAAAAAAAADQAAAAAAU3ViamVjdE51bWJlcgA=
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00d0
+        opaque: 0BIBALwGxA0AAAACAAABAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 14
+      - type: 0xff85
+        FontID: 0xa000105
+        data: Subject
+      - type: 0xff85
+        FontID: 0xa000101
+        data: ":"
+      - type: 0x00d0
+        opaque: 0BIBAcQNviSAcAACAAABAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 15
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: iv8wAIoAAAUAMAIAAAAAAAACAQAACgAAAAAAAAAACwAAAAAAU3ViamVjdFRleHQA
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00d0
+        opaque: 0BICALwGxA0AAAACAAABAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x6396
+        Flags2: 0x8755
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 16
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 3524
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000007
+      - type: 0x0083
+        PABID: 16
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00d0
+        opaque: 0BICAcQNviSAcAACAAABAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3524
+        Flags: 0x6396
+        Flags2: 0x8755
+        JustifyMode: 0
+        LeftMargin: 3524
+        LineSpacing: 0
+        PABID: 17
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000007
+      - type: 0x0083
+        PABID: 17
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: |
+          iv/WAIgBAAUAMAIAAAAAAAACBQEACqoAAAAAAAAABwAAAAAAqgABAFgACQBzdHJOdW1iZXIABQANAFN1
+          YmplY3ROdW1iZXIAAQAAAAsCrwAsACAABQANAFN1YmplY3ROdW1iZXIAAQABACAAIgKuAAwAAQAAAK4A
+          BAC1AwMABwAcABYACTFTMlM1UzZTOFM5UzEwUzEyUzE0UwAAJgAFAAkAc3RyTnVtYmVyAAUACwBTdWJq
+          ZWN0VGV4dAAiAgMABwAOAAcACTBSMVMyUwBTdWJqZWN0AA==
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00d1
+        opaque: 0QYAAAAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 18
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 9406
+        Tab:
+          - 2574
+          - 3424
+          - 4274
+          - 5124
+          - 5974
+          - 6824
+          - 7674
+          - 8524
+          - 9374
+          - 10224
+          - 11074
+          - 11924
+          - 12774
+          - 13624
+          - 14474
+          - 15324
+          - 16174
+          - 17024
+          - 17874
+          - 18724
+        TabTypes: 0x00000000
+        Tabs: 20
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 18
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: |
+          iv/aAIgBAAUAMAIAAAAAAAACBQEACqoAAAAAAAAADAAAAAAAqgABAFgACQBzdHJOdW1iZXIABQANAFN1
+          YmplY3ROdW1iZXIAAQAAAAsCrwAsACAABQANAFN1YmplY3ROdW1iZXIAAQABAAkAIgKuAAwAAQAAAK4A
+          BAC1AwMABwAcABYACTFTMlM1UzZTOFM5UzEwUzEyUzE0UwAAJgAFAAkAc3RyTnVtYmVyAAUACwBTdWJq
+          ZWN0VGV4dAAiAgMABwAOAAcACTBSMVMyUwBTdWJqZWN0X2Rpc3A=
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIPAKAFvAYAAAAGAAABAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 10
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00a4
+        opaque: pBIPAbwGoiMAAAAGAAABAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00a4
+        opaque: pBIPAqIjviQAAAACAAABAwAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 19
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 19
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00a4
+        opaque: pBIQAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x63d6
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 20
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 1724
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 20
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIQAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1724
+        Flags: 0x63d6
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1724
+        LineSpacing: 0
+        PABID: 21
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9122
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 21
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Text: (Always start the bodyfield with a blank line)"
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIQAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 9122
+        Flags: 0x8186
+        Flags2: 0x8755
+        JustifyMode: 0
+        LeftMargin: 9122
+        LineSpacing: 0
+        PABID: 22
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000006
+      - type: 0x0083
+        PABID: 22
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIRAKAFvAYAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 10
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIRAbwGoiMAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: iv8oAIIAAQAAAAIAAAAAAAACBQAACAAAAAAAAAAABAAAAAAAQm9keQ==
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0xff85
+        FontID: 0x8000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBIRAqIjviQAAAADAAABAT8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 9122
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 9122
+        LineSpacing: 0
+        PABID: 23
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 23
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAO/v7wA=
+      - type: 0x00a4
+        opaque: pBISAKAFvAYAAAAHAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBISAbwGoiMAAAAHAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBISAqIjviQAAAADAAABAwEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x6396
+        Flags2: 0x8754
+        JustifyMode: 3
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 24
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 2
+        RightMargin: 9406
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 24
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00dd
+        Signature: 0xffc9
+        Version: 1
+      - type: 0xffc9
+        opaque: yf8QAAYAAABjADkA//8AAA==
+      - type: 0x00d2
+        Color:
+          Flags: 0x0015
+          rgb: 0x000000
+        gradient:
+          Flags: 0x0001
+          rgb: 0x000000
+      - type: 0x00de
+        Signature: 0xffc9
+        Version: 1
+      - type: 0xff85
+        FontID: 0xa000105
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBITAKAFvAYAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBITAbwGoiMAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Table Templates (Fixed Width, Left):"
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00cf
+        opaque: zw68BigAPAAAAAAAAgA=
+      - type: 0x00d0
+        opaque: 0BIAALwGsxAAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1810
+        Flags: 0x63d6
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 1810
+        LineSpacing: 0
+        PABID: 25
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 4250
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 86
+          - 0
+          - 86
+          - 0
+          - 4343
+          - 99
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 25
+      - type: 0xff85
+        FontID: 0x8000105
+        data: Col 1
+      - type: 0x00d0
+        opaque: 0BIAAbMQhiMAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 4361
+        Flags: 0x63d6
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 4361
+        LineSpacing: 0
+        PABID: 26
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9046
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 86
+          - 0
+          - 86
+          - 0
+          - 4343
+          - 99
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 26
+      - type: 0xff85
+        FontID: 0x8000105
+        data: Col2
+      - type: 0x00d0
+        opaque: 0BIBALwGsxAAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 25
+      - type: 0xff85
+        FontID: 0x8000005
+        data: "Width 4,5 cm"
+      - type: 0x00d0
+        opaque: 0BIBAbMQhiMAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 26
+      - type: 0xff85
+        FontID: 0x8000005
+        data: "Width 8,5 cm"
+      - type: 0x00d1
+        opaque: 0QYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0xff85
+        FontID: 0xa000001
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sAAAAAAACAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00cf
+        opaque: zw68BigAPAAAAAAAAgA=
+      - type: 0x00d0
+        opaque: 0BIAALwGYQ0AAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1810
+        Flags: 0x63d6
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 1810
+        LineSpacing: 0
+        PABID: 27
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 3425
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 86
+          - 0
+          - 86
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 27
+      - type: 0xff85
+        FontID: 0x8000105
+        data: Col1
+      - type: 0x00d0
+        opaque: 0BIAAWENcxgAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3511
+        Flags: 0x63d6
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 3511
+        LineSpacing: 0
+        PABID: 28
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 6259
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 86
+          - 0
+          - 86
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 28
+      - type: 0xff85
+        FontID: 0x8000105
+        data: Col2
+      - type: 0x00d0
+        opaque: 0BIAAnMYhSMAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 6345
+        Flags: 0x63d6
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 6345
+        LineSpacing: 0
+        PABID: 29
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 9093
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 86
+          - 0
+          - 86
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000005
+      - type: 0x0083
+        PABID: 29
+      - type: 0xff85
+        FontID: 0x8000105
+        data: Col3
+      - type: 0x00d0
+        opaque: 0BIBALwGYQ0AAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 27
+      - type: 0xff85
+        FontID: 0x8000005
+        data: "Width 3,0 cm"
+      - type: 0x00d0
+        opaque: 0BIBAWENcxgAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0xff85
+        FontID: 0x8000005
+        data: Width 5 cm
+      - type: 0x00d0
+        opaque: 0BIBAnMYhSMAAFUCEREBAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0xff85
+        FontID: 0x8000005
+        data: Width 5 cm
+      - type: 0x00d1
+        opaque: 0QYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0xff85
+        FontID: 0xa000005
+        data: "  "
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Text properties in tables:"
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000001
+        data: "    "
+      - type: 0x0099
+        opaque: mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==
+      - type: 0x0095
+        opaque: lQAmAAAAAAAAAAAAAAABAAAAAAAAAAcBXgAIAAEACAADAHcAEAA=
+      - type: 0x0096
+        opaque: |
+          lgDcBgAAAAAAAAAAAAAjAMoGQCAAxwFAIADHAUAgAMcBQCAAxwHCAQJRDMUCAi0qQB8AxAHFAQMoAjTO
+          AQQvFC0qQB0AxQHFAQMoAjTOAQQvFC0qQBsAzQLIAcUBAygCNMIBAi8UwwICSVLCAgJzRcQCAi0qQA0A
+          xgHIAgEGQAwAAQLCBgECwgYBAsIGAQLCBgICBscBxQENKAI0AS9FAkwBKAJQUsMCBUkvFC0qQA4AxgIB
+          BkAMAA8BAgYBAgYBAgYBAgYBAgbHAcUBBigCNAEvFMUCCkkBKAItKi8ULSpADgABAcQCAQZADADCAc0C
+          AQbHAcUBCCgCNAFRDC0qxQEBKMICBUwvFC0qQA4AwgHCAgEGQAwAxAHNBscBxQENKAI0AS9FAlABKAJQ
+          VsMCBV1iFC0qQA4AwgHCBkAPAAEBxQEDKAI0wgECL0XDAgJJVsICCEwoAl10Ai0qQB0AxAFAIADHAUAg
+          AMcBQBIBxgJADgABAUASAscGQA4AQCAAxwFAIADHAUAgAMcBQCAAxwFAIADHAUAEA8UDBAQPAQRABAPG
+          AwMEDwFABATHCAQDDwEEQAQDxgMEBA8BBEAEA8YDAgQPQAcAQAQFxgQCDxBABQUDDxAIQAQGCQMTAxMD
+          EwMPEEAFBQIPEEAFBQIPEEAGAMcBQAQFxgQDDxAGxgQBFUACBccEBQYEBgQGxAQEDxAIE8QDARVAAgPC
+          AwEVxAMGBAYEBgQGxAMDDxAGQAMFxgQFBgQGBAbEBAMPEAZAAwXGBAUGBAYEBsQEAg8QQAYAxwFAAgUC
+          EhXCBQQSFQUSzgQDDxAGxgQBFcIEzgXGBAUGBAYEBsUEAw8QCMUDARVAAgPCAwEVwwMGBAYEBgQGwwMF
+          EwMPEAZAAwXFBAUGBAYEBsUEAw8QBskEzxLFBAUGBAYEBsUEAg8QQAYAxwHPBAESwgUDEgQVwgXPBAMP
+          EAbGBAEVwgTOBsUEAwYEBsgEBA8QCBPEAwEVQAIDwgMBFcMDBQYEBgQDwgTEAwMPEAbDBEACB8ULARLD
+          BAMGBAbIBAMPEAbIBAESzgsBBcQEAwYEBsgEAg8QQAYAxwHOBAESwgXDBAEVwgXPBAMPEAbGBAEVQAIF
+          xgQFBgQGBAbFBAMPEAjFAwEVxAMBBcgDAQXEAwEVwwMGBAYEBgQGwwMFEwMPEAbDBAELQAIIxBIBBcQE
+          BQYEBgQGxQQDDxAGxwQREgsECwQLBAsECwQLBAsECwXFBAUGBAYEBsUEAg8QQAYAxwHNBAESwgUBEsME
+          wgUBEs8EAw8QBsYEARXCBMwFyQQBBsgEBA8QCBPEAwEVwwMCBQbIAwIGBcMDARXEAwQEBgQDwgTEAwMP
+          EAbDBEACCcYFxQQBBsgEAw8QBscEARLCCw4ECwQLBAsECwQLBAsEBcYEAQbIBAIPEEAGAMcBzQTDBcQE
+          wgVAAgUDDxAGxgQBFcIEzAbKBAMGBAbFBAMPEAjFAwEVwgPCBQEEyAMBBMIFwgMBFcYDAwYEBsMDBRMD
+          DxAGQAIFwgQBBcwEAwYEBsUEAw8QBsYEARLCCw8FEgQLBAsECwQLBAsECwXHBAMGBAbFBAIPEEAGAMcB
+          zAQBEsIFARLDBAESwgVAAgUDDxAGxgQBFUAEBQQPEAgTxAMCFQNAAgkCAxXGAwIEA8IExAMDDxAGQAIF
+          wgQBBUACBcQEAw8QBsYEARLEBQ0SBAsECwQLBAsECwQFzwQCDxBABgDHAcwEwwUBEsMEwgUBEkACBQMP
+          EAbGBAEVwgRAAgnGBAMGBAbFBAMPEAjFAwEVwgPCBcoGwgXCAwEVxgMDBgQGwwMFEwMPEAZAAgXCBAIF
+          BssEAwYEBsUEAw8QBsYEAQXEEg0ECwQLBAsECwQLBAsFxwQDBgQGxQQCDxBABgDHAcwEwwXDBAESwgUB
+          EkACBQMPEAbGBAEVwgRAAgLOBAQPEAgTxAMBFcMDAgUGyAMCBgXDAwEVxgMCBAPCBMQDAw8QBkACBQEE
+          wwUBBkACBcIEAw8QBsUEBAUGEgTDCwwECwQLBAsECwQLBAXPBAIPEEAGAMcBzATDBcIEARLDBQIEFc8E
+          Aw8QBsYEARVABAUDDxAIxQMBFcQDAQXIAwEFxAMBFcwDBRMDDxAGQAIFAQXDBAEFQAIFwgQDDxAGxAQB
+          BcIEEQULBAsECwQLBAsECwQLBAsFzwQCDxBABgDHAcwEARXEBQESxAUBEs8EAw8QBsYEARXCBMwFQAIF
+          wgQEDxAIE8QDARVAAgPCAwEVzgMDDxAGQAIFAQXDBAEFQAIFwgQDDxAGxAQBBcIEwgUPCwQLBAsECwQL
+          BAsECwQFzwQCDxBABgDHAQ==
+      - type: 0x0096
+        opaque: |
+          lgDGBwAAAAAAAAAAAAAjALQHzQTDBQESwgTCBQESQAIFAw8QBsYEARXCBMwGQAIFwgQDDxAIxQMBFUAC
+          A8IDARXMAwUTAw8QBkACBQEEwwVAAgXDBAMPEAbFBMIFwgTPBc8EAg8QQAYAxwFABAXGBAMPEAbGBAEV
+          QAQFBA8QCBPEAwEVQAIDwgMBFc4DAw8QBkAEBccEAw8QBkAEBccEAg8QQAYAxwFABAXGBAMPEAZABAXH
+          BAMPEAhABAPFAwUTAw8QBkAEBccEAw8QBkAEBccEAg8QQAYAxwFABAXGBAMPEAZABAXHBAMPEAhABAoF
+          EwMTAxPCAwMPEAZABAXHBAMPEAZABAXHBAIPEEAGAMcBQAoEwwhABAPHA0ARBMUIQCADxwNAIAPHA0Ag
+          A8cDQCADxwNAIAPHA0AHC8UAAQNAGQsBAEAHC8UAAQRAGQsBAEAHC8UAAgQHQBkLQAcLxQACBAdAGQtA
+          BwvFAAIEB0AZC0AHC8UAAgQHQAULQAYBAQJAAgvDAEAJAQICAM4CxABABwvFAAIEB0AFC0AGAQECQAIL
+          wwBACQECAgDOAsQAQAcLxQACBAfIAAMOCRHJAANNBSdAAgsDAAIhwgUBIsYCBhoeFAIaM8IFBCYcAiHC
+          BQEiQAIBxwIBBEACC8IAxAIHHyYcAgoNDM4CAwoNDEAFAcUCAQDOAgEEwwBABwvFAAIEB8gAAw4JEcgA
+          BjY8LA4JEc8ABgoNDBsrHMMCCRsdBS4UAhoeFMMCBhYiAhsdGEACAcYCAgQHQAILAQDEAgchahcCCg0M
+          zgJAAgxABAEBAM4CAgQHwgBABwvFAAIEB8gAAw4JEcgABg4JEQ4JEc8AAh8iwgICIRjFAgcaHhQCCg0M
+          xwICFhdAAgHGAgIEB0ACCwEAwwIIG0R1VwwKDQzOAkACDEAEAQEAzgICBAfCAEAHC8UAAgQHyAADDgkR
+          wwAMDiQFN246BTdfBSkRzgACFhfCAgIWF8UCBhoeFAIKJcIFARfEAgUbHRgaM8IFCRgKSksFZB0FF8kC
+          AgQHQAILAQDDAg0KVRsrHApKSwUuFAIWwgUYFwIKJQUuFAoNIw0MAgpKSwUgDAolBSYcQAMBxwIBAM4C
+          AgQHwgBABwvFAAIEB8gAAw4JEcIADDVZMgAOCRkJEQ4JEc8AAhYXwgICFhfFAgoaHhQCHyAMGx0YwwIR
+          FiBcHRgCGj0+ORwKORwKDQzIAgIEB0ACCwEAwwIoFhgCFhcKJRgCFiIaHhQKMEYdGAIWIgoNIw0MAgoN
+          Iw0MGyscAgoNDEADAcYCAQDEAscFwwICBAfCAEAHC8UAAgQHyAADDgkRwgACDiTDBQc3WwkRDgkRzwAC
+          FhfCAgIWF8UCAxoeFMUCAhYXwgIGFiAMCg0MwwIJCg0MCg0MCg0MyAICBAdAAgsBAMICAhsdwwUfICMN
+          DAIKMEYdBRcCCg0MAgoNIw0jDQwCCg0jDQwKJcMFAiYcQAMBxgIBAMUCxQXEAgIEB8IAQAcLxQACBAfI
+          AAMOCRHCAAMOQizDAAYOCREOCRHPAAIfIsICAiEYxQIDGh4UxQIKFhcCFiAMAgoNDMMCCQoNDAoNDAoN
+          DMgCAgQHQAILAQDCAgIKVcICCRsrPg0MAgoNDMICFiEuTw0MAgoNIw0jDQwCCg0jDQwKMBRABAHCAgEA
+          xgLDBcUCAgQHwgBABwvFAAIEB8gAAw4JEcIADDUxJwAOQk4JEQ4JEc8ABgoNDBsrHMUCDRoeFAIWIgIa
+          PRwfLhTCAg8bHRgCGj0+DQwKDQwKDQzIAgIEB0ACCwEAwgICFhfDAiQWYzAUAhYiCjkcGytwHRgCFiIK
+          DUAeFAIfICMNDBsdGAIKMBRAAwHGAgEAxwIBBcYCAgQHwgBABwvFAAIEB8gAAg4kwwUNODY6BTcyDgkR
+          Njo7LM4AAgIhwgUFIgIaHhTCAgMaHhTCAgEhwgUDFwIhxAUDFxozwgUKGAoNDAoNDAoNDMgCAgQHQAIL
+          BQACGj0cwwICCiXDBQQgDAIWwgULFwIKJQUgDAoNDBbCBQteDUAzLhQaMwUmHEADAccCAQDOAgIEB8IA
+          QAcLxQACBAdABQvGAgMaVwxABQECBAdAAgsBAEAJAQICAM4CAgQHwgBABwvFAAIEB0AFC0AGAQMCBAdA
+          AgsBAEAJAQICAM4CAgQHwgBAAgvCAAMOJDjCAAQ1MSkRQAQLwgACBAdABQtABgEDAgQHQAILAQBACQEC
+          AgDOAgIEB8IAQAILwgAJDlQJEQAOJCkRzgADDgkRQAILAwAEB0AFC8IAQAYFAQdAAgvDAEAKBccEAQfC
+          AEACC8IACQ4JbTIAQWEJEUAEC8IAAgQHQAULwwBABg1AAgvEAEAKDccHwgBAAgvCAAoOCXZDAHFbCRFN
+          wwUHJw5gZjtOJMIFBikZCRkJWsIFAycAR8IFAUPHAAIEB0AZC0ACC8IACQ4JGQk/ZxkJEcMAGQ4JGVMy
+          NTEnAA4JGQkZJCcADgk/PCwOQizGAAIEB0AZC0ACC8IACw4JSGxyOA4JEQ4kwgUWKRkJEQ4JEQAOCRkJ
+          GQkRAA4JSDEFQ8gAAgQHQBkLQAILwgAgDgkRR1QnDgk/ZTIADgkZCREOCREADgkZCRkJEQAOCRHCAANN
+          OyzGAAIEB0AZCw==
+      - type: 0x0096
+        opaque: |
+          lgBCBgAAAAAAAAAAAAAYADAGQAILwgAlDgkRDkIsDgk/PCwAQSkZCRE1MScADgkZCRkJEQAOCRlTMjVZ
+          MsYAAgQHQBkLQAILwgADDgkRwwAEDgkRR8MFBykZCREADiTCBQspGQkZCREADgkRR8IFAUPHAAIEB0AF
+          C0AGAQECQAILwwBACQECAgDOAsQAQAQLxwACQThAAgvEAAIEB0AFC0AGAQECQAILwwBACQECAgDOAsQA
+          QAQLwwACNjrCBQI3MkACC8QAAgQHyAACDiTEBQEnyAADDgkRzgACAiHCBQEYwgIBIcIFARhABAHGAgEE
+          QAILwgDCAgIKJcQFARjGAgMKDQxAAwHDAgYaHkYdIAzDAgMaHhRAAgEBAM4CAQTDAEAHC8UAAgQHyAAD
+          DgkRwgAFDgkZCRHFAAMOCRHDAAMOCRHIAAwfIAwaHhQfIAwaHhRABAHFAgIEB0ACCwEAwgIDCg0MQAIO
+          wgIGCg0MCg0MQAIBDBYYFhgfFxsrHAIfIkACAQEAzgICBAfCAEAHC8UAAgQHyAADDgkRwgADNjwsxwAD
+          DgkRwwADDgkRyAACFhfCAgQWGBYXwgICFhhABAHFAgIEB0ACCwEAwgIDCg0MwgIDGh4UQAIPQAIBwgIJ
+          Gh4UGx0gDB8YwgIDG0QUzwIBAM4CAgQHwgBABwvFAAIEB8gAAw4JEcIABw4JGQkRDiTCBQQpGQlawgUF
+          aTEFKRHHAAwfIAwbHRcfIAwbHRdABAHFAgIEB0ACCwEAwgIDCg0MwgIMCg0MCiUFJhwKDQwhwwUSax0F
+          ICMNIzkcAgo5HAolBSYcxAICHyLEAgMbbwzDAgIhGM8CAQDOAgIEB8IAQAcLxQACBAfIAAIOJMMFEzss
+          DglIMScADgkZJCcADgkZCRHIAAwCIQUmWBcCIQUmWBdABAHFAgIEB0ACCwEAwgICCiXDBQsuFBsrHAIK
+          DSMNDMMCFAoNIw0MCg0MIRcCFiIbKxwCCg0MwwICFhfEAgIfGMQCAhYXzwIBAMQCxwXDAgIEB8IAQAcL
+          xQACBAfIABgOCREANTEnDgkZCREADgkZCREADgkZCRHIAMQCAiEXxAICIRdABAHFAgIEB0ACCwEAwgIJ
+          Cg0MAhsdGAolwwUGJj4NDAolwgUOICMNDAoNDAoNXCscCiXDBQImHMMCAhYXwwIDG0QUxAICFhfPAgEA
+          xQLFBcQCAgQHwgBABwvFAAIEB8gAAw4JEcIAE0E4DgkZCREADgkZCREADgkZCRHIAMMCAxsdGMMCAxsd
+          GEAEAcUCAgQHQAILAQDCAgMKDQzCAgUfIgowFMMCFgoNQD0cAgoNIw0MCg0MGys+DQwKMBTHAgIWF8MC
+          CR8XGx0gDAIWF88CAQDGAsMFxQICBAfCAEAHC8UAAgQHyAADDgkRwgATNjxOCUgxJwAOCRkJEQAOCRkJ
+          EcgADBYiAh8uFBYiAh8uFEAEAcUCAgQHQAILAQDCAgMKDQzCAiIaHkYdGAIKME8NQB4UAh8gIw0MCg0M
+          AhYFFwIbHRgCCjAUwwICHyLCAgoKMBQWGB8XAiEYzwIBAMcCAQXGAgIEB8IAQAcLxQACBAfIAAMOCRHC
+          AAc1MWgJEQ4kwgULKRkJEQAOCT86OyzHAAICIcIFARjCAgEhwgUBGEAEAcYCAgQHQAILAQDCAgMKDQzC
+          AgwbHRgaMwUmHAoNDBbDBQsgQDMuTw0MAgo5HMICBRozBSYcxAIDGh4UxAIHGx0gDBtEFM8CAQDOAgIE
+          B8IAQAcLxQACBAdAAgvFAAJBOEACCwEAQAYBAwIEB0ACCwEAQAUBxQICFhjIAgIfIkACAQEAzgICBAfC
+          AEAHC8UAAgQHQAILAwA2OsIFAjcyQAILAQBABgEDAgQHQAILAQBABQHFAgMaHhTGAgMaHhRAAgEBAM4C
+          AgQHwgBABwvFAAIEB0AFC0AGAQMCBAdAAgsBAEAJAQICAM4CAgQHwgBABwvFAAIEB0AFC8IAQAYFAQdA
+          AgvDAEAKBccEAQfCAEAHC8UAAgQHQAULwwBABg1AAgvEAEAKDccHwgBABwvFAAIEB0AZC0AHC8UAAgQH
+          QBkLQAcLxQABBEAZCwEAQAcFxQQBA0AZBQEEQCADxwNAIAPHA0AgA8cD
+      - type: 0x0097
+        opaque: |
+          lwBrAQAA6OjYAFDg////8PDg2Ni4AAAAqKiY4NjI8PDoQECA+NiYwMDA2Pj4SEiY6MiAODgoeHBIyOjY
+          gICACAgYuPj4cGhg2JhISJjYcLj4yMiA+Pi4+PjYmNj4mEgAcABw+LhwAEiYuHAAAHC42NiYQAAASAAA
+          AABIaKjYcMj4AECAcFDgmEhIsOjY+PjwAABwAFDoSABwkEAAkMjYcAAAuJDg6Oi46OigAAA4AGigSABI
+          aAAAAABgaABgcABImLiYyOig2Pi46KhgQABgQIi4mEhwmOD4uPjYyIg4yOi4+MjoSEhwcEgAmHDgsGgA
+          sMiAuNiY2LDoAHDwAJDwQAA4QEA4SHC4SLD4cEiYcHBIkEA4kGgAkKiA2PjY+ODwAEhIQEAAQEBgQGhg
+          SFDoSHBwSJi4aAA4aEAAaECAaIiAaKi4cHBwcLjYkEBgkGg4kMigmHCYmNjYsGg4sKhguJDouOD4uPi4
+          yKhg
+      - type: 0x0098
+        opaque: |
+          mACGAQAAAQEBAQEBAQEAAAAASW5kZXhJbnRybwA5AgICAgICAgJ4VAAATAAAAAAA/v/6/93dBgYGBgYG
+          BgYZAK2+GgCtvhsArb4cAK2+AwMDAwMDAwMAAAAAAAAAAAAAAAAAAAAACAgICAgICAgDAwMDAwMDAwMD
+          AwMDAwMDBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAxMDEwMTAxMAAAAAAAAAAAAAAAAAAAAACwsLCwsL
+          CwsAAAAAAAAAAAAAAAAAAAAAEhISEhISEhL04PH04PH04PH04PH04PH0BQUFBQUFBQX6/93dLhbd3ahr
+          AABsAAAAEwMTAxMDEwMuFt3dDHoBAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACg0MAgIC
+          AgL04PH04PH04PH04PH04PH0BwcHBwcHBwcAAAAAAAAAAKE+AAAAAAAAAgIKDQwCAgIAAAAAAAAAAAAA
+          AAAAAAAAAgICAgIKDQwAAAAAAAAAAAAAAAAAAAAA
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000105
+        data: "Large Pictures:"
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0xff85
+        FontID: 0xa000005
+        data: "Insert a table with one column (\"Fixed Width\" = 13 cm and table border = 0) above and under the picture so the width of the text is 13cm."
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBITAqIjviQAAAADAAABAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a5
+        opaque: pQYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x8900
+        Flags2: 0x8795
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 30
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0xffbb
+        PABID: 0x001e
+        Reserverd: m2EUADUBhHU=
+        data: "1"
+      - type: 0x0083
+        PABID: 30
+      - type: 0xff85
+        FontID: 0xa000005
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xfffe
+        opaque: |
+          /v9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      - type: 0xff8a
+        opaque: |
+          iv9qAIgBAAUAMAIAAAAAAAACBQAACjgAAAAAAAAADQAAAAAAOAAAACoABQAHAGVudHJpZXMAAQABAFwA
+          IgIFAAoAbGV2ZWxFbnRyeSICAwAHAAwABQAJMFMwRQBJbmRleF9FbnRyaWVzAA==
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0xa000005
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: $HTMLCode
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: X/8QAAIADwAHAAAAAAAAAA==
+  - name: $INFO
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+  - name: $V5ACTIONS
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x00bd
+        BackColor: 17
+        BorderStyle: 1
+        BorderWidth: 0
+        BtnHeight: 8
+        FontID: 0x00000000
+        HeightSpc: 2
+        LineColor: 0
+        LineStyle: 1
+        ShareID: 0x00000000
+        dwFlags: 0x00000001
+      - type: 0xff79
+        BackColor:
+          Flags: 0x0001
+          rgb: 0xece9d8
+        BtnBorderDisplay: 0
+        BtnTextJustify: 0
+        BtnWidthStyle: 0
+        ButtonColor:
+          Flags: 0x0001
+          rgb: 0xece9d8
+        FontColor:
+          Flags: 0x0009
+          rgb: 0x000000
+        LineColor:
+          Flags: 0x0001
+          rgb: 0x000000
+        Spare:
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+          - 0x00000000
+        barFontID: 0x00000000
+        barHeight:
+          Flags: 0x0000
+          Length:
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+            - 0
+          Reserved: 0
+          Units: 0
+        dwFlags: 0x00000003
+        wAppletHeight: 31
+        wBarBackgroundRepeat: 0
+        wBtnInternalMargin: 0
+        wBtnWidthAbsolute: 0
+        wSpare: 0x0000
+        wThemeSetting: 0
+      - type: 0xfffc
+        BorderFlags: 0
+        BorderStyle: 1
+        BorderWidthBottom: 1
+        BorderWidthLeft: 0
+        BorderWidthRight: 0
+        BorderWidthTop: 0
+        Color:
+          Flags: 0x0001
+          rgb: 0x000000
+        DropShadowWidth: 0
+        Flags: 0x00000000
+        InnerWidthBottom: 0
+        InnerWidthLeft: 0
+        InnerWidthRight: 0
+        InnerWidthTop: 0
+        OuterWidthBottom: 0
+        OuterWidthLeft: 0
+        OuterWidthRight: 0
+        OuterWidthTop: 0
+        dwSpare: 0x00000000
+        wSpares:
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+          - 0x0000
+      - type: 0xffbe
+        Flags: 0x00000193
+        IconIndex: 0
+        ShareId: 0
+        Type: 1
+        data: "@Command([FileSave]);\r\n@Command([EditDocument])"
+        data_opaque: PAAIABIAAgDGCwAAAAAAAO0BAwAHAAwABQAJMFMwRQAAABIAAgDoBwAAAAAAAO0BAwAHAAoAAwAJMFIA
+        title: Save and close
+remaining: []

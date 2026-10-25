@@ -1,0 +1,83 @@
+---
+class: 1
+flags: 0x0100
+unid: D62C8ECAC2779CCBC1257615004598F0
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T14:40:11.36+02:00"
+        dst: true
+      - data: "2009-08-17T14:40:17.35+02:00"
+        dst: true
+      - data: "2009-08-17T14:40:23.23+02:00"
+        dst: true
+      - data: "2009-08-17T14:40:36.88+02:00"
+        dst: true
+      - data: "2009-08-17T14:40:50.90+02:00"
+        dst: true
+      - data: "2009-08-17T15:22:24.60+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Retrying"
+      - "Requests\\Retrying"
+      - "Approver\\Retrying"
+      - "Retrying requests\\Retrying"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:58:06.96+01:00"
+  - name: Subject
+    type: text
+    data: Retrying requests
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Retrying requests
+  - name: Subject_disp
+    type: text
+    data: Retrying requests
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Requests
+      - Approver
+      - Retrying requests
+  - name: levelEntry
+    type: text
+    data: Retrying
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+GAAUAAAhXaGVu
+      IGEgcmVxdWVzdHMgaGFzIGJlZW4gcHJvY2Vzc2VkIG9uZSBvciBtb3JlIHRpbWVzIGFuZCBhbiBlcnJv
+      ciBvY2N1cnMsIHRoZSByZXF1ZXN0IGVuZHMgdXAgd2l0aCBhIHN0b3Agc2lnbiBpbiBmcm9udCBvZiBp
+      dC6BAoMEAQCF/5AABQAACElmIHRoZSBlcnJvciBjYW4gYmUgY29ycmVjdGVkIGFuZCB0aGUgcmVxdWVz
+      dCBzaG91bGQgYmUgcnVuIGFnYWluLCBhbiBhZG1pbmlzdHJhdG9yIG11c3QgZW5hYmxlIGl0IGFnYWlu
+      IGJ5IHByZXNzaW5nIHRoZSAiUmV0cnkiIGJ1dHRvbi6BAoMEAQCF/wgABQAACIECgwQBAIX/YAAFAAAI
+      VGhlIHJldHJ5IGJ1dHRvbiBjYW4gYmUgZm91bmQgaW4gdGhlICJOZXcgcmVxdWVzdHMiIHZpZXcgYW5k
+      IGluIGFsbCAiSW4gcHJvZ3Jlc3MiIHZpZXdzLoECgv9aAAIAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAA
+      gwQCAIX/CAAFAAAI
+remaining: []

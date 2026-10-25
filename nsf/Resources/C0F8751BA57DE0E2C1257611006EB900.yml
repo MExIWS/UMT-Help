@@ -1,0 +1,123 @@
+---
+class: 1
+flags: 0x0000
+unid: C0F8751BA57DE0E2C1257611006EB900
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 96E0E47DF692E834C1256E46005C6B9B
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 21001C9458A51228C1257611006EDDFA
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 21001C9458A51228C1257611006EDDFA
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-13T22:09:23.20+02:00"
+        dst: true
+      - data: "2009-08-13T22:09:35.12+02:00"
+        dst: true
+      - data: "2009-08-13T22:09:57.52+02:00"
+        dst: true
+      - data: "2009-08-13T22:10:10.12+02:00"
+        dst: true
+      - data: "2009-08-13T22:11:44.60+02:00"
+        dst: true
+      - data: "2009-08-13T22:12:19.53+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Overview\\UMTAdmin server task"
+      - "Requests\\UMTAdmin server task"
+      - "UMTAdmin\\UMTAdmin server task"
+      - "Admin\\UMTAdmin server task"
+      - "Server tasks\\UMTAdmin server task"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T14:14:21.43+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: UMTAdmin server task
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: UMTAdmin server task
+  - name: Subject_disp
+    type: text
+    data: UMTAdmin server task
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Overview
+      - Requests
+      - UMTAdmin
+      - Admin
+      - Server tasks
+  - name: levelEntry
+    type: text
+    data: UMTAdmin server task
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9CAAUAAAhUaGUg
+      VU1UQWRtaW4gc2VydmVyIHRhc2sgcGVyZm9ybXMgc2V2ZXJhbCBhZG1pbiBwcm9jZXNzZXM6gQKDBAEA
+      hf8IAAUAAAiBAoMEAQCF/ycABQAACEluaXRpYXRlIERlbGV0ZSB1c2VyIGluIGFkbWluUC4AgQKDBAEA
+      hf8nAAUAAAhJbml0aWF0ZSBSZW5hbWUgdXNlciBpbiBhZG1pblAuAIECgwQBAIX/JQAFAAAISW5pdGlh
+      dGUgTW92ZSB1c2VyIGluIGFkbWluUC4AgQKDBAEAhf8qAAUAAAhJbml0aWF0ZSBSZWNlcnRpZnkgdXNl
+      ciBpbiBhZG1pblAugQKDBAEAhf84AAUAAAhDaGFuZ2luZyBBQ0wgdmFsdWVzIG9mIG5ld2x5IGNyZWF0
+      ZWQgbWFpbCBmaWxlcy6BAoMEAQCF/zEABQAACENoYW5naW5nIHF1b3RhIG9uIGNsdXN0ZXJlZCBtYWls
+      IHNlcnZlcnMuAIECgwQBAIX/OAAFAAAIRGlzdHJpYnV0aW5nIGlkLWZpbGUgdG8gcm9hbWluZyB1c2Vy
+      cyAoRG9taW5vIDcpgQKDBAEAhf8IAAUAAAiBAoMEAQCF/zwABQAACFVNVEFkbWluIHJ1bnMgYWxsIHN1
+      YiBwcm9jZXNzZXMgYmVnaW5uaW5nIHdpdGggIlNUIi6BAoMEAQCF/wgABQAACIECgwQBAIX/OgAFAAAI
+      VGhlIHNlcnZlciB0YXNrIGlzIGxvYWRlZCBmcm9tIHRoZSBzZXJ2ZXIgY29uc29sZTqBAoMEAQCF/wgA
+      BQAACIECgwQBAIX/RgAFAQAIbG9hZCBVTVRBZG1pbiA8ZmlsZXBhdGggdG8gVU1UIE1haW4+IDxVTVQg
+      cmVnaXN0cmF0aW9uIHNlcnZlcj6BAoMEAQCF/28ABQAACElmIHRoZSBub3Rlcy5pbmkgZmlsZSBvbiB0
+      aGUgc2VydmVyLCBvbiB3aGljaCB0aGUgc2VydmVyIHRhc2sgaXMgcnVubmluZywgaXMgdXBkYXRlZCB3
+      aXRoIHRoZSBrZXl3b3JkczoAgQKDBAEAhf8lAAUAAAgkdW10RGJQYXRoPTxwYXRoIHRvIFVNVCBNYWlu
+      PgCBAoMEAQCF/y0ABQAACCR1bXRTZXJ2ZXI9PFJlZ2lzdHJhdGlvbiBzZXJ2ZXIgbmFtZT4AgQKDBAEA
+      hf8mAAUAAAhVTVRBZG1pbiBjb3VsZCBiZSBsb2FkZWQgdXNpbmeBAoMEAQCF/xUABQEACGxvYWQgVU1U
+      QWRtaW4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/yUABQAACFRoZSBzZXJ2ZXIgaXMgdW5sb2FkZWQgdXNp
+      bmc6AIECgwQBAIX/CAAFAAAIgQKDBAEAhf8aAAUBAAh0ZWxsIFVNVEFkbWluIHF1aXSBAoMEAQCF/wgA
+      BQAACIECgwQBAIX/CAABAAAKyf8QAAQAAABkABwA/////4X/CAAFAAAIgQKDBAEAhf8XAAUAAAhSZWxh
+      dGVkIHRvcGljczoA3QYAAK3/fv8MACAACAAAAAAA9v9ZAAAAAAACAAEAAAAAAD0AAAAAAAAAAABEYXRh
+      YmFzZSAnVU1UIEhlbHAgNi41IDA0MDgxOCcsIFZpZXcgJ0luZGV4JywgRG9jdW1lbnQgJ1VuaXQnAAAA
+      rf8MAAsACAAAAAAA3QYAAJH/kf9GAAEARGF0YWJhc2UgJ1VNVCBIZWxwIDYuNSAwNDA4MTgnLCBWaWV3
+      ICdJbmRleCcsIERvY3VtZW50ICdVbml0JwAAAN4GAACR/90GAACF/4X/CAAFAAQI0ggBAAAA/wDeBgAA
+      hf+uAt4GAACuAN0GAACF/4X/CAAFAAQI0ggBAAAA/wDeBgAAhf+BAoMEAQDdBgAAhf+F/wgABQAECNII
+      AQAAAP8A3gYAAIX/3QYAAK3/fv8MACAACAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAAAAACAK3/
+      DAALAAgAAAAAAN0GAACR/5H/CQADAAAAAADeBgAAkf/dBgAAhf+F/xMABQAECFN1YiBwcm9jZXNzANII
+      CQAAAP8A3gYAAIX/rgLeBgAArgDdBgAAhf+F/wgABQAECNIIAQAAAP8A3gYAAIX/gQKDBAEA3QYAAIX/
+      hf8IAAUABAjSCAEAAAD/AN4GAACF/w==
+remaining: []

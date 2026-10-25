@@ -1,0 +1,123 @@
+---
+class: 1
+flags: 0x0100
+unid: C88535886EA49D15C1257610006E3303
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 86C8F6B8BA8C8746C125761000529001
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 86C8F6B8BA8C8746C125761000529001
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-12T22:03:40.19+02:00"
+        dst: true
+      - data: "2009-08-12T22:04:05.06+02:00"
+        dst: true
+      - data: "2009-08-12T22:04:19.94+02:00"
+        dst: true
+      - data: "2009-08-12T22:04:25.81+02:00"
+        dst: true
+      - data: "2009-08-12T22:04:44.15+02:00"
+        dst: true
+      - data: "2009-08-12T22:05:01.74+02:00"
+        dst: true
+      - data: "2009-08-12T22:12:11.85+02:00"
+        dst: true
+      - data: "2009-08-12T22:12:30.99+02:00"
+        dst: true
+      - data: "2009-08-12T22:12:49.41+02:00"
+        dst: true
+      - data: "2009-08-12T22:13:03.22+02:00"
+        dst: true
+      - data: "2009-08-12T22:14:26.43+02:00"
+        dst: true
+      - data: "2009-08-12T22:14:45.35+02:00"
+        dst: true
+      - data: "2009-08-12T22:15:01.14+02:00"
+        dst: true
+      - data: "2009-08-17T11:38:02.41+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Id-files\\InstantPasswordReset agent"
+      - "ID Vault\\InstantPasswordReset agent"
+      - "Password recovery\\InstantPasswordReset agent"
+      - "Agents\\InstantPasswordReset agent"
+  - name: OriginalModTime
+    type: time
+    data: "2006-07-10T13:07:23.55+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: Password change through InstantPasswordReset agent
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Password change through InstantPasswordReset agent
+  - name: Subject_disp
+    type: text
+    data: Password change through InstantPasswordReset agent
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Id-files
+      - ID Vault
+      - Password recovery
+      - Agents
+  - name: levelEntry
+    type: text
+    data: InstantPasswordReset agent
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/dAAUAAAhUaGUg
+      cGFzc3dvcmRzIGluIElEIFZhdWx0IGNhbiBiZSBjaGFuZ2VkIGluc3RhbnRseSBieSB1c2luZyB0aGUg
+      IlBhc3N3b3JkIHJlc2V0IGF1dGhvcml0eSIuIEFueSBzaWduZXIgaWQgY2FuIGJlIHVzZWQgYXMgYXMg
+      cGFzc3dvcmQgcmVzZXQgYXV0aG9yaXR5IGFuZCBpdCBjYW4gYmUgZW5hYmxlZCB0aHJvdWdoIHRoZSBJ
+      RCBWYXVsdCBjb25maWd1cmF0aW9uIHdpemFyZC4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/ycBBQAACElu
+      IG9yZGVyIHRvIG1ha2UgVU1UIGluIGNvbmp1bmN0aW9uIHdpdGggSUQgVmF1bHQgYXMgc2VjdXJlIGFz
+      IHBvc3NpYmxlLCBhbGwgcGFzc3dvcmQgY2hhbmdlIGZ1bmN0aW9uYWxpdHkgaXMgd3JpdHRlbiBpbnRv
+      IGEgc3BlY2lhbCBhZ2VudCwgY2FsbGVkIHRoZSAiKEluc3RhbnRQYXNzd29yZFJlc2V0KSIgYWdlbnQu
+      IFRoaXMgYWdlbnQgcnVucyBvbiB0aGUgc2VydmVyLCBhbmQgaXMgY2FsbGVkIGVpdGhlciBmcm9tIHRo
+      ZSBVTVQgVUkgb3IgZnJvbSB0aGUgVU1URW5naW5lIHNlcnZlciBhZ2VudC4gAIECgwQBAIX/CAAFAAAI
+      gQKDBAEAhf8OAAUAAAhJdCBpcyCF/xYABQQACG1vc3QgaW1wb3J0YW50hf/8AAUAAAggZm9yIHRoZSBQ
+      YXNzd29yZCBjaGFuZ2UgZnVuY3Rpb25hbGl0eSB0aGF0IHRoaXMgYWdlbnQgaXMgc2lnbmVkIHdpdGgg
+      dGhlICJQYXNzd29yZCByZXNldCBhdXRob3JpdHkiIGlkIGFuZCBhbHNvIHRoYXQgdGhlIGlkIG9mIHRo
+      ZSBzZXJ2ZXIgb24gd2hpY2ggdGhlIGFnZW50IHJ1bnMgYWxzbyBpcyBhZGRlZCBhcyAiUGFzc3dvcmQg
+      cmVzZXQgYXV0aG9yaXR5IiBpbiB0aGUgSUQgVmF1bHQgY29uZmlndXJhdGlvbiB3aXphcmQugQKDBAEA
+      hf8IAAUAAAjJ/xAABAAAAGQAHAD/////hf8IAAUAAAiBAoMEAQCF/xcABQEACFJlbGF0ZWQgdG9waWNz
+      OgCBAoMEAQCF/wgABQAACN0GAACt/37/DAAgAAgAAAAAAPb/lwAAAAAAAgABAAAAHQBeAAAAAAAAAAAA
+      Q049SGFkZG9jay9PVT1EdmxwL089SW5mb3dhcmVEYXRhYmFzZSAnTlRGOiBVTVQgSGVscCA4LjUnLCBW
+      aWV3ICdJbmRleCcsIERvY3VtZW50ICdJbnN0YW50IHBhc3N3b3JkIGNoYW5nZS9wYXNzd29yZCBjaGFu
+      Z2UnAAAArf8MAAsACAAAAAAA3QYAAJH/kf+EAAEARGF0YWJhc2UgJ05URjogVU1UIEhlbHAgOC41Jywg
+      VmlldyAnSW5kZXgnLCBEb2N1bWVudCAnSW5zdGFudCBwYXNzd29yZCBjaGFuZ2UvcGFzc3dvcmQgY2hh
+      bmdlJwBDTj1IYWRkb2NrL09VPUR2bHAvTz1JbmZvd2FyZQAA3gYAAJH/3QYAAIX/hf8XAAUABAhQYXNz
+      d29yZCBjaGFuZ2UA0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

@@ -1,0 +1,97 @@
+---
+class: 1
+flags: 0x0100
+unid: 88C5790B2F82476AC1257615003472F3
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T11:32:52.99+02:00"
+        dst: true
+      - data: "2009-08-17T20:33:42.68+02:00"
+        dst: true
+      - data: "2009-08-18T09:20:38.61+02:00"
+        dst: true
+      - data: "2010-01-22T16:12:36.03+01:00"
+      - data: "2010-01-22T16:12:54.13+01:00"
+      - data: "2010-01-22T16:13:08.67+01:00"
+      - data: "2010-02-15T17:41:46.34+01:00"
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Unit configuration\\Password recovery group/role"
+      - "Units\\Password recovery group/role"
+      - "Groups\\Password recovery group/role"
+      - "Password recovery group\\Password recovery group/role"
+      - "IDRecovery role\\Password recovery group/role"
+      - "Roles\\Password recovery group/role"
+  - name: Subject
+    type: text
+    data: Password recovery group/role
+  - name: SubjectNumber
+    type: text
+    data: ""
+  - name: SubjectText
+    type: text
+    data: Password recovery group/role
+  - name: Subject_disp
+    type: text
+    data: Password recovery group/role
+  - name: View
+    type: text
+    data: ""
+  - name: entries
+    type: text
+    data:
+      - Unit configuration
+      - Units
+      - Groups
+      - Password recovery group
+      - IDRecovery role
+      - Roles
+  - name: levelEntry
+    type: text
+    data: Password recovery group/role
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+BAAUAAAhJbiBt
+      YW55IG9yZ2FuaXphdGlvbnMsIHRoZSBTZXJ2aWNlIERlc2sgb3IgdGhlIFN1cHBvcnQgTGluZSBpcyBy
+      ZXNwb25zaWJsZSBmb3IgcGVyZm9ybWluZyBQYXNzd29yZCByZWNvdmVyeSBvbiB0aGUgdXNlcnMuAIEC
+      gwQBAIX/CAAFAAAIgQKDBAEAhf8DAQUAAAhUaGUgIlBhc3N3b3JkIHJlY292ZXJ5IGdyb3VwIiBzZXR0
+      aW5nIGNhbiBiZSB1c2VkIGZvciB0aGlzIHB1cnBvc2UsIGluIGNvbmp1bmN0aW9uIHdpdGggdGhlICJb
+      SURSZWNvdmVyeV0iIHJvbGUsIGdpdmluZyB0aGUgU2VydmljZSBEZXNrIHN0YWZmIHRoZSBwcm9wZXIg
+      cm9sZSB0byBjcmVhdGUgIlBhc3N3b3JkIHJlY292ZXJ5IiByZXF1ZXN0cywgYW5kIHRoZSBwcm9wZXIg
+      YWNjZXNzIHRvIG9uZSBvciBtb3JlIHVuaXQgZG9jdW1lbnRzLgCBAoMEAQCF/wgABQAACIECgwQBAIX/
+      kQAFAAAIVGhlICJQYXNzd29yZCByZWNvdmVyeSBncm91cCIgY2FuIGJlIGFkZGVkIGludG8gdGhlIHVu
+      aXQgZG9jdW1lbnRzIGluIFVNVCBLZXl3b3JkcywgZ2l2aW5nIHRoZSBncm91cCBtZW1iZXJzIGFjY2Vz
+      cyB0byB0aGUgdW5pdCBkb2N1bWVudC4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/ywABQEACEVuYWJsaW5n
+      IHRoZSBQYXNzd29yZCByZWNvdmVyeSBncm91cIECgv9aAAIAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAA
+      gwQCAIX/EQAFAAAIVU1UIE1haW46AIECgv9aAAMAAAAAAAAAAAAkCKIjJAgAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACGBQAAAABUhGgBAABoAQAAAAAAAAEAAAAEAAAAgwQDAIX/
+      fAAFAAAIQWRkIHRoZSBwZW9wbGUgdGhhdCBzaG91bGQgYmUgcHJlZm9ybWluZyBQYXNzd29yZCByZWNv
+      dmVyeSB0byBhIGdyb3VwIHdpdGggYXV0aG9yIGFjY2VzcyBhbmQgdGhlIHJvbGUgW0lEUmVjb3Zlcnld
+      LgCBAoMEAgCF/xUABQAACFVNVCBLZXl3b3JkczoAgQKDBAMAhf85AAUAAAhBZGQgdGhlIHNhbWUgZ3Jv
+      dXAgaW4gdGhlIEFDTCB3aXRoIGF1dGhvciBhY2Nlc3MuAIECgwQDAIX/ewAFAAAISWYgdGhpcyBncm91
+      cCBzaG91bGQgYmUgYWJsZSB0byBwZXJmb3JtIFBhc3N3b3JkIHJlY292ZXJ5IG9uIGFsbCB1c2Vycywg
+      Z2l2ZSB0aGUgZ3JvdXAgdGhlIFtBZG1pbl0gcm9sZSBpbiB0aGUgQUNMLgCBAoMEAwCF/9EABQAACElm
+      IGRpZmZlcmVudCB1bml0cyBzaG91bGQgaGF2ZSBhY2Nlc3MgdG8gZGlmZmVyZW50IHVuaXRzLCBhZGQg
+      dGhlIHByb3BlciBzdWIgZ3JvdXAgYXMgIlBhc3N3b3JkIHJlY292ZXJ5IGdyb3VwIiBpbiB0aGUgdW5p
+      dCBkb2N1bWVudHMuIE1ha2Ugc3VyZSB0aGF0IHRoZSBzdWIgZ3JvdXBzIGFyZSBtZW1iZXJzIG9mIHRo
+      ZSBncm91cCBpbiB0aGUgQUNMLgCBAoMEAQCF/wgABQAACA==
+remaining: []

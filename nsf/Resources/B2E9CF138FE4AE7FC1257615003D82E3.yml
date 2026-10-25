@@ -1,0 +1,102 @@
+---
+class: 1
+flags: 0x0100
+unid: B2E9CF138FE4AE7FC1257615003D82E3
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 883FB39CD2595A5FC12576150032014B
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 883FB39CD2595A5FC12576150032014B
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:11:52.17+02:00"
+        dst: true
+      - data: "2009-08-17T13:34:40.88+02:00"
+        dst: true
+      - data: "2009-08-17T13:44:45.41+02:00"
+        dst: true
+      - data: "2009-08-17T14:14:24.92+02:00"
+        dst: true
+      - data: "2009-08-17T14:15:44.98+02:00"
+        dst: true
+      - data: "2009-08-17T14:15:52.40+02:00"
+        dst: true
+      - data: "2009-08-17T17:38:25.04+02:00"
+        dst: true
+      - data: "2009-08-17T17:38:47.77+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: RA User Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Change mail file settings\\Change mail file settings"
+      - "Mail file settings\\Change mail file settings"
+      - "Admin requests\\Change mail file settings"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:33:39.02+01:00"
+  - name: Subject
+    type: text
+    data: 6.2.1 Change mail file settings request
+  - name: SubjectNumber
+    type: text
+    data: 6.2.1
+  - name: SubjectText
+    type: text
+    data: Change mail file settings request
+  - name: Subject_disp
+    type: text
+    data: "6.2.1\tChange mail file settings request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Change mail file settings
+      - Mail file settings
+      - Admin requests
+  - name: levelEntry
+    type: text
+    data: Change mail file settings
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9QAAUAAAhJZiB0
+      aGUgbWFpbCBmaWxlIHF1b3RhIHNob3VsZCBiZSBjaGFuZ2VkIG9uIHRoZSBuZXcgdXNlcidzIG1haWwg
+      ZmlsZSwgYSCF/yEABQEACENoYW5nZSBtYWlsIGZpbGUgc2V0dGluZ3MAhf9uAAUAAAggcmVxdWVzdCBp
+      cyBjcmVhdGVkIGF1dG9tYXRpY2FsbHkgd2hlbiB0aGUgTmV3IHVzZXIgcmVxdWVzdCBpcyBwcm9jZXNz
+      ZWQuIFRoaXMgcmVxdWVzdCBhcHBlYXJzIGluIHRoZSCF/xQABQEACE5ldyByZXF1ZXN0c4X/OwAFAAAI
+      IHZpZXcgYWZ0ZXIgdGhlIHByb2Nlc3Npbmcgb2YgdGhlIE5ldyB1c2VyIHJlcXVlc3QuAIECgwQBAIX/
+      YwAFAAAIVGhlIHJlcXVlc3QgY2hhbmdlcyBxdW90YSBvbiB0aGUgbWFpbCBmaWxlIGFuZCBhbGwgcmVw
+      bGljYXMsIG9uY2UgdGhlIG1haWwgZmlsZSBpcyBjcmVhdGVkLgCBAoMEAQCF/wgABQAACIECgwQBAIX/
+      bgAFAAAIVGhlIGVmZmVjdGl2ZSBkYXRlIG9mIHRoaXMgcmVxdWVzdCBpcyBkZXBlbmRpbmcgb2YgdGhl
+      IFVNVCBDb25maWd1cmF0aW9uLCBhcyB3ZWxsIGFzIHRoZSBxdW90YSBjaGFuZ2UugQKDBAEAhf8IAAUA
+      AAiBAoMEAQCF/5IABQIACE5vdGU6IElmIHRoaXMgdW5pdCBpcyBzZXQgdG8gIkFkbWluaXN0cmF0b3Ig
+      bmVlZHMgdG8gYXBwcm92ZSByZXF1ZXN0cyIsIHRoaXMgcmVxdWVzdCBuZWVkcyB0byBiZSBhcHByb3Zl
+      ZCBhcyB3ZWxsIGFzIHRoZSBOZXcgdXNlciByZXF1ZXN0LoECgwQBAIX/CAAFAgAIgQKDBAEAhf8IAAUA
+      AAjJ/xAABAAAAGQAHAD/////hf8IAAUAAAiBAoMEAQCF/xcABQAACFJlbGF0ZWQgdG9waWNzOgCBAoME
+      AQCF/wgABQAACN0GAACt/37/DAAgAAgAAAAAAPb/HAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAACt/wwA
+      CwAIAAAAAADdBgAAkf+R/wkAAQAAAAAA3gYAAJH/3QYAAIX/hf8VAAUABAhTZXR0aW5nIHF1b3RhANII
+      CQAAAP8A3gYAAIX/rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []

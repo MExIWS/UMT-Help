@@ -1,0 +1,67 @@
+---
+class: 1
+flags: 0x0100
+unid: ACD4543EAC4D4D92C12576100070DC89
+items:
+  - name: $Revisions
+    type: time
+    data: "2009-08-12T22:32:44.97+02:00"
+    dst: true
+  - name: Book
+    type: text
+    data: UMT Mail-in Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Mail-in distribution\\UMT Mail-in"
+      - "Id-file distribution\\UMT Mail-in"
+      - "Id-files\\UMT Mail-in"
+      - "UMT Mail-in\\UMT Mail-in"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:57:16.64+01:00"
+  - name: Subject
+    type: text
+    data: 4.1 The Super Administrator
+  - name: SubjectNumber
+    type: text
+    data: "4.1"
+  - name: SubjectText
+    type: text
+    data: The Super Administrator
+  - name: Subject_disp
+    type: text
+    data: "4.1\tThe Super Administrator"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Mail-in distribution
+      - Id-file distribution
+      - Id-files
+      - UMT Mail-in
+  - name: levelEntry
+    type: text
+    data: UMT Mail-in
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf/jAAUAAAhUaGUg
+      U3VwZXIgYWRtaW5pc3RyYXRvciBpcyByZXNwb25zaWJsZSBmb3IgY29uZmlndXJpbmcgdGhlIFVNVCBN
+      YWlsLWluIGFwcGxpY2F0aW9uIGFuZCBmb3IgbWFuYWdpbmcgdGhlIGFnZW50cyBoYW5kbGluZyByZW1v
+      dmluZyBhbmQgZGlzYWJsaW5nIGlkLWZpbGVzLiBGb3IgbW9yZSBpbmZvcm1hdGlvbiwgcmVhZCB0aGUg
+      aW5zdGFsbGF0aW9uIGNoYXB0ZXIgaW4gdGhpcyBndWlkZS4AgQKDBAEAhf8IAAUAAAg=
+remaining: []

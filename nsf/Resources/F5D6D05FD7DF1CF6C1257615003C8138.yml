@@ -1,0 +1,112 @@
+---
+class: 1
+flags: 0x0000
+unid: F5D6D05FD7DF1CF6C1257615003C8138
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: F8C67FAAAE7F39BCC125760D006E0DE8
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: F8C67FAAAE7F39BCC125760D006E0DE8
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: ACFE78B1DC9D7846C1256F1F0028B18B
+      - dst: true
+        File: "2009-07-01T16:27:15.13+02:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: ACFE78B1DC9D7846C1256F1F0028B18B
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 832BB9A0D1D4D69BC125761500349C27
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: 89D3962EFD85426F85256B870069C0AA
+        Note: 832BB9A0D1D4D69BC125761500349C27
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-17T13:00:52.52+02:00"
+        dst: true
+      - data: "2009-08-17T13:07:47.44+02:00"
+        dst: true
+      - data: "2009-08-17T13:08:08.73+02:00"
+        dst: true
+      - data: "2009-08-17T15:23:50.59+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: User Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "External source\\External source requests"
+      - "External requests\\External source requests"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-25T12:48:25.46+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 2.5 External requests
+  - name: SubjectNumber
+    type: text
+    data: "2.5"
+  - name: SubjectText
+    type: text
+    data: External requests
+  - name: Subject_disp
+    type: text
+    data: "2.5\tExternal requests"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - External source
+      - External requests
+  - name: levelEntry
+    type: text
+    data: External source requests
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf+BAAUAAAhVTVQg
+      Y2FuIHJlY2VpdmUgaW5mb3JtYXRpb24gZnJvbSBhbiBleHRlcm5hbCBzb3VyY2UsIHVzaW5nIHRoaXMg
+      aW5mb3JtYXRpb24gdG8gY3JlYXRlIG5ldyB1c2VycyBhbmQgdXNlciBhY2NvdW50IGNoYW5nZXMuAIEC
+      gwQBAIX/CAAFAAAIgQKDBAEAhf+oAAUAAAhBdCBhcnJpdmFsLCBleHRlcm5hbCByZXF1ZXN0cyBlbmQg
+      dXAgaW4gdGhlICJFeHRlcm5hbCIgdmlldyB3aGVyZSB0aGV5IGFyZSBjaGVja2VkIHRocm91Z2hseSBi
+      eSB0aGUgVU1URXh0ZXJuYWwgYWdlbnQuIFJlcXVlc3RzIHBhc3NpbmcgdGhlIGNoZWNrIGVuZCB1cCBp
+      biB0aGUghf8ZAAUBAAhOZXcgcmVxdWVzdHMgdmlldwCF/08ABQAACCBmb3IgcHJvY2Vzc2luZywgaWYg
+      bm90LCB0aGUgcmVxdWVzdCBpcyBzdG9wcGVkIGluIHRoZSAiRXh0ZXJuYWwiIHZpZXcuAIECgwQBAIX/
+      hQAFAAAISWYgdGhlIGVycm9yIGNhbiBiZSBjb3JyZWN0ZWQsIHRoZSByZXF1ZXN0IGNhbiBiZSBydW4g
+      YWdhaW4gYnkgZW5hYmxpbmcgaXQgdGhyb3VnaCB0aGUgIlJldHJ5IiBidXR0b24gaW4gdGhlICJFeHRl
+      cm5hbCIgdmlldy4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/wgAAQAACsn/EAAEAAAAZAAcAP////+F/wgA
+      BQAACIECgwQBAIX/FwAFAQAIUmVsYXRlZCB0b3BpY3M6AIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAA
+      CAAAAAAA9v8cAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAK3/DAALAAgAAAAAAN0GAACR/5H/CQABAAAA
+      AADeBgAAkf/dBgAAhf+F/x8ABQAECEV4dGVybmFsIHJlcXVlc3RzIGlucHV0ANIICQAAAP8A3gYAAIX/
+      rgLeBgAArgCF/wgABQAACN0GAACt/37/DAAgAAgAAAAAAPb/ZgAAAAAAAgABAAAAAABKAAAAAAAAAAAA
+      RGF0YWJhc2UgJ1VNVCBIZWxwIDYuNSAwNDA4MTgnLCBWaWV3ICdJbmRleCcsIERvY3VtZW50ICdFeHRl
+      cm5hbCByZXF1ZXN0cycCAK3/DAALAAgAAAAAAN0GAACR/5H/UwADAERhdGFiYXNlICdVTVQgSGVscCA2
+      LjUgMDQwODE4JywgVmlldyAnSW5kZXgnLCBEb2N1bWVudCAnRXh0ZXJuYWwgcmVxdWVzdHMnAAAAAN4G
+      AACR/90GAACF/4X/CAAFAAQI0ggJAAAA/wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUA
+      AAjdBgAArf9+/wwAIAAIAAAAAAD2/xwAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAQArf8MAAsACAAAAAAA
+      3QYAAJH/kf8JAAUAAAAAAN4GAACR/90GAACF/4X/GQAFAAQIVU1URXh0ZXJuYWwgYWdlbnQA0ggJAAAA
+      /wDeBgAAhf+uAt4GAACuAIX/CAAFAAAIgQKDBAEAhf8IAAUAAAg=
+remaining: []

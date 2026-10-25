@@ -1,0 +1,96 @@
+---
+class: 1
+flags: 0x0000
+unid: 6ED80ADA122D5CB6C125760D006D8BE7
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T21:56:32.39+02:00"
+        dst: true
+      - data: "2009-08-09T21:57:59.15+02:00"
+        dst: true
+      - data: "2009-08-09T22:00:23.10+02:00"
+        dst: true
+      - data: "2009-08-09T22:16:46.50+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Setup\\UMT and existing organizations"
+      - "Upgrading\\UMT and existing organizations"
+      - "Migration\\UMT and existing organizations"
+      - "User types\\UMT and existing organizations"
+  - name: OriginalModTime
+    type: time
+    data: "2006-06-22T14:33:05.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 1.4 UMT and existing organizations
+  - name: SubjectNumber
+    type: text
+    data: "1.4"
+  - name: SubjectText
+    type: text
+    data: UMT and existing organizations
+  - name: Subject_disp
+    type: text
+    data: "1.4\tUMT and existing organizations"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Setup
+      - Upgrading
+      - Migration
+      - User types
+  - name: levelEntry
+    type: text
+    data: UMT and existing organizations
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf9gAAUAAAhXaXRo
+      IHNvbWUgcHJlcGFyYXRpb25zLCBtaWdyYXRpbmcgVU1UIGludG8gYW4gZXhpc3Rpbmcgb3JnYW5pemF0
+      aW9uIGlzIHF1aXQgZWFzaWx5IG1hZGUugQKDBAEAhf8IAAUAAAiBAoL/WgACAAAAAAAAAAAAJAiiIyQI
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhgUAAAAAVIRoAQAAaAEAAAAA
+      AAABAAAABAAAAIMEAgCF/6QABQAACERldGVybWluaW5nIG9yZ2FuaXphdGlvbiBzdHJ1Y3R1cmUAVGhl
+      IG9yZ2FuaXphdGlvbiBhbmQgaXRzIHN1YnNldHMgc2hvdWxkIGJlIGRlZmluZWQsIGFsb25nIHdpdGgg
+      Z3JvdXAgYmVsb25naW5ncyBhbmQgb3RoZXIga2V5d29yZHMgZm9yIGZ1dHVyZSBVTVQgdW5pdHMuAIEC
+      gwQCAIX/bgAFAAAIQ29sbGVjdGluZyBjZXJ0aWZpY2F0ZSBpZC1maWxlcwBBbGwgY2VydGlmaWNhdGVz
+      IHNob3VsZCBiZSBjb2xsZWN0ZWQgYW5kIGFkZGVkIHRvIHRoZSBVTVQgQ0EgZGF0YWJhc2UAgQKDBAIA
+      hf/mAAUAAAhDb2xsZWN0aW5nIHVzZXIgaWQtZmlsZXMAQWxsIGlkLWZpbGVzIHNob3VsZCBiZSBjb2xs
+      ZWN0ZWQsIHByZWZlcnJhYmx5IGJ5IHVzaW5nIHRoZSBVTVQgSUQgQ29sbGVjdG9yLCBhbmQgYWRkZWQg
+      dG8gdGhlIFVNVCBJRCBkYXRhYmFzZS4gVGhpcyBjb3VsZCBiZSBkb25lIGFsbCBhdCBvbmNlIG9yIG9u
+      ZSBieSBvbmUgd2hlbiB1c2VyIHJlcXVlc3RzIGFyZSBwZXJmb3JtZWQgaW4gVU1ULgCBAoMEAgCF/+wC
+      BQAACEFkZGluZyBrZXkgdmFsdWVzIGludG8gdGhlIHBlcnNvbiBkb2N1bWVudHMAVXNpbmcgYW55IHJl
+      cXVlc3QgaW4gVU1ULCB0aGUgdXNlciB0eXBlIGtleXdvcmQgaXMgYWx3YXlzIGxvb2tlZCB1cCBpbiB0
+      aGUgRG9taW5vIERpcmVjdG9yeS4gRm9yIHRoaXMgcmVhc29uIHRoZSB1c2VyIHR5cGUgc2hvdWxkIGJl
+      IGFkZGVkIHRvIGFsbCBleGlzdGluZyBwZXJzb24gZG9jdW1lbnRzIGJlZm9yZSBzdGFydGluZyB0byB1
+      c2UgVU1ULiBVc2VycyBtYWRlIHdpdGggVU1UIGFscmVhZHkgaGFzIHRoaXMga2V5d29yZC4AVXNlIGFu
+      IGFnZW50IHRvIHNldCBpd3NVc2VydHlwZSB0bzoAUmVndWxhciBOb3RlcyB1c2VyIHdpdGggaWQtZmls
+      ZSBhbmQgbWFpbCBmaWxlOiBpd3NVc2VydHlwZSA9ICIwIgBXZWIgdXNlciB3aXRoIGlkLWZpbGUgYW5k
+      IG1haWwgZmlsZTogICAgICAgICAgICAgICBpd3NVc2VydHlwZSA9ICIxIgBXZWIgdXNlciB3aXRoIGlk
+      LWZpbGUgbm8gbWFpbCBmaWxlOiAgICAgICAgICAgICAgICAgaXdzVXNlcnR5cGUgPSAiMiIAV2ViIHVz
+      ZXIgbm8gaWQtZmlsZSB3aXRoIG1haWwgZmlsZTogICAgICAgICAgICAgICAgIGl3c1VzZXJ0eXBlID0g
+      IjMiAFdlYiB1c2VyIG5vIGlkLWZpbGUgbm8gbWFpbCBmaWxlOiAgICAgICAgICAgICAgICAgICBpd3NV
+      c2VydHlwZSA9ICI0IgBOb3RlcyB1c2VyIHdpdGhvdXQgbWFpbCBmaWxlOiAgICAgICAgICAgICAgICAg
+      ICAgICAgIGl3c1VzZXJ0eXBlID0gIjUigQKDBAEAhf8IAAUAAAg=
+remaining: []

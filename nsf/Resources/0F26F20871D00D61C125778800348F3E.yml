@@ -1,0 +1,87 @@
+---
+class: 1
+flags: 0x0000
+unid: 0F26F20871D00D61C125778800348F3E
+items:
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2010-08-23T11:34:05.42+02:00"
+        dst: true
+      - data: "2010-08-23T11:34:33.01+02:00"
+        dst: true
+      - data: "2010-08-23T11:34:46.02+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: Overview
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data:
+      - "Using\\Password recovery overview"
+      - "Password recovery\\Password recovery overview"
+  - name: OriginalModTime
+    type: time
+    data: "2005-08-24T16:31:24.62+02:00"
+    dst: true
+  - name: Subject
+    type: text
+    data: 4.4 Password recovery request
+  - name: SubjectNumber
+    type: text
+    data: "4.4"
+  - name: SubjectText
+    type: text
+    data: Password recovery request
+  - name: Subject_disp
+    type: text
+    data: "4.4\tPassword recovery request"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data:
+      - Using
+      - Password recovery
+  - name: levelEntry
+    type: text
+    data: Password recovery overview
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhwAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8TAQUAAAhUaGUg
+      IlBhc3N3b3JkIHJlY292ZXJ5IiByZXF1ZXN0IHNlbmRzIGEgY29weSBvZiB0aGUgSUQgZmlsZSBhbmQv
+      b3IgdGhlIHBhc3N3b3JkIHRvIGJlIHByb3ZpZGVkIHRvIHRoZSB1c2VyLiBEaXN0cmlidXRpb24gb2Yg
+      dGhpcyBkYXRhIGlzIG5ldmVyIGRvbmUgdG8gdGhlIHVzZXIgZGlyZWN0bHkgLSBpdCBpcyBzZW50IGVp
+      dGhlciB0byBvbmUgb3IgdHdvIG5hbWVkIGNvbGxlYWd1ZXMgb3IgdG8gYSBkZWRpY2F0ZWQgTWFpbGlu
+      IGRhdGFiYXNlIChVTVQgTWFpbGluKS4AgQKDBAEAhf8IAAUAAAiBAoMEAQCF/8QABQAACFBhc3N3b3Jk
+      IHJlY292ZXJ5IGNhbiBjb25jZXJuIHRoZSBJRCBmaWxlIG9ubHksIHRoZSBIVFRQIHBhc3N3b3JkIG9u
+      bHksIG9yIGJvdGguIElmIGEgSFRUUCBwYXNzd29yZCBpcyByZXF1ZXN0ZWQsIHRoZSBIVFRQIHBhc3N3
+      b3JkIGlzIGNoYW5nZWQgaW4gdGhlIHBlcnNvbiBkb2N1bWVudCBhbmQgdGhlbiBkaXN0cmlidXRlZC4g
+      gQKDBAEAhf8IAAUAAAiBAoMEAQCF/90ABQAACFVNVCBjYW4gYmUgY29uZmlndXJlZCB0byBhbHdheXMg
+      Y2hhbmdlIHRoZSBJRCBmaWxlIHBhc3N3b3JkIGluIFVNVCBJRCB3aGVuIHRoZSBJRCBmaWxlIGlzIGRp
+      c3RyaWJ1dGVkLiBUaGlzIGZlYXR1cmUgaXMgbWFpbmx5IGNvbnN0cnVjdGVkIHRvIGF2b2lkIHBhc3N3
+      b3JkIGxvY2tvdXRzIG9uIElEIGZpbGUgY29waWVzIHN0b3JlZCBpbiB0aGUgVU1UIElEIGRhdGFiYXNl
+      LgCBAoMEAQCF/wgABQAACIECgwQBAIX/DgEFAAAISWYgSUQgVmF1bHQgaXMgZW5hYmxlZCBvbiB0aGUg
+      RG9taW5vIHNlcnZlciBhbmQgaW4gVU1ULCB0aGUgIkluc3RhbnQgcGFzc3dvcmQgcmVjb3ZlcnkiIGNh
+      biBiZSB1c2VkLiBUaGlzIG5ldyBjbGllbnQgYmFzZWQgZmVhdHVyZSBjaGFuZ2VzIHRoZSBwYXNzd29y
+      ZCBpbiBJRCBWYXVsdCBpbW1lZGlhdGVseSBhbmQgbWFrZXMgaXQgcG9zc2libGUgdG8gcHJvdmlkZSB0
+      aGUgdXNlciB3aXRoIGEgbmV3IHBhc3N3b3JkIGluIGEgbWF0dGVyIG9mIHNlY29uZHMuIIECgwQBAIX/
+      CAAFAAAIgQKDBAEAhf/zAAUAAAhJZiBhIG5vcm1hbCBwYXNzd29yZCByZWNvdmVyeSBpcyBjYXJyaWVk
+      IG91dCBvbiBhbiBJRCBmaWxlIHdoZW4gSUQgVmF1bHQgaXMgZW5hYmxlZCwgdGhlIElEIGZpbGUgY29w
+      eSBpbiB0aGUgSUQgVmF1bHQgaXMgY2hhbmdlZCBhbmQgdGhlIHBhc3N3b3JkIGlzIGRpc3RyaWJ1dGVk
+      LiBJbiB0aGF0IGNhc2UgdGhlIElEIGZpbGUgaXMgbm90IGRpc3RyaWJ1dGVkIHRocm91Z2ggdGhlIG5v
+      cm1hbCBwcm9jZWR1cmUuAIECgwQBAIX/CAAFAAAI
+remaining: []

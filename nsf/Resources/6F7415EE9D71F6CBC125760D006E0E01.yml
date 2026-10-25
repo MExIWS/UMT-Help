@@ -1,0 +1,91 @@
+---
+class: 1
+flags: 0x0000
+unid: 6F7415EE9D71F6CBC125760D006E0E01
+items:
+  - name: $Links
+    type: notelnk
+    data:
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 61349FD3EFFBF327C125760D006DD112
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 61349FD3EFFBF327C125760D006DD112
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 7A094603074252AAC125760D006E0DFB
+      - File: "2015-03-10T14:49:21.09+01:00"
+        View: B3266A3C17F9BB7085256B870069C0A9
+        Note: 7A094603074252AAC125760D006E0DFB
+    nonsummary: true
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2009-08-09T22:02:05.77+02:00"
+        dst: true
+      - data: "2009-08-09T22:02:32.17+02:00"
+        dst: true
+      - data: "2009-08-09T22:24:21.61+02:00"
+        dst: true
+      - data: "2009-08-13T22:17:54.29+02:00"
+        dst: true
+  - name: Book
+    type: text
+    data: UMT Administrators Guide
+  - name: Form
+    type: text
+    data: MainHelp
+  - name: Index_Entries
+    type: text
+    data: "UMT CA\\UMT CA"
+  - name: OriginalModTime
+    type: time
+    data: "2005-03-17T13:46:14.18+01:00"
+  - name: Subject
+    type: text
+    data: 2.1.3 UMT CA
+  - name: SubjectNumber
+    type: text
+    data: 2.1.3
+  - name: SubjectText
+    type: text
+    data: UMT CA
+  - name: Subject_disp
+    type: text
+    data: "2.1.3\tUMT CA"
+  - name: View
+    type: text
+    data: Contents
+  - name: entries
+    type: text
+    data: UMT CA
+  - name: levelEntry
+    type: text
+    data: UMT CA
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZWZXJkYW5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: Body
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: |
+      gv9aAAEAAAAAAAAAAAC8BqIjvAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AACGAQAAAABUhAAAAAAAAAAAAAAAAAEAAAAEAAAAgwQBAIX/CAAFAAAIgQKDBAEAhf8cAAUAAAhVTVQg
+      Q0EgY29udGFpbnMgYWxsIIX/HAAFAQAIY2VydGlmaWNhdGUgaWQtZmlsZXOF/7AABQAACCB1c2VkIGJ5
+      IFVNVC4gVGhlIGRvY3VtZW50cyBpbiB0aGlzIGRhdGFiYXNlIGFyZSBlbmNyeXB0ZWQgd2l0aCBhbiBl
+      bmNyeXB0aW9uIGtleSwgYW5kIHRoZSBzZW5zaWJsZSBpbmZvcm1hdGlvbiBjYW4gb25seSBiZSByZWFk
+      IGJ5IHBlcnNvbnMgaG9sZGluZyB0aGF0IGVuY3J5cHRpb24ga2V5LoECgwQBAIX/CAAFAAAIgQKDBAEA
+      hf+UAAUAAAhUaGUgb25seSBwZXJzb25zIHRoYXQgc2hvdWxkIGhhdmUgdGhlIGVuY3J5cHRpb24ga2V5
+      LCBhcmUgdGhvc2Ugd2hvIHNob3VsZCBjcmVhdGUgbmV3IHVuaXRzIG9yIGluc2VydCBjZXJ0aWZpY2F0
+      ZXMgaW50byB0aGUgVU1UIENBIGRhdGFiYXNlLoECgwQBAIX/CAAFAAAIyf8QAAQAAABkABwA/////4X/
+      CAAFAAAIgQKDBAEAhf8XAAUBAAhSZWxhdGVkIHRvcGljczoAgQKDBAEAhf8IAAUAAAjdBgAArf9+/wwA
+      IAAIAAAAAAD2/xwAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAArf8MAAsACAAAAAAA3QYAAJH/kf8JAAEA
+      AAAAAN4GAACR/90GAACF/4X/FwAFAAQIRW5jcnlwdGlvbiBrZXlzANIICQAAAP8A3gYAAIX/rgLeBgAA
+      rgCF/wgABQAACIECgwQBAIX/CAAFAAAI3QYAAK3/fv8MACAACAAAAAAA9v8cAAAAAAACAAEAAAAAAAAA
+      AAAAAAAAAAACAK3/DAALAAgAAAAAAN0GAACR/5H/CQADAAAAAADeBgAAkf/dBgAAhf+F/xoABQAECFVu
+      aXQgY29uZmlndXJhdGlvbtIICQAAAP8A3gYAAIX/rgLeBgAArgCF/wgABQAACIECgwQBAIX/CAAFAAAI
+remaining: []
